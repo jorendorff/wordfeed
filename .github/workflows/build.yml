@@ -1,0 +1,38 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.14.3"
+
+      - name: Build APK
+        run: gradle assembleDebug --stacktrace
+
+      - name: Publish APK as the "latest" release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp app/build/outputs/apk/debug/app-debug.apk wordfeed.apk
+          gh release delete latest --yes --cleanup-tag || true
+          gh release create latest wordfeed.apk \
+            --title "Wordfeed build ${{ github.run_number }}" \
+            --notes "Built from ${{ github.sha }}" \
+            --target "${{ github.sha }}"

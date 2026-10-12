@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- An open book. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFF8E7"
+        android:pathData="M53,41 C45,36 37,35 30,37 L30,71 C37,69 45,70 53,75 Z" />
+    <path
+        android:fillColor="#FFF8E7"
+        android:pathData="M55,41 C63,36 71,35 78,37 L78,71 C71,69 63,70 55,75 Z" />
+</vector>
