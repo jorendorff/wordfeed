@@ -1,0 +1,200 @@
+@font-face {
+  font-family: "Literata";
+  src: url("fonts/literata-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Literata";
+  src: url("fonts/literata-latin-400-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Literata";
+  src: url("fonts/literata-latin-600-normal.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Literata";
+  src: url("fonts/literata-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Keep these in sync with the Compose colors in Theme.kt. */
+:root {
+  --bg: #fbf8f2;
+  --text: #1f1b16;
+  --muted: #6b6257;
+  --accent: #8a3b12;
+  --rule: #e4dccf;
+  --card: #f3eee4;
+  color-scheme: light;
+}
+html.dark {
+  --bg: #15130f;
+  --text: #ece6da;
+  --muted: #a89e8e;
+  --accent: #eaa47c;
+  --rule: #302b24;
+  --card: #1e1b16;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: "Literata", Georgia, serif;
+  font-size: 17px;
+  line-height: 1.55;
+  -webkit-text-size-adjust: 100%;
+  overflow-wrap: break-word;
+}
+
+main {
+  padding: 20px 20px 48px;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+/* ---- the entry ---- */
+
+.kicker {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 4px;
+}
+
+.headword {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 1.1;
+  margin: 4px 0 6px;
+  letter-spacing: -0.01em;
+}
+
+.sub {
+  color: var(--muted);
+  font-style: italic;
+  margin: 0 0 4px;
+}
+
+.date {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 0 0 16px;
+}
+
+.body { margin-top: 16px; }
+.body > :first-child { margin-top: 0; }
+
+.body h1, .body h2, .body h3, .body h4, .body h5, .body h6 {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 24px 0 6px;
+}
+
+.body p { margin: 0 0 12px; }
+.body ul, .body ol { padding-left: 1.3em; margin: 0 0 12px; }
+.body li { margin: 0 0 6px; }
+.body blockquote {
+  margin: 12px 0;
+  padding: 2px 0 2px 14px;
+  border-left: 3px solid var(--rule);
+  color: var(--text);
+}
+.body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 12px auto;
+  border-radius: 6px;
+}
+.body hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
+.body table { border-collapse: collapse; max-width: 100%; display: block; overflow-x: auto; }
+.body td, .body th { padding: 4px 8px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.body dt { font-weight: 600; }
+.body dd { margin: 0 0 8px 1em; }
+
+/* Links inside content are often dense (Wiktionary links nearly every word),
+   so they keep the text color and get a quiet underline. */
+.body a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+audio { width: 100%; margin: 16px 0 4px; }
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 24px 0 0;
+}
+.actions a {
+  font-size: 15px;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  border-radius: 999px;
+  padding: 6px 16px;
+}
+
+/* ---- earlier entries ---- */
+
+.earlier { margin-top: 40px; border-top: 1px solid var(--rule); padding-top: 8px; }
+.earlier > h2 {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 12px 0 4px;
+}
+details { border-bottom: 1px solid var(--rule); }
+summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+summary::-webkit-details-marker { display: none; }
+summary .t { font-weight: 600; font-size: 18px; }
+summary .d { font-size: 13px; color: var(--muted); white-space: nowrap; }
+details .body { margin: 0 0 16px; }
+
+/* ---- states ---- */
+
+.loading {
+  margin: 30vh auto 0;
+  width: 28px;
+  height: 28px;
+  border: 3px solid var(--rule);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.error { margin-top: 25vh; text-align: center; color: var(--muted); }
+.error .why { font-size: 13px; margin-top: 8px; }
+.error .actions { justify-content: center; }

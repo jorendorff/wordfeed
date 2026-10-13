@@ -1,0 +1,52 @@
+name: snapshots
+
+# Renders every source against the live sites and pushes the screenshots and
+# the raw responses to the `snapshots` branch. Replay them offline with:
+#   git fetch origin snapshots && git worktree add ../snap snapshots
+#   node tools/snap.mjs --replay ../snap/fixtures --out /tmp/shots
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "app/src/main/assets/**"
+      - "tools/**"
+      - ".github/workflows/snapshots.yml"
+  schedule:
+    - cron: "17 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshots
+  cancel-in-progress: true
+
+jobs:
+  snapshots:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Playwright
+        working-directory: tools
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Render sources
+        run: node tools/snap.mjs --live --record snap/fixtures --out snap/shots
+
+      - name: Push to the snapshots branch
+        run: |
+          cd snap
+          git init -q -b snapshots
+          git add -A
+          git -c user.name="github-actions" -c user.email="github-actions@users.noreply.github.com" \
+            commit -qm "Snapshots of ${{ github.sha }}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" snapshots

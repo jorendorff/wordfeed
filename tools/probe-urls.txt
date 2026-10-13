@@ -1,0 +1,9 @@
+# Extra URLs fetched and recorded by `snap.mjs --live`, for exploring sources.
+https://www.oed.com/rss/wordoftheday
+https://www.oed.com/
+https://paj8883.wixsite.com/haggardhawks
+https://paj8883.wixsite.com/haggardhawks/blog-feed.xml
+https://paj8883.wixsite.com/haggardhawks/blog
+https://wordsmith.org/awad/rss1.xml
+https://www.merriam-webster.com/word-of-the-day
+https://en.wiktionary.org/wiki/Wiktionary:Word_of_the_day

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "oed",
+    "name": "OED Word of the Day",
+    "short": "OED",
+    "blurb": "Oxford English Dictionary. Often obscure, obsolete or regional words.",
+    "extractor": "oed",
+    "url": "https://www.oed.com/",
+    "default": true
+  },
+  {
+    "id": "awad",
+    "name": "A.Word.A.Day",
+    "short": "AWAD",
+    "blurb": "Anu Garg, wordsmith.org, since 1994. Weekly themes.",
+    "extractor": "awad",
+    "url": "https://wordsmith.org/words/today.html",
+    "default": true
+  },
+  {
+    "id": "wordnik",
+    "name": "Wordnik Word of the Day",
+    "short": "Wordnik",
+    "blurb": "Nonprofit dictionary of every English word.",
+    "extractor": "wordnik",
+    "url": "https://www.wordnik.com/word-of-the-day",
+    "default": true
+  },
+  {
+    "id": "mw",
+    "name": "Merriam-Webster Word of the Day",
+    "short": "M-W",
+    "blurb": "Merriam-Webster editors, with Peter Sokolowski's podcast.",
+    "extractor": "mw",
+    "url": "https://www.merriam-webster.com/wotd/feed/rss2",
+    "home": "https://www.merriam-webster.com/word-of-the-day",
+    "default": true
+  },
+  {
+    "id": "wiktionary",
+    "name": "Wiktionary Word of the Day",
+    "short": "Wiktionary",
+    "blurb": "Picked and written by Wiktionary volunteers.",
+    "extractor": "wiktionary",
+    "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss",
+    "home": "https://en.wiktionary.org/wiki/Wiktionary:Word_of_the_day",
+    "default": true
+  },
+  {
+    "id": "dictcom",
+    "name": "Dictionary.com Word of the Day",
+    "short": "Dictionary.com",
+    "blurb": "Commercial, ad-supported. Common-ish words.",
+    "extractor": "dictcom",
+    "url": "https://www.dictionary.com/e/word-of-the-day/",
+    "default": false
+  }
+]

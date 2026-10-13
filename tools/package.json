@@ -1,0 +1,12 @@
+{
+  "name": "wordfeed-tools",
+  "private": true,
+  "type": "module",
+  "description": "Renders the app's reader in headless Chromium for screenshots",
+  "dependencies": {
+    "playwright": "1.56.0"
+  },
+  "devDependencies": {
+    "@fontsource/literata": "5.3.0"
+  }
+}
