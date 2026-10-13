@@ -11,7 +11,7 @@ itself.
 ## Installing
 
 Every push to `main` builds an APK on GitHub Actions and publishes it as the
-`latest` release:
+newest release (tagged `v0.1.N`):
 
     https://github.com/jorendorff/wordfeed/releases/latest/download/wordfeed.apk
 
