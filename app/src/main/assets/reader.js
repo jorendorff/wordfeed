@@ -12,6 +12,9 @@
 
 (function () {
   const pending = new Map();
+  // Ids are unique per page load, so a reply meant for a previous load of
+  // this WebView can't be mistaken for one of ours.
+  const idPrefix = Math.random().toString(36).slice(2) + ".";
   let nextId = 1;
 
   window.__wf = {
@@ -27,7 +30,7 @@
 
   function fetchText(url) {
     return new Promise((resolve, reject) => {
-      const id = String(nextId++);
+      const id = idPrefix + nextId++;
       pending.set(id, { resolve, reject });
       WordfeedNative.fetch(id, url);
     });
@@ -58,12 +61,18 @@
     const article = h("article", { class: "entry" });
     if (item.kicker) article.append(h("p", { class: "kicker" }, item.kicker));
     article.append(h("h1", { class: "headword" }, item.title));
-    if (item.sub) article.append(h("p", { class: "sub" }, item.sub));
+    if (item.subHtml) {
+      const sub = h("p", { class: "sub" });
+      sub.innerHTML = item.subHtml;
+      article.append(sub);
+    } else if (item.sub) {
+      article.append(h("p", { class: "sub" }, item.sub));
+    }
     if (item.date) article.append(h("p", { class: "date" }, WF.formatDate(item.date)));
-    if (item.body) article.append(withBody(item.body));
     if (item.audio) {
       article.append(h("audio", { controls: "", preload: "none", src: item.audio }));
     }
+    if (item.body) article.append(withBody(item.body));
     const links = (item.links || []).filter((l) => l && l.href);
     if (links.length) {
       article.append(h("nav", { class: "actions" },
@@ -85,7 +94,13 @@
         h("span", { class: "t" }, item.title),
         h("span", { class: "d" }, item.date ? WF.formatDate(item.date, true) : ""));
       const details = h("details", {}, summary);
-      if (item.sub) details.append(h("p", { class: "sub" }, item.sub));
+      if (item.subHtml) {
+        const sub = h("p", { class: "sub" });
+        sub.innerHTML = item.subHtml;
+        details.append(sub);
+      } else if (item.sub) {
+        details.append(h("p", { class: "sub" }, item.sub));
+      }
       if (item.body) details.append(withBody(item.body));
       section.append(details);
     }

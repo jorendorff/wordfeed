@@ -126,6 +126,14 @@ main {
 .body hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
 .body table { border-collapse: collapse; max-width: 100%; display: block; overflow-x: auto; }
 .body td, .body th { padding: 4px 8px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.body figure { margin: 24px 0; }
+.body figure img { margin: 0 auto 8px; }
+.body figcaption { font-size: 14px; color: var(--muted); text-align: center; line-height: 1.45; }
+.body blockquote cite { display: block; font-size: 14px; font-style: normal; color: var(--muted); margin-top: -6px; }
+.body abbr { font-style: italic; text-decoration: none; color: var(--muted); }
+.body .src { font-size: 14px; color: var(--muted); font-style: italic; margin-bottom: 4px; }
+.body .ex { font-style: italic; }
+.body .ex::before { content: "//\00a0"; color: var(--accent); font-style: normal; }
 .body dt { font-weight: 600; }
 .body dd { margin: 0 0 8px 1em; }
 
