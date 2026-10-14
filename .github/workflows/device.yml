@@ -1,0 +1,68 @@
+name: device
+
+# Builds the APK, runs it on an Android emulator, and pushes screenshots and
+# logcat to the `device` branch:
+#   git fetch origin +refs/heads/device:refs/remotes/origin/device
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "app/**"
+      - "tools/device-test.sh"
+      - ".github/workflows/device.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: device
+  cancel-in-progress: true
+
+jobs:
+  device:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.14.3"
+
+      - name: Build APK
+        run: gradle assembleDebug
+
+      - name: Run on emulator
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 34
+          arch: x86_64
+          target: google_apis
+          profile: pixel_6
+          disable-animations: true
+          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none
+          script: bash tools/device-test.sh device-out
+
+      - name: Push to the device branch
+        if: always()
+        run: |
+          mkdir -p device-out
+          cd device-out
+          git init -q -b device
+          git add -A
+          git -c user.name="github-actions" -c user.email="github-actions@users.noreply.github.com" \
+            commit -qm "Device run of ${{ github.sha }}" --allow-empty
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" device

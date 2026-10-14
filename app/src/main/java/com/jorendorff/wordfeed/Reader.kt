@@ -6,6 +6,9 @@ import android.content.Context
 import android.content.Intent
 import android.os.Handler
 import android.os.Looper
+import android.util.Log
+import android.webkit.ConsoleMessage
+import android.webkit.WebChromeClient
 import android.webkit.JavascriptInterface
 import android.webkit.WebResourceRequest
 import android.webkit.WebView
@@ -14,6 +17,8 @@ import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
 import org.json.JSONObject
 import java.util.concurrent.ConcurrentHashMap
+
+private const val TAG = "Wordfeed"
 
 /**
  * A WebView showing assets/reader.html for one source. All the per-site
@@ -44,6 +49,16 @@ class ReaderView(
                 }
                 return false
             }
+
+            override fun onPageFinished(view: WebView, url: String) {
+                Log.d(TAG, "${source.id}: page finished $url")
+            }
+        }
+        webChromeClient = object : WebChromeClient() {
+            override fun onConsoleMessage(m: ConsoleMessage): Boolean {
+                Log.d(TAG, "${source.id}: console ${m.messageLevel()}: ${m.message()} (${m.sourceId()}:${m.lineNumber()})")
+                return true
+            }
         }
         addJavascriptInterface(bridge, "WordfeedNative")
     }
@@ -54,8 +69,9 @@ class ReaderView(
      * showed, or stay empty, so we don't fetch sources nobody is looking at.
      */
     fun show(generation: Int, dark: Boolean, active: Boolean) {
-        if (!active) return
         val key = "$generation/$dark"
+        Log.d(TAG, "${source.id}: show key=$key active=$active loaded=$loadedKey size=${width}x$height")
+        if (!active) return
         if (key == loadedKey) return
         loadedKey = key
         bridge.dark = dark
@@ -82,10 +98,12 @@ class ReaderBridge(
 
     @JavascriptInterface
     fun fetch(id: String, url: String) {
+        Log.d(TAG, "${source.id}: fetch $url")
         main.post {
             vm.viewModelScope.launch {
                 val result = vm.fetch(url)
                 bodies[id] = result.getOrElse { it.message ?: it.toString() }
+                Log.d(TAG, "${source.id}: fetched $url ok=${result.isSuccess} ${bodies[id]?.length} chars")
                 web.evaluateJavascript(
                     "window.__wf && window.__wf.ready(${JSONObject.quote(id)}, ${result.isSuccess})",
                     null,
@@ -99,6 +117,7 @@ class ReaderBridge(
 
     @JavascriptInterface
     fun rendered(key: String) {
+        Log.d(TAG, "${source.id}: rendered key=$key")
         main.post { vm.reportRendered(source, key) }
     }
 }
