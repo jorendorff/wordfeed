@@ -338,6 +338,17 @@ window.WF = (function () {
         (captions.length ? `<figcaption>${captions.join("<br>")}</figcaption>` : "") + `</figure>`;
     }
 
+    // "This week's words" lists Monday through today, so earlier entries
+    // are one weekday apart.
+    const weekLinks = box ? [...box.querySelectorAll("a[href*='/words/']")]
+      .filter((a) => /\/words\/[^/]+\.html$/.test(a.getAttribute("href")) && text(a) !== word) : [];
+    const earlier = weekLinks.reverse().map((a, i) => ({
+      key: text(a),
+      title: text(a),
+      date: date ? new Date(date.getFullYear(), date.getMonth(), date.getDate() - i - 1, 12) : null,
+      href: abs(a.getAttribute("href"), url),
+    }));
+
     const part = (name) => para(sanitize(sections[name] || [], url));
     const donate = [...doc.querySelectorAll("a")].find((a) => /^donate$/i.test(text(a)));
     return [{
@@ -359,7 +370,7 @@ window.WF = (function () {
         { label: "Open", href: meta(doc, "og:url") || url },
         donate && { label: "Donate", href: abs(donate.getAttribute("href"), url) },
       ],
-    }];
+    }, ...earlier];
   };
 
   // Wordnik: the word-of-the-day page, minus the site chrome.
@@ -461,9 +472,14 @@ window.WF = (function () {
   // Wiktionary: today's item from the featured feed.
   extractors.wiktionary = async function (ctx) {
     const xml = await ctx.fetchXml(ctx.source.url);
-    const item = parseFeed(xml, ctx.source.url)[0];
+    const [item, ...rest] = parseFeed(xml, ctx.source.url);
     if (!item) return [];
     const base = "https://en.wiktionary.org/";
+    const earlier = rest.map((i) => {
+      const t = parseHtml(i.html, base).querySelector("#WOTD-rss-title");
+      const a = t && t.closest("a");
+      return { key: i.key, title: text(t) || i.title, date: i.date, href: a ? abs(a.getAttribute("href"), base) : i.link };
+    });
     const doc = parseHtml(item.html, base);
     const titleEl = doc.querySelector("#WOTD-rss-title");
     const word = text(titleEl) || item.title;
@@ -488,7 +504,7 @@ window.WF = (function () {
       links: [
         { label: "Open", href: wordLink ? abs(wordLink.getAttribute("href"), base) : item.link },
       ],
-    }];
+    }, ...earlier];
   };
 
   // Dictionary.com: the word-of-the-day page lists several recent words.
@@ -613,9 +629,21 @@ window.WF = (function () {
   // Wiktionary's Foreign Word of the Day.
   extractors.fwotd = async function (ctx) {
     const xml = await ctx.fetchXml(ctx.source.url);
-    const item = parseFeed(xml, ctx.source.url)[0];
+    const [item, ...rest] = parseFeed(xml, ctx.source.url);
     if (!item) return [];
     const base = "https://en.wiktionary.org/";
+    const earlier = rest.map((i) => {
+      const d = parseHtml(i.html, base);
+      const head = d.querySelector("strong.headword, .headword");
+      const lang = text(d.querySelector("#FWOTD-rss-language"));
+      const a = head && head.querySelector("a");
+      return {
+        key: i.key,
+        title: (text(head) || i.title) + (lang ? ` (${lang})` : ""),
+        date: i.date,
+        href: a ? abs(a.getAttribute("href"), base) : i.link,
+      };
+    });
     const doc = parseHtml(item.html, base);
     const head = doc.querySelector("strong.headword, .headword");
     const word = text(head) || item.title;
@@ -636,7 +664,7 @@ window.WF = (function () {
       date: item.date,
       body: sanitize(doc.querySelector("#FWOTD-rss-description") || [], base),
       links: [{ label: "Open", href: link ? abs(link.getAttribute("href"), base) : item.link }],
-    }];
+    }, ...earlier];
   };
 
   // Macquarie Dictionary: the homepage's word of the day.
@@ -671,7 +699,16 @@ window.WF = (function () {
         .map((p) => para(sanitize(p.childNodes, url)))
         .join(""),
       links: [{ label: "Open", href: abs(a.getAttribute("href"), url) }],
-    }];
+    }, ...[...doc.querySelectorAll(".list-previous li")].reverse().map((li) => {
+      const prev = li.querySelector("a");
+      const dot = li.querySelector("[data-key]");
+      return {
+        key: text(prev),
+        title: text(prev),
+        date: calendarDate(dot && dot.getAttribute("data-key")),
+        href: prev ? abs(prev.getAttribute("href"), url) : "",
+      };
+    }).filter((e) => e.title)];
   };
 
   // Urban Dictionary's API. The first entry is today's word; the per-entry

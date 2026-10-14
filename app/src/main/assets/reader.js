@@ -88,22 +88,15 @@
     return div;
   }
 
+  /** Earlier entries: one row each, linking out to the entry on its site. */
   function renderEarlier(items) {
     const section = h("section", { class: "earlier" }, h("h2", {}, "Earlier"));
     for (const item of items) {
-      const summary = h("summary", {},
+      const href = item.href || ((item.links || []).find((l) => l && l.href) || {}).href;
+      const row = h(href ? "a" : "div", href ? { class: "prev", href } : { class: "prev" },
         h("span", { class: "t" }, item.title),
         h("span", { class: "d" }, item.date ? WF.formatDate(item.date, true) : ""));
-      const details = h("details", {}, summary);
-      if (item.subHtml) {
-        const sub = h("p", { class: "sub" });
-        sub.innerHTML = item.subHtml;
-        details.append(sub);
-      } else if (item.sub) {
-        details.append(h("p", { class: "sub" }, item.sub));
-      }
-      if (item.body) details.append(withBody(item.body));
-      section.append(details);
+      section.append(row);
     }
     return section;
   }
