@@ -176,7 +176,12 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
         } else {
             HorizontalPager(
                 state = pagerState,
-                modifier = Modifier.fillMaxSize().padding(padding),
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(padding)
+                    .pickySwipe(pagerState, scope),
+                // Swiping is handled by pickySwipe, which leaves vertical scrolls alone.
+                userScrollEnabled = false,
                 // Keep every page alive, so all sources load up front and the
                 // unread dots are right without visiting each tab.
                 beyondViewportPageCount = sources.size,
