@@ -21,7 +21,11 @@ import java.util.concurrent.ConcurrentHashMap
  * tools/snap.mjs can exercise exactly the same code in desktop Chromium.
  */
 @SuppressLint("ViewConstructor", "SetJavaScriptEnabled")
-class ReaderView(context: Context, vm: FeedViewModel, source: Source) : WebView(context) {
+class ReaderView(
+    context: Context,
+    private val vm: FeedViewModel,
+    private val source: Source,
+) : WebView(context) {
     private val bridge = ReaderBridge(this, vm, source)
     private var loadedKey: String? = null
 
@@ -44,13 +48,19 @@ class ReaderView(context: Context, vm: FeedViewModel, source: Source) : WebView(
         addJavascriptInterface(bridge, "WordfeedNative")
     }
 
-    /** (Re)loads the reader if the generation or theme changed. */
-    fun show(generation: Int, dark: Boolean) {
+    /**
+     * (Re)loads the reader if the generation or theme changed, but only while
+     * [active] (its tab is on screen). Inactive pages keep whatever they last
+     * showed, or stay empty, so we don't fetch sources nobody is looking at.
+     */
+    fun show(generation: Int, dark: Boolean, active: Boolean) {
+        if (!active) return
         val key = "$generation/$dark"
         if (key == loadedKey) return
         loadedKey = key
         bridge.dark = dark
         setBackgroundColor((if (dark) ReaderDarkBg else ReaderLightBg).toInt())
+        vm.startedLoading(source)
         loadUrl("file:///android_asset/reader.html")
     }
 }

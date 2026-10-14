@@ -11,9 +11,17 @@ import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.Deferred
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
+import kotlinx.coroutines.launch
+
+/** How long a fetched page counts as fresh. */
+private const val FRESH_MS = 60 * 60 * 1000L
+
+/** How long unused cache entries are kept. */
+private const val KEEP_MS = 30 * 24 * 60 * 60 * 1000L
 
 class FeedViewModel(app: Application) : AndroidViewModel(app) {
     private val store = Store(app)
+    private val http = HttpCache(app.cacheDir)
 
     var allSources by mutableStateOf(loadBuiltinSources(app) + store.customSources())
         private set
@@ -29,15 +37,22 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
     /** Bumped by refresh(); reader pages reload when it changes. */
     var generation by mutableIntStateOf(0)
         private set
+    private var generationStartedAt = System.currentTimeMillis()
+
+    /** After the user taps Refresh, skip the freshness window (still revalidating cheaply). */
+    private var bypassFreshness = false
 
     /** Source id -> key of the newest entry its reader page showed ("" if it failed). */
     private val newest = mutableStateMapOf<String, String>()
+
+    /** Source ids whose reader pages are loading right now. */
+    private val loading = mutableStateMapOf<String, Unit>()
 
     /** Source id -> key of the newest entry the user has looked at. */
     private val seen = mutableStateMapOf<String, String>()
 
     /** URL -> response, shared by all reader pages until the next refresh. Main thread only. */
-    private val cache = HashMap<String, Deferred<Result<String>>>()
+    private val memo = HashMap<String, Deferred<Result<String>>>()
 
     val subscribedSources: List<Source>
         get() = allSources.filter { it.id in subscribedIds }
@@ -46,31 +61,49 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
         for (s in allSources) {
             store.seen(s.id)?.let { seen[s.id] = it }
         }
+        viewModelScope.launch(Dispatchers.IO) { http.prune(KEEP_MS) }
     }
 
     suspend fun fetch(url: String): Result<String> {
-        val deferred = cache.getOrPut(url) {
-            viewModelScope.async(Dispatchers.IO) { runCatching { httpGetText(url) } }
+        val maxAge = if (bypassFreshness) 0L else FRESH_MS
+        val deferred = memo.getOrPut(url) {
+            viewModelScope.async(Dispatchers.IO) { runCatching { http.get(url, maxAge) } }
         }
         val result = deferred.await()
         // Don't keep failures around; the next attempt should retry.
-        if (result.isFailure && cache[url] === deferred) cache.remove(url)
+        if (result.isFailure && memo[url] === deferred) memo.remove(url)
         return result
     }
 
+    /** The Refresh button: reload what's visible, asking every site whether anything changed. */
     fun refresh() {
-        cache.clear()
-        newest.clear()
+        bypassFreshness = true
+        startGeneration()
+    }
+
+    /** On returning to the app: reload if what we're showing is more than an hour old. */
+    fun refreshIfStale() {
+        if (System.currentTimeMillis() - generationStartedAt > FRESH_MS) startGeneration()
+    }
+
+    private fun startGeneration() {
+        memo.clear()
+        generationStartedAt = System.currentTimeMillis()
         generation++
     }
 
-    fun isLoading(s: Source): Boolean = s.id !in newest
-
-    fun newestKey(s: Source): String? = newest[s.id]
+    fun startedLoading(s: Source) {
+        loading[s.id] = Unit
+    }
 
     fun reportRendered(s: Source, key: String) {
+        loading.remove(s.id)
         newest[s.id] = key
     }
+
+    fun isLoading(s: Source): Boolean = s.id in loading
+
+    fun newestKey(s: Source): String? = newest[s.id]
 
     fun hasNew(s: Source): Boolean {
         val key = newest[s.id]
@@ -106,6 +139,7 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
         allSources = allSources.filter { it.id != s.id }
         subscribedIds = subscribedIds - s.id
         newest.remove(s.id)
+        loading.remove(s.id)
         seen.remove(s.id)
     }
 }

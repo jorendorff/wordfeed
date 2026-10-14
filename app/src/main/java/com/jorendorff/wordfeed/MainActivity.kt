@@ -6,6 +6,7 @@ import androidx.activity.SystemBarStyle
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.activity.viewModels
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -53,6 +54,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateMapOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
@@ -64,16 +66,24 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.layout.boundsInWindow
+import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.viewinterop.AndroidView
-import androidx.lifecycle.viewmodel.compose.viewModel
 import kotlinx.coroutines.launch
 
 class MainActivity : ComponentActivity() {
+    private val vm: FeedViewModel by viewModels()
+
+    override fun onResume() {
+        super.onResume()
+        vm.refreshIfStale()
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            val vm: FeedViewModel = viewModel()
+            val vm = this.vm
             val dark = isDark(vm.themeMode)
             // Status/navigation bar icons follow our theme, not the system's.
             DisposableEffect(dark) {
@@ -118,6 +128,10 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
     val settled = sources.getOrNull(pagerState.settledPage)
     val settledKey = settled?.let { vm.newestKey(it) }
 
+    // How much of each tab is on screen (its width in the window, clipped by the
+    // scrolling tab bar). Only sources whose tabs you can see get loaded.
+    val visibleTabWidth = remember { mutableStateMapOf<String, Float>() }
+
     // Looking at a source marks its newest entry as read.
     LaunchedEffect(settled?.id, settledKey) {
         if (settled != null) vm.markSeen(settled)
@@ -150,6 +164,9 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
                     ScrollableTabRow(selectedTabIndex = selected, edgePadding = 8.dp) {
                         sources.forEachIndexed { i, s ->
                             Tab(
+                                modifier = Modifier.onGloballyPositioned {
+                                    visibleTabWidth[s.id] = it.boundsInWindow().width
+                                },
                                 selected = i == selected,
                                 onClick = { scope.launch { pagerState.animateScrollToPage(i) } },
                                 text = {
@@ -182,24 +199,27 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
                     .pickySwipe(pagerState, scope),
                 // Swiping is handled by pickySwipe, which leaves vertical scrolls alone.
                 userScrollEnabled = false,
-                // Keep every page alive, so all sources load up front and the
-                // unread dots are right without visiting each tab.
+                // Keep every page alive, so a page doesn't reload each time you
+                // come back to it. Pages only load when their tab is visible.
                 beyondViewportPageCount = sources.size,
                 key = { sources[it].id },
             ) { page ->
-                ReaderPage(vm, sources[page], dark)
+                val source = sources[page]
+                val active = page == pagerState.currentPage ||
+                    (visibleTabWidth[source.id] ?: 0f) > 1f
+                ReaderPage(vm, source, dark, active)
             }
         }
     }
 }
 
 @Composable
-fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean) {
+fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean) {
     val generation = vm.generation
     AndroidView(
         modifier = Modifier.fillMaxSize(),
         factory = { ctx -> ReaderView(ctx, vm, source) },
-        update = { view -> view.show(generation, dark) },
+        update = { view -> view.show(generation, dark, active) },
     )
 }
 
