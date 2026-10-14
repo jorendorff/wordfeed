@@ -215,6 +215,17 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
 
 @Composable
 fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean) {
+    // Don't create the WebView until the page is first wanted. A WebView that
+    // has never loaded anything can get drawn on top of the visible page (seen
+    // on an API 34 emulator), blanking it out.
+    var started by remember { mutableStateOf(false) }
+    LaunchedEffect(active) {
+        if (active) started = true
+    }
+    if (!started) {
+        Box(Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background))
+        return
+    }
     val generation = vm.generation
     AndroidView(
         modifier = Modifier.fillMaxSize(),
