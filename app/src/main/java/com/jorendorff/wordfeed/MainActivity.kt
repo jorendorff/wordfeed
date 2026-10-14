@@ -173,7 +173,7 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
                                 selected = i == selected,
                                 onClick = { scope.launch { pagerState.animateScrollToPage(i) } },
                                 text = {
-                                    TabLabel(s.shortName, unread = vm.hasNew(s), loading = vm.isLoading(s))
+                                    TabLabel(s.shortName, unread = vm.hasNew(s), ready = vm.isReady(s))
                                 },
                             )
                         }
@@ -238,11 +238,12 @@ fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean
 }
 
 @Composable
-fun TabLabel(text: String, unread: Boolean, loading: Boolean) {
-    // Pale while loading; fades to full strength when the page has rendered.
+fun TabLabel(text: String, unread: Boolean, ready: Boolean) {
+    // Pale until the page has rendered (including before it has started
+    // loading); then fades to full strength.
     val alpha by animateFloatAsState(
-        targetValue = if (loading) 0.4f else 1f,
-        animationSpec = if (loading) snap() else tween(durationMillis = 300),
+        targetValue = if (ready) 1f else 0.4f,
+        animationSpec = if (ready) tween(durationMillis = 300) else snap(),
         label = "tab alpha",
     )
     Row(Modifier.alpha(alpha), verticalAlignment = Alignment.CenterVertically) {

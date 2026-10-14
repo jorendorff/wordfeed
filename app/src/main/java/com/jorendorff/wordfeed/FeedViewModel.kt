@@ -112,6 +112,9 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
 
     fun isLoading(s: Source): Boolean = s.id in loading
 
+    /** True once the source's page has rendered (and isn't reloading). */
+    fun isReady(s: Source): Boolean = s.id in newest && s.id !in loading
+
     fun newestKey(s: Source): String? = newest[s.id]
 
     fun hasNew(s: Source): Boolean {
