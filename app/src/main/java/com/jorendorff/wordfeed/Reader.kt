@@ -90,6 +90,7 @@ class ReaderBridge(
     @Volatile
     var dark = false
     private val bodies = ConcurrentHashMap<String, String>()
+    private val fetchedUrls = ConcurrentHashMap.newKeySet<String>()
     private val main = Handler(Looper.getMainLooper())
 
     @JavascriptInterface
@@ -99,6 +100,7 @@ class ReaderBridge(
     @JavascriptInterface
     fun fetch(id: String, url: String) {
         Log.d(TAG, "${source.id}: fetch $url")
+        fetchedUrls.add(url)
         main.post {
             vm.viewModelScope.launch {
                 val result = vm.fetch(url)
@@ -118,6 +120,11 @@ class ReaderBridge(
     @JavascriptInterface
     fun rendered(key: String) {
         Log.d(TAG, "${source.id}: rendered key=$key")
-        main.post { vm.reportRendered(source, key) }
+        val urls = fetchedUrls.toList()
+        fetchedUrls.clear()
+        main.post {
+            if (key.isEmpty()) vm.forget(urls)
+            vm.reportRendered(source, key)
+        }
     }
 }

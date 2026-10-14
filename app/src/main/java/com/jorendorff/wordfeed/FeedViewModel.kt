@@ -75,6 +75,15 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
         return result
     }
 
+    /**
+     * A page failed to render from these responses. They may be junk that
+     * came with a 200 (a bot check, an error page), so don't reuse them.
+     */
+    fun forget(urls: List<String>) {
+        for (url in urls) memo.remove(url)
+        viewModelScope.launch(Dispatchers.IO) { urls.forEach(http::remove) }
+    }
+
     /** The Refresh button: reload what's visible, asking every site whether anything changed. */
     fun refresh() {
         bypassFreshness = true

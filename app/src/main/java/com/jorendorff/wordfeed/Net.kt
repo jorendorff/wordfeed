@@ -131,6 +131,13 @@ class HttpCache(cacheDir: File) {
         return result.body
     }
 
+    /** Forgets a cached response (e.g. because it turned out to be junk). */
+    fun remove(url: String) {
+        val key = sha1(url)
+        File(dir, "$key.json").delete()
+        File(dir, "$key.body").delete()
+    }
+
     /** Deletes entries not used in [maxAgeMs]. */
     fun prune(maxAgeMs: Long) {
         val cutoff = System.currentTimeMillis() - maxAgeMs
