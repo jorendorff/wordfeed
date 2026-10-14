@@ -47,12 +47,93 @@
     "default": true
   },
   {
+    "id": "tfd",
+    "name": "The Free Dictionary Word of the Day",
+    "short": "Free Dictionary",
+    "blurb": "Farlex. Definition, synonyms, and a usage quote, often from literature.",
+    "extractor": "tfd",
+    "url": "https://www.thefreedictionary.com/_/WoD/rss.aspx",
+    "default": true
+  },
+  {
+    "id": "macquarie",
+    "name": "Macquarie Dictionary Word of the Day",
+    "short": "Macquarie",
+    "blurb": "Australia's national dictionary.",
+    "extractor": "macquarie",
+    "url": "https://www.macquariedictionary.com.au/",
+    "default": true
+  },
+  {
+    "id": "vocabcom",
+    "name": "Vocabulary.com Word of the Day",
+    "short": "Vocabulary.com",
+    "blurb": "Owned by IXL Learning. Well-written explanations; SAT-flavored picks.",
+    "extractor": "vocabcom",
+    "url": "https://www.vocabulary.com/word-of-the-day/",
+    "default": true
+  },
+  {
+    "id": "sesquiotica",
+    "name": "Sesquiotica",
+    "short": "Sesquiotica",
+    "blurb": "James Harbeck's word tasting notes: essays on one word at a time. About weekly.",
+    "extractor": "blog",
+    "style": "blog",
+    "url": "https://sesquiotic.com/feed/",
+    "home": "https://sesquiotic.com/",
+    "default": true
+  },
+  {
+    "id": "grammarphobia",
+    "name": "Grammarphobia",
+    "short": "Grammarphobia",
+    "blurb": "Patricia O'Conner and Stewart Kellerman answer questions about words and usage. Every two weeks.",
+    "extractor": "blog",
+    "style": "blog",
+    "url": "https://www.grammarphobia.com/blog/feed",
+    "home": "https://www.grammarphobia.com/blog/",
+    "default": true
+  },
+  {
+    "id": "cambridge-blog",
+    "name": "About Words (Cambridge Dictionary blog)",
+    "short": "About Words",
+    "blurb": "Cambridge University Press. New words, idioms, and usage columns.",
+    "extractor": "blog",
+    "style": "blog",
+    "fullText": ".entry-content",
+    "url": "https://dictionaryblog.cambridge.org/feed/",
+    "home": "https://dictionaryblog.cambridge.org/",
+    "default": true
+  },
+  {
     "id": "dictcom",
     "name": "Dictionary.com Word of the Day",
     "short": "Dictionary.com",
     "blurb": "Commercial, ad-supported. Common-ish words.",
     "extractor": "dictcom",
     "url": "https://www.dictionary.com/e/word-of-the-day/",
+    "default": false
+  },
+  {
+    "id": "fwotd",
+    "name": "Wiktionary Foreign Word of the Day",
+    "short": "Foreign Word",
+    "blurb": "Wiktionary volunteers. A word from another language each day.",
+    "extractor": "fwotd",
+    "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=fwotd&feedformat=rss",
+    "home": "https://en.wiktionary.org/wiki/Wiktionary:Foreign_word_of_the_day",
+    "default": false
+  },
+  {
+    "id": "urban",
+    "name": "Urban Dictionary Word of the Day",
+    "short": "Urban",
+    "blurb": "Slang, written by users. Can be crude.",
+    "extractor": "urban",
+    "url": "https://api.urbandictionary.com/v0/words_of_the_day",
+    "home": "https://www.urbandictionary.com/",
     "default": false
   }
 ]

@@ -525,5 +525,176 @@ window.WF = (function () {
     });
   };
 
+  // ---- more sources ---------------------------------------------------------
+
+  /** Removes WordPress feed boilerplate ("The post X appeared first on Y", "Continue reading"). */
+  function cleanBlog(html) {
+    const div = document.createElement("div");
+    div.innerHTML = html;
+    for (const p of div.querySelectorAll("p")) {
+      if (/(appeared first on|first appeared on)/.test(text(p))) p.remove();
+    }
+    for (const a of div.querySelectorAll("a")) {
+      if (/^continue reading/i.test(text(a))) {
+        const p = a.closest("p");
+        a.remove();
+        if (p && !text(p).replace(/[\s.…]/g, "")) p.remove();
+      }
+    }
+    return div.innerHTML.trim();
+  }
+
+  // Blogs: the newest post in full, earlier posts listed below it. If the
+  // feed has only excerpts, source.fullText is a selector for the post body,
+  // and we fetch the newest post's page.
+  extractors.blog = async function (ctx) {
+    const src = ctx.source;
+    const xml = await ctx.fetchXml(src.url);
+    const items = parseFeed(xml, src.url).slice(0, 8);
+    const out = items.map((i) => ({
+      key: i.key,
+      title: i.title,
+      date: i.date,
+      body: cleanBlog(sanitize(i.html, i.link || src.url)),
+      links: [{ label: "Open", href: i.link }],
+    }));
+    if (src.fullText && items.length && items[0].link) {
+      try {
+        const doc = await ctx.fetchHtml(items[0].link);
+        const content = doc.querySelector(src.fullText);
+        if (content) {
+          for (const junk of content.querySelectorAll(
+            ".sharedaddy, .jp-relatedposts, .post-navigation, .wp-block-buttons, .addtoany_share_save_container")) {
+            junk.remove();
+          }
+          out[0].body = cleanBlog(sanitize(content.childNodes, items[0].link));
+        }
+      } catch (e) {
+        console.warn("Couldn't fetch the full post:", e && e.message);
+      }
+    }
+    return out;
+  };
+
+  // The Free Dictionary: "Definition: (noun) ...<br>Synonyms: ...<br>Usage: ..."
+  extractors.tfd = async function (ctx) {
+    const xml = await ctx.fetchXml(ctx.source.url);
+    return parseFeed(xml, ctx.source.url).map((i) => {
+      let sub = "";
+      let body = "";
+      for (const part of i.html.split(/<br\s*\/?>/i).map((s) => s.trim()).filter(Boolean)) {
+        const m = /^(\w[\w ]*):\s*([\s\S]*)$/.exec(part);
+        if (!m) {
+          body += para(sanitize(part, i.link));
+          continue;
+        }
+        const [, label, value] = m;
+        if (label === "Definition") {
+          const pos = /^\(([^)]+)\)\s*([\s\S]*)$/.exec(value);
+          if (pos) sub = pos[1];
+          body += para(sanitize(pos ? pos[2] : value, i.link));
+        } else if (label === "Usage") {
+          body += section("Usage", `<blockquote><p>${trimBreaks(sanitize(value, i.link))}</p></blockquote>`);
+        } else {
+          body += section(label, para(sanitize(value, i.link)));
+        }
+      }
+      return {
+        key: i.key,
+        title: i.title,
+        sub,
+        date: i.date,
+        body,
+        links: [{ label: "Open", href: i.link }],
+      };
+    });
+  };
+
+  // Wiktionary's Foreign Word of the Day.
+  extractors.fwotd = async function (ctx) {
+    const xml = await ctx.fetchXml(ctx.source.url);
+    const item = parseFeed(xml, ctx.source.url)[0];
+    if (!item) return [];
+    const base = "https://en.wiktionary.org/";
+    const doc = parseHtml(item.html, base);
+    const head = doc.querySelector("strong.headword, .headword");
+    const word = text(head) || item.title;
+    const language = text(doc.querySelector("#FWOTD-rss-language"));
+    let pos = "";
+    const cell = head && head.closest("td");
+    if (cell) {
+      const copy = cell.cloneNode(true);
+      for (const el of copy.querySelectorAll(".headword-line, #FWOTD-rss-description, div")) el.remove();
+      pos = text(copy);
+    }
+    const link = head && head.querySelector("a");
+    return [{
+      key: item.key,
+      kicker: language,
+      title: word,
+      sub: pos,
+      date: item.date,
+      body: sanitize(doc.querySelector("#FWOTD-rss-description") || [], base),
+      links: [{ label: "Open", href: link ? abs(link.getAttribute("href"), base) : item.link }],
+    }];
+  };
+
+  // Macquarie Dictionary: the homepage's word of the day.
+  extractors.macquarie = async function (ctx) {
+    const url = ctx.source.url;
+    const doc = await ctx.fetchHtml(url);
+    const box = required(doc.querySelector(".today-word"), "the word of the day");
+    const word = text(required(box.querySelector("h2, h3"), "the word"));
+    return [{
+      key: word,
+      title: word,
+      body: para(sanitize(box.querySelector(".word-oftheday") || [], url)),
+      links: [{ label: "Open", href: url }],
+    }];
+  };
+
+  // Vocabulary.com
+  extractors.vocabcom = async function (ctx) {
+    const url = ctx.source.url;
+    const doc = await ctx.fetchHtml(url);
+    const a = required(doc.querySelector("a.word-of-the-day"), "the word of the day");
+    const word = text(a);
+    const audioBtn = doc.querySelector(".btn-wod-audio[data-code]");
+    return [{
+      key: word,
+      title: word,
+      date: calendarDate(text(doc.querySelector(".box-yesterday-today-tomorrow"))),
+      audio: audioBtn ? `https://audio.vocab.com/1.0/us/${audioBtn.getAttribute("data-code")}.mp3` : "",
+      body: [".txt-wod-usage", ".txt-wod-desc"]
+        .map((sel) => doc.querySelector(sel))
+        .filter(Boolean)
+        .map((p) => para(sanitize(p.childNodes, url)))
+        .join(""),
+      links: [{ label: "Open", href: abs(a.getAttribute("href"), url) }],
+    }];
+  };
+
+  // Urban Dictionary's API. The first entry is today's word; the per-entry
+  // "date" fields aren't the dates they were featured, so we don't show them.
+  extractors.urban = async function (ctx) {
+    const data = JSON.parse(await ctx.fetchText(ctx.source.url));
+    const define = (w) => "https://www.urbandictionary.com/define.php?term=" + encodeURIComponent(w);
+    // Urban Dictionary marks cross-references as [term].
+    const linkify = (s) => (s || "").split(/(\[[^\]]+\])/)
+      .map((part) => /^\[.*\]$/.test(part)
+        ? `<a href="${esc(define(part.slice(1, -1)))}">${esc(part.slice(1, -1))}</a>`
+        : esc(part))
+      .join("")
+      .replace(/\r?\n/g, "<br>");
+    return (data.list || []).slice(0, 8).map((d) => ({
+      key: String(d.defid),
+      title: d.word,
+      body: para(linkify(d.definition)) +
+        (d.example ? section("Example", `<p class="ex">${linkify(d.example)}</p>`) : "") +
+        (d.author ? `<p class="src">by ${esc(d.author)}</p>` : ""),
+      links: [{ label: "Open", href: d.permalink }],
+    }));
+  };
+
   return { h, parseHtml, text, abs, meta, sanitize, parseFeed, calendarDate, formatDate, extractors };
 })();

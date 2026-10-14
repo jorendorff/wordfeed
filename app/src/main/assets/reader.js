@@ -39,6 +39,7 @@
   const config = JSON.parse(WordfeedNative.config());
   const source = config.source;
   if (config.dark) document.documentElement.classList.add("dark");
+  if (source.style) document.documentElement.classList.add("style-" + source.style);
 
   const ctx = {
     source,
