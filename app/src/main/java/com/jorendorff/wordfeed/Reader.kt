@@ -36,9 +36,6 @@ class ReaderView(
 
     init {
         Log.d(TAG, "${source.id}: created WebView")
-        // Hidden until first loaded: an empty WebView can get drawn on top of
-        // the visible page (seen on an API 34 emulator).
-        visibility = INVISIBLE
         settings.javaScriptEnabled = true
         // Draw while offscreen, so a page swiped in for the first time
         // doesn't flash blank while it renders.
@@ -68,6 +65,12 @@ class ReaderView(
             }
         }
         addJavascriptInterface(bridge, "WordfeedNative")
+        // Get the WebView going right away with an empty page. A WebView's
+        // first load makes the other WebViews blank for a frame or two; doing
+        // it now, at startup, keeps that from happening mid-swipe later. (It
+        // also keeps never-loaded WebViews from being drawn over the visible
+        // page, seen on an API 34 emulator.)
+        loadUrl("about:blank")
     }
 
     /**
@@ -83,7 +86,6 @@ class ReaderView(
         loadedKey = key
         bridge.dark = dark
         setBackgroundColor((if (dark) ReaderDarkBg else ReaderLightBg).toInt())
-        visibility = VISIBLE
         vm.startedLoading(source)
         loadUrl("file:///android_asset/reader.html")
     }

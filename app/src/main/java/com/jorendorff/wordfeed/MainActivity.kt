@@ -219,9 +219,9 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
 @Composable
 fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean) {
     // Every page's WebView is created up front (the pager composes all pages),
-    // because attaching a new WebView to the window blanks the other WebViews
-    // for a moment, which looked like a flicker mid-swipe. A page stays
-    // hidden, and doesn't fetch anything, until it's first wanted.
+    // because starting up a WebView blanks the other WebViews for a moment,
+    // which looked like a flicker mid-swipe. A page doesn't fetch anything
+    // until it's first wanted.
     val generation = vm.generation
     AndroidView(
         modifier = Modifier.fillMaxSize(),
