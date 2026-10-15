@@ -50,6 +50,10 @@ fun Modifier.pickySwipe(
             val change = event.changes.firstOrNull { it.id == down.id } ?: break
             if (!change.pressed) {
                 if (claimed) {
+                    // The lift can carry movement too (a lot of it, when touch
+                    // events arrive sparsely); apply it before settling.
+                    pagerState.dispatchRawDelta(-change.positionChange().x)
+                    tracker.addPosition(change.uptimeMillis, change.position)
                     change.consume()
                     val vx = tracker.calculateVelocity().x
                     val target = when {
