@@ -210,14 +210,18 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
                 val source = sources[page]
                 val active = page == pagerState.currentPage ||
                     (visibleTabWidth[source.id] ?: 0f) > 1f
-                ReaderPage(vm, source, dark, active)
+                // Only the current page and its neighbors are drawn. A page the
+                // pager hasn't laid out on screen yet can otherwise be drawn on
+                // top of the current one (seen on an API 34 emulator).
+                val near = kotlin.math.abs(page - pagerState.currentPage) <= 1
+                ReaderPage(vm, source, dark, active, near)
             }
         }
     }
 }
 
 @Composable
-fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean) {
+fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean, near: Boolean) {
     // Every page's WebView is created up front (the pager composes all pages),
     // because starting up a WebView blanks the other WebViews for a moment,
     // which looked like a flicker mid-swipe. A page doesn't fetch anything
@@ -226,7 +230,10 @@ fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean
     AndroidView(
         modifier = Modifier.fillMaxSize(),
         factory = { ctx -> ReaderView(ctx, vm, source) },
-        update = { view -> view.show(generation, dark, active) },
+        update = { view ->
+            view.visibility = if (near) android.view.View.VISIBLE else android.view.View.INVISIBLE
+            view.show(generation, dark, active)
+        },
     )
 }
 
