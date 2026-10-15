@@ -36,6 +36,9 @@ class ReaderView(
 
     init {
         Log.d(TAG, "${source.id}: created WebView")
+        // Hidden until first loaded: an empty WebView can get drawn on top of
+        // the visible page (seen on an API 34 emulator).
+        visibility = INVISIBLE
         settings.javaScriptEnabled = true
         // Draw while offscreen, so a page swiped in for the first time
         // doesn't flash blank while it renders.
@@ -80,6 +83,7 @@ class ReaderView(
         loadedKey = key
         bridge.dark = dark
         setBackgroundColor((if (dark) ReaderDarkBg else ReaderLightBg).toInt())
+        visibility = VISIBLE
         vm.startedLoading(source)
         loadUrl("file:///android_asset/reader.html")
     }
