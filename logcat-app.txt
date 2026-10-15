@@ -1,0 +1,149 @@
+10-15 14:53:41.808  2953  3025 W id.gms.unstable: Verification of void org.chromium.net.impl.CronetUrlRequest.onError(int, int, int, java.lang.String, long) took 123.133ms (1136.98 bytecodes/s) (4536B approximate peak alloc)
+10-15 14:53:42.074  2953  3025 W id.gms.unstable: Long monitor contention with owner CronetInit (3503) at void il.run()(:com.google.android.gms.dynamite_cronetdynamite@231818047@23.18.18 (190800-0):3) waiters=0 in long org.chromium.net.impl.CronetUrlRequestContext.c() for 233ms
+10-15 14:53:45.034   520   551 I ActivityManager: Start proc 3773:com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0/u0ai9000 for  {com.jorendorff.wordfeed/org.chromium.content.app.SandboxedProcessService0:0}
+10-15 14:53:45.071  3316  3760 W chromium: [WARNING:dns_config_service_android.cc(115)] Failed to read DnsConfig.
+10-15 14:53:45.095  3773  3773 I cr_WebViewApkApp: Launched version=113.0.5672.136 minSdkVersion=29 isBundle=false processName=com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0
+10-15 14:53:45.387  3316  3316 D Wordfeed: oed: created WebView
+10-15 14:53:45.430  3316  3316 D Wordfeed: oed: show key=0/false active=true loaded=null size=0x0
+10-15 14:53:45.484  3316  3316 D Wordfeed: awad: created WebView
+10-15 14:53:45.511  3316  3316 D Wordfeed: awad: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.579   520   551 I ActivityManager: Start proc 3843:com.google.android.webview:webview_apk/u0a134 for service {com.google.android.webview/org.chromium.android_webview.nonembedded.AwComponentUpdateService}
+10-15 14:53:45.625  3316  3316 D Wordfeed: wordnik: created WebView
+10-15 14:53:45.637  3316  3316 D Wordfeed: wordnik: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.655  3316  3316 D Wordfeed: mw: created WebView
+10-15 14:53:45.673  3316  3316 D Wordfeed: mw: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.769  3316  3316 D Wordfeed: wiktionary: created WebView
+10-15 14:53:45.782  3316  3316 D Wordfeed: wiktionary: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.816  3316  3316 D Wordfeed: tfd: created WebView
+10-15 14:53:45.831  3316  3316 D Wordfeed: tfd: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.872  3316  3316 D Wordfeed: macquarie: created WebView
+10-15 14:53:45.889  3316  3316 D Wordfeed: macquarie: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.916  3316  3316 D Wordfeed: vocabcom: created WebView
+10-15 14:53:45.930  3316  3316 D Wordfeed: vocabcom: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.960  3316  3316 D Wordfeed: sesquiotica: created WebView
+10-15 14:53:45.970  3316  3316 D Wordfeed: sesquiotica: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:45.991  3316  3316 D Wordfeed: grammarphobia: created WebView
+10-15 14:53:46.001  3316  3316 D Wordfeed: grammarphobia: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:46.039  3316  3316 D Wordfeed: cambridge-blog: created WebView
+10-15 14:53:46.051  3316  3316 D Wordfeed: cambridge-blog: show key=0/false active=false loaded=null size=0x0
+10-15 14:53:47.733  3316  3316 D Wordfeed: awad: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:53:47.735  3316  3316 D Wordfeed: wordnik: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:53:47.744  3316  3316 D Wordfeed: mw: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:53:47.745  3316  3316 D Wordfeed: wiktionary: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:53:47.942  3843  3936 W cr_AWNetworkFetcherTask: 	at org.chromium.android_webview.nonembedded.NetworkFetcherTask.download(chromium-TrichromeWebViewGoogle6432.apk-stable-567263637:48)
+10-15 14:53:48.419  3316  3316 D Wordfeed: awad: page finished about:blank
+10-15 14:53:48.475  3316  3316 D Wordfeed: wordnik: page finished about:blank
+10-15 14:53:48.552  3316  3316 D Wordfeed: mw: page finished about:blank
+10-15 14:53:48.621  3316  3316 D Wordfeed: wiktionary: page finished about:blank
+10-15 14:53:48.868  3316  3316 D Wordfeed: tfd: page finished about:blank
+10-15 14:53:48.882  3316  3316 D Wordfeed: macquarie: page finished about:blank
+10-15 14:53:48.908  3316  3316 D Wordfeed: vocabcom: page finished about:blank
+10-15 14:53:48.991  3316  3316 D Wordfeed: sesquiotica: page finished about:blank
+10-15 14:53:49.006  3316  3316 D Wordfeed: grammarphobia: page finished about:blank
+10-15 14:53:49.032  3316  3316 D Wordfeed: cambridge-blog: page finished about:blank
+10-15 14:53:49.885  3316  4055 D Wordfeed: oed: fetch https://www.oed.com/
+10-15 14:53:49.912  3316  4055 D Wordfeed: wordnik: fetch https://www.wordnik.com/word-of-the-day
+10-15 14:53:49.940  3316  4055 D Wordfeed: awad: fetch https://wordsmith.org/words/today.html
+10-15 14:53:49.954  3316  4055 D Wordfeed: mw: fetch https://www.merriam-webster.com/wotd/feed/rss2
+10-15 14:53:50.013  3316  4055 D Wordfeed: wiktionary: fetch https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss
+10-15 14:53:50.663  3316  3316 D Wordfeed: macquarie: warm
+10-15 14:53:50.664  3316  3316 D Wordfeed: tfd: warm
+10-15 14:53:50.664  3316  3316 D Wordfeed: vocabcom: warm
+10-15 14:53:50.665  3316  3316 D Wordfeed: grammarphobia: warm
+10-15 14:53:50.665  3316  3316 D Wordfeed: sesquiotica: warm
+10-15 14:53:50.665  3316  3316 D Wordfeed: cambridge-blog: warm
+10-15 14:53:50.665  3316  3316 D Wordfeed: oed: page finished file:///android_asset/reader.html
+10-15 14:53:50.665  3316  3316 D Wordfeed: wordnik: page finished file:///android_asset/reader.html
+10-15 14:53:50.666  3316  3316 D Wordfeed: awad: page finished file:///android_asset/reader.html
+10-15 14:53:50.667  3316  3316 D Wordfeed: mw: page finished file:///android_asset/reader.html
+10-15 14:53:50.668  3316  3316 D Wordfeed: wiktionary: page finished file:///android_asset/reader.html
+10-15 14:53:50.851  3316  3316 D Wordfeed: awad: warm
+10-15 14:53:50.851  3316  3316 D Wordfeed: mw: warm
+10-15 14:53:50.851  3316  3316 D Wordfeed: wordnik: warm
+10-15 14:53:50.851  3316  3316 D Wordfeed: wiktionary: warm
+10-15 14:53:50.999  3316  3316 D Wordfeed: oed: warm
+10-15 14:53:50.999  3316  3316 D Wordfeed: awad: warm
+10-15 14:53:51.000  3316  3316 D Wordfeed: mw: warm
+10-15 14:53:51.000  3316  3316 D Wordfeed: wordnik: warm
+10-15 14:53:51.000  3316  3316 D Wordfeed: wiktionary: warm
+10-15 14:53:51.080  3316  3316 D Wordfeed: wordnik: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:53:51.081  3316  3316 D Wordfeed: mw: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:53:51.081  3316  3316 D Wordfeed: wiktionary: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:53:51.082  3316  3316 D Wordfeed: tfd: show key=0/false active=false loaded=null size=1080x1915
+10-15 14:53:51.082  3316  3316 D Wordfeed: macquarie: show key=0/false active=false loaded=null size=1080x1915
+10-15 14:53:51.082  3316  3316 D Wordfeed: vocabcom: show key=0/false active=false loaded=null size=1080x1915
+10-15 14:53:51.082  3316  3316 D Wordfeed: sesquiotica: show key=0/false active=false loaded=null size=1080x1915
+10-15 14:53:51.083  3316  3316 D Wordfeed: grammarphobia: show key=0/false active=false loaded=null size=1080x1915
+10-15 14:53:51.083  3316  3316 D Wordfeed: cambridge-blog: show key=0/false active=false loaded=null size=1080x1915
+10-15 14:53:51.852  3316  3316 D Wordfeed: mw: fetched https://www.merriam-webster.com/wotd/feed/rss2 ok=true 50196 chars
+10-15 14:53:52.553  3316  3316 D Wordfeed: wiktionary: fetched https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss ok=true 122412 chars
+10-15 14:53:52.604  3316  3316 D Wordfeed: wordnik: fetched https://www.wordnik.com/word-of-the-day ok=true 51007 chars
+10-15 14:53:52.621  3316  4055 D Wordfeed: mw: rendered key=f5cebff7-bb8d-44a6-a501-6a3dc6e5a2af
+10-15 14:53:53.226  3316  4055 D Wordfeed: wiktionary: rendered key=https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261015000000/en
+10-15 14:53:53.452  3316  3316 D Wordfeed: awad: fetched https://wordsmith.org/words/today.html ok=true 8776 chars
+10-15 14:53:53.676  3316  4055 D Wordfeed: wordnik: rendered key=peridomestic
+10-15 14:53:53.962  3316  4055 D Wordfeed: awad: rendered key=exute
+10-15 14:53:54.146  3316  3316 D Wordfeed: oed: fetched https://www.oed.com/ ok=true 27337 chars
+10-15 14:53:54.985  3316  4055 D Wordfeed: oed: rendered key=pochade
+10-15 14:53:55.018  3316  3760 W ndorff.wordfeed: Long monitor contention with owner ThreadPoolForeg (3759) at org.chromium.net.AndroidCertVerifyResult OB0.h(byte[][], java.lang.String, java.lang.String)(chromium-TrichromeWebViewGoogle6432.apk-stable-567263637:242) waiters=0 in org.chromium.net.AndroidCertVerifyResult OB0.h(byte[][], java.lang.String, java.lang.String) for 409ms
+10-15 14:54:28.703  3316  3316 D Wordfeed: wordnik: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:32.227  3316  3316 D Wordfeed: wordnik: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:35.740  3316  3316 D Wordfeed: wordnik: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:43.367  3316  3316 D Wordfeed: oed: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:43.369  3316  3316 D Wordfeed: mw: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:47.769  3316  3316 D Wordfeed: awad: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:47.770  3316  3316 D Wordfeed: wiktionary: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:47.986  3316  3316 D Wordfeed: oed: show key=0/false active=false loaded=0/false size=1080x1915
+10-15 14:54:47.986  3316  3316 D Wordfeed: tfd: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:54:48.302  3316  4055 D Wordfeed: tfd: fetch https://www.thefreedictionary.com/_/WoD/rss.aspx
+10-15 14:54:48.331  3316  3316 D Wordfeed: tfd: page finished file:///android_asset/reader.html
+10-15 14:54:48.772  3316  3316 D Wordfeed: tfd: fetched https://www.thefreedictionary.com/_/WoD/rss.aspx ok=true 2938 chars
+10-15 14:54:48.785  3316  4055 D Wordfeed: tfd: rendered key=https://www.thefreedictionary.com/dapper
+10-15 14:54:52.235  3316  3316 D Wordfeed: wordnik: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:52.235  3316  3316 D Wordfeed: tfd: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:52.423  3316  3316 D Wordfeed: awad: show key=0/false active=false loaded=0/false size=1080x1915
+10-15 14:54:52.424  3316  3316 D Wordfeed: macquarie: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:54:52.570  3316  4055 D Wordfeed: macquarie: fetch https://www.macquariedictionary.com.au/
+10-15 14:54:52.627  3316  3316 D Wordfeed: macquarie: page finished file:///android_asset/reader.html
+10-15 14:54:53.680  3316  3316 D Wordfeed: macquarie: fetched https://www.macquariedictionary.com.au/ ok=true 139625 chars
+10-15 14:54:53.691  3316  4055 D Wordfeed: macquarie: rendered key=marquisate
+10-15 14:54:56.585  3316  3316 D Wordfeed: mw: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:56.588  3316  3316 D Wordfeed: macquarie: show key=0/false active=true loaded=0/false size=1080x1915
+10-15 14:54:56.853  3316  3316 D Wordfeed: wordnik: show key=0/false active=false loaded=0/false size=1080x1915
+10-15 14:54:56.857  3316  3316 D Wordfeed: vocabcom: show key=0/false active=true loaded=null size=1080x1915
+10-15 14:54:57.027  3316  4055 D Wordfeed: vocabcom: fetch https://www.vocabulary.com/word-of-the-day/
+10-15 14:54:57.055  3316  3316 D Wordfeed: vocabcom: page finished file:///android_asset/reader.html
+10-15 14:54:57.641  3316  3316 D Wordfeed: vocabcom: fetched https://www.vocabulary.com/word-of-the-day/ ok=true 46183 chars
+10-15 14:54:57.662  3316  4055 D Wordfeed: vocabcom: rendered key=telegenic
+10-15 14:54:59.788  5421  6105 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@a265b05
+10-15 14:55:03.075  3316  3316 D Wordfeed: oed: show key=1/false active=false loaded=0/false size=1080x1915
+10-15 14:55:03.076  3316  3316 D Wordfeed: awad: show key=1/false active=false loaded=0/false size=1080x1915
+10-15 14:55:03.076  3316  3316 D Wordfeed: wordnik: show key=1/false active=false loaded=0/false size=1080x1915
+10-15 14:55:03.077  3316  3316 D Wordfeed: mw: show key=1/false active=true loaded=0/false size=1080x1915
+10-15 14:55:03.078  3316  3316 D Wordfeed: wiktionary: show key=1/false active=true loaded=0/false size=1080x1915
+10-15 14:55:03.080  3316  3316 D Wordfeed: tfd: show key=1/false active=true loaded=0/false size=1080x1915
+10-15 14:55:03.080  3316  3316 D Wordfeed: macquarie: show key=1/false active=true loaded=0/false size=1080x1915
+10-15 14:55:03.085  3316  3316 D Wordfeed: vocabcom: show key=1/false active=true loaded=0/false size=1080x1915
+10-15 14:55:03.086  3316  3316 D Wordfeed: sesquiotica: show key=1/false active=false loaded=null size=1080x1915
+10-15 14:55:03.086  3316  3316 D Wordfeed: grammarphobia: show key=1/false active=false loaded=null size=1080x1915
+10-15 14:55:03.088  3316  3316 D Wordfeed: cambridge-blog: show key=1/false active=false loaded=null size=1080x1915
+10-15 14:55:03.589  3316  4055 D Wordfeed: tfd: fetch https://www.thefreedictionary.com/_/WoD/rss.aspx
+10-15 14:55:03.599  3316  4055 D Wordfeed: vocabcom: fetch https://www.vocabulary.com/word-of-the-day/
+10-15 14:55:03.609  3316  4055 D Wordfeed: mw: fetch https://www.merriam-webster.com/wotd/feed/rss2
+10-15 14:55:03.636  3316  4055 D Wordfeed: macquarie: fetch https://www.macquariedictionary.com.au/
+10-15 14:55:03.790  3316  4055 D Wordfeed: wiktionary: fetch https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss
+10-15 14:55:03.919  3316  3316 D Wordfeed: tfd: fetched https://www.thefreedictionary.com/_/WoD/rss.aspx ok=true 2938 chars
+10-15 14:55:03.920  3316  3316 D Wordfeed: mw: page finished file:///android_asset/reader.html
+10-15 14:55:03.920  3316  3316 D Wordfeed: tfd: page finished file:///android_asset/reader.html
+10-15 14:55:03.920  3316  3316 D Wordfeed: vocabcom: page finished file:///android_asset/reader.html
+10-15 14:55:03.920  3316  3316 D Wordfeed: macquarie: page finished file:///android_asset/reader.html
+10-15 14:55:03.920  3316  3316 D Wordfeed: wiktionary: page finished file:///android_asset/reader.html
+10-15 14:55:03.920  3316  3316 D Wordfeed: vocabcom: fetched https://www.vocabulary.com/word-of-the-day/ ok=true 46183 chars
+10-15 14:55:04.042  3316  4055 D Wordfeed: tfd: rendered key=https://www.thefreedictionary.com/dapper
+10-15 14:55:04.179  3316  4055 D Wordfeed: vocabcom: rendered key=telegenic
+10-15 14:55:04.267  3316  3316 D Wordfeed: macquarie: fetched https://www.macquariedictionary.com.au/ ok=true 139625 chars
+10-15 14:55:04.318  3316  3316 D Wordfeed: mw: fetched https://www.merriam-webster.com/wotd/feed/rss2 ok=true 50196 chars
+10-15 14:55:04.394  3316  4055 D Wordfeed: macquarie: rendered key=marquisate
+10-15 14:55:04.621  3316  3316 D Wordfeed: wiktionary: fetched https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss ok=true 122412 chars
+10-15 14:55:04.660  3316  4055 D Wordfeed: mw: rendered key=f5cebff7-bb8d-44a6-a501-6a3dc6e5a2af
+10-15 14:55:04.849  3316  4055 D Wordfeed: wiktionary: rendered key=https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261015000000/en
