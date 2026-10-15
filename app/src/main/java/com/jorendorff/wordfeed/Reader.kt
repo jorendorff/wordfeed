@@ -61,7 +61,9 @@ class ReaderView(
 
             override fun onPageFinished(view: WebView, url: String) {
                 Log.d(TAG, "${source.id}: page finished $url")
-                if (url == "about:blank" && !vm.isWarm(source)) {
+                // Warm once it has drawn anything: the blank page, or real
+                // content if that replaced the blank page first.
+                if (!vm.isWarm(source)) {
                     postVisualStateCallback(0, object : VisualStateCallback() {
                         override fun onComplete(requestId: Long) {
                             Log.d(TAG, "${source.id}: warm")
