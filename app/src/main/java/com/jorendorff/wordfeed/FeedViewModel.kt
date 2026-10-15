@@ -101,6 +101,15 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
         generation++
     }
 
+    /** Source ids whose WebView has drawn at least once (see ReaderView). */
+    private val warm = mutableStateMapOf<String, Unit>()
+
+    fun markWarm(s: Source) {
+        warm[s.id] = Unit
+    }
+
+    fun isWarm(s: Source): Boolean = s.id in warm
+
     fun startedLoading(s: Source) {
         loading[s.id] = Unit
     }

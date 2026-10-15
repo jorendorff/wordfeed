@@ -30,6 +30,7 @@ class ReaderView(
     context: Context,
     private val vm: FeedViewModel,
     private val source: Source,
+    dark: Boolean,
 ) : WebView(context) {
     private val bridge = ReaderBridge(this, vm, source)
     private var loadedKey: String? = null
@@ -60,6 +61,14 @@ class ReaderView(
 
             override fun onPageFinished(view: WebView, url: String) {
                 Log.d(TAG, "${source.id}: page finished $url")
+                if (url == "about:blank" && !vm.isWarm(source)) {
+                    postVisualStateCallback(0, object : VisualStateCallback() {
+                        override fun onComplete(requestId: Long) {
+                            Log.d(TAG, "${source.id}: warm")
+                            vm.markWarm(source)
+                        }
+                    })
+                }
             }
         }
         webChromeClient = object : WebChromeClient() {
@@ -69,11 +78,12 @@ class ReaderView(
             }
         }
         addJavascriptInterface(bridge, "WordfeedNative")
-        // Get the WebView going right away with an empty page. A WebView's
-        // first load makes the other WebViews blank for a frame or two; doing
-        // it now, at startup, keeps that from happening mid-swipe later. (It
-        // also keeps never-loaded WebViews from being drawn over the visible
-        // page, seen on an API 34 emulator.)
+        // Warm up: the first time a WebView draws, the other WebViews blank
+        // for a frame or two. So every page draws an empty page, in the
+        // background color, right at startup, instead of mid-swipe later.
+        // Pages report when they've drawn (markWarm), and only then does the
+        // app hide pages that aren't next to the current one.
+        setBackgroundColor((if (dark) ReaderDarkBg else ReaderLightBg).toInt())
         loadUrl("about:blank")
     }
 

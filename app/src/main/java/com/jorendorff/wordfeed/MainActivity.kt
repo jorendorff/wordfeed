@@ -135,6 +135,15 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
     // scrolling tab bar). Only sources whose tabs you can see get loaded.
     val visibleTabWidth = remember { mutableStateMapOf<String, Float>() }
 
+    // Until every page's WebView has drawn once, keep them all visible (see
+    // ReaderView). Give up waiting after a few seconds.
+    var warmTimedOut by remember { mutableStateOf(false) }
+    LaunchedEffect(Unit) {
+        kotlinx.coroutines.delay(4000)
+        warmTimedOut = true
+    }
+    val allWarm = warmTimedOut || sources.all { vm.isWarm(it) }
+
     // Looking at a source marks its newest entry as read.
     LaunchedEffect(settled?.id, settledKey) {
         if (settled != null) vm.markSeen(settled)
@@ -213,7 +222,7 @@ fun ReaderScreen(vm: FeedViewModel, dark: Boolean, onManage: () -> Unit) {
                 // Only the current page and its neighbors are drawn. A page the
                 // pager hasn't laid out on screen yet can otherwise be drawn on
                 // top of the current one (seen on an API 34 emulator).
-                val near = kotlin.math.abs(page - pagerState.currentPage) <= 1
+                val near = !allWarm || kotlin.math.abs(page - pagerState.currentPage) <= 1
                 ReaderPage(vm, source, dark, active, near)
             }
         }
@@ -229,7 +238,7 @@ fun ReaderPage(vm: FeedViewModel, source: Source, dark: Boolean, active: Boolean
     val generation = vm.generation
     AndroidView(
         modifier = Modifier.fillMaxSize(),
-        factory = { ctx -> ReaderView(ctx, vm, source) },
+        factory = { ctx -> ReaderView(ctx, vm, source, dark) },
         update = { view ->
             view.visibility = if (near) android.view.View.VISIBLE else android.view.View.INVISIBLE
             view.show(generation, dark, active)
