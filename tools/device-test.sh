@@ -24,9 +24,20 @@ adb shell input swipe 540 1800 640 1200 400
 sleep 3
 shot 03-diagonal
 
-# A clear horizontal swipe: should switch to the next source.
+# Record video while swiping to the next source, back, and to it again,
+# to catch brief glitches a screenshot would miss. (The first visit to a
+# page with new content used to flash blank.)
+adb shell screenrecord --time-limit 12 /sdcard/swipe.mp4 &
+REC=$!
+sleep 1
 adb shell input swipe 950 1500 150 1500 300
-sleep 15
+sleep 3
+adb shell input swipe 150 1500 950 1500 300
+sleep 3
+adb shell input swipe 950 1500 150 1500 300
+wait $REC
+sleep 1
+adb pull /sdcard/swipe.mp4 "$OUT/swipe.mp4"
 shot 04-swiped
 
 # Tap Refresh (top bar, second icon from the right).
