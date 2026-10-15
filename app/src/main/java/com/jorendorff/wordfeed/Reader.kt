@@ -36,6 +36,10 @@ class ReaderView(
 
     init {
         Log.d(TAG, "${source.id}: created WebView")
+        // Pages never need keyboard focus, and a WebView taking focus makes
+        // the pager scroll to it (seen when hiding pages moved focus along).
+        isFocusable = false
+        isFocusableInTouchMode = false
         settings.javaScriptEnabled = true
         // Draw while offscreen, so a page swiped in for the first time
         // doesn't flash blank while it renders.
