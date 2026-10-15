@@ -40,6 +40,20 @@ sleep 1
 adb pull /sdcard/swipe.mp4 "$OUT/swipe.mp4"
 shot 04-swiped
 
+# Slow swipes forward through several sources, so the tab strip scrolls and
+# brings never-seen tabs into view (creating their pages mid-swipe).
+adb shell screenrecord --time-limit 20 /sdcard/forward.mp4 &
+REC=$!
+sleep 1
+for i in 1 2 3 4; do
+  adb shell input swipe 900 1500 200 1500 1200
+  sleep 3
+done
+wait $REC
+sleep 1
+adb pull /sdcard/forward.mp4 "$OUT/forward.mp4"
+shot 04b-forward
+
 # Tap Refresh (top bar, second icon from the right).
 adb shell input tap 930 190
 sleep 15

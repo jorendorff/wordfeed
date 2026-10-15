@@ -35,6 +35,7 @@ class ReaderView(
     private var loadedKey: String? = null
 
     init {
+        Log.d(TAG, "${source.id}: created WebView")
         settings.javaScriptEnabled = true
         // Draw while offscreen, so a page swiped in for the first time
         // doesn't flash blank while it renders.
