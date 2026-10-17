@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Sesquiotica</title>
+	<atom:link href="https://sesquiotic.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sesquiotic.com</link>
+	<description>Words, words, words</description>
+	<lastBuildDate>Thu, 15 Oct 2026 19:35:39 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<site xmlns="com-wordpress:feed-additions:1">4654071</site><cloud domain='sesquiotic.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<source:cloud xmlns:source='https://source.scripting.com/'>https://sesquiotic.com/?rsscloud=notify</source:cloud>
+<image>
+		<url>https://secure.gravatar.com/blavatar/8c3f505f806e50c54129d5ee1555486b40fa0260edd11296da5172af91caccee?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fwebclip.png</url>
+		<title>Sesquiotica</title>
+		<link>https://sesquiotic.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://sesquiotic.com/osd.xml" title="Sesquiotica" />
+	<atom:link rel='hub' href='https://sesquiotic.com/?pushpress=hub'/>
+	<item>
+		<title>paradiddle, taradiddle</title>
+		<link>https://sesquiotic.com/2026/10/15/paradiddle-taradiddle/</link>
+					<comments>https://sesquiotic.com/2026/10/15/paradiddle-taradiddle/#comments</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 19:35:39 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[paradiddle]]></category>
+		<category><![CDATA[taradiddle]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15301</guid>
+
+					<description><![CDATA[Aina and I are taking tapdance lessons. We have been for a while, in fact, but I’m still pretty bad at it. (Aina, who has two degrees in dance, is of course doing somewhat better.) But I’ve learned some of &#8230; <a href="https://sesquiotic.com/2026/10/15/paradiddle-taradiddle/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Aina and I are taking tapdance lessons. We have been for a while, in fact, but I’m still pretty bad at it. (Aina, who has two degrees in dance, is of course doing somewhat better.) But I’ve learned some of the foundational movements and steps. And one in particular we were working on a lot this week was the…</p>
+
+
+
+<p class="wp-block-paragraph">…well, the instructor was calling it a <em>perididdle</em>, but he was a substitute (a good one, mind you); our regular instructor calls it a <em>paradiddle</em>. But our previous instructor, I thought, called it a <em>taradiddle</em>.</p>
+
+
+
+<p class="wp-block-paragraph">I’m probably wrong about that, though. She had an encyclopedic knowledge of tap and its history and personages. Most likely, I was just mishearing her. A tapdance studio is not the quietest of places.</p>
+
+
+
+<p class="wp-block-paragraph">If you want to look it up, you might not immediately get the results you want. To start with, if you try <em>perididdle</em>, any dictionary will just stare blankly back at you. Google will suggest that you must have meant <em>paradiddle</em>. So anyway, it’s not <em>peri</em>, as in <em>periwinkle</em> or <em>peritoneal</em>. It’s <em>para</em>.</p>
+
+
+
+<p class="wp-block-paragraph">But then if you look up <em>paradiddle</em> in a dictionary or encyclopedia, it will just tell you that it is a basic drum pattern, an even beat played left-right-left-left or right-left-right-right. It seems that <em>diddle</em> is a term for a double stroke, whereas a paradiddle is two alternating single strokes followed by a double stroke. So, you know, it’s a diddle with something about it – <em>para</em> being ‘about’; Wiktionary suggests it may be related to Greek παραδίδωμι <em>paradídomi</em> ‘give over, hand over, deliver’.</p>
+
+
+
+<p class="wp-block-paragraph">But don’t put too much into that Greek derivation. The fact is that a diddle sounds like “diddle” and a paradiddle sounds like “paradiddle.” So this classical appearance is more likely a bit of pareidolia.</p>
+
+
+
+<p class="wp-block-paragraph">Especially since <em>diddle</em> is not from <em>dídomi</em>. The word <em>diddle</em> as we have it, mind you, does not normally refer to the drum pattern, except in that specific context; it otherwise means ‘cheat, swindle’ or ‘dodder’ or, more recently, ‘molest’ and a few other things. This traces back to Germanic roots, though the connections are kind of fiddly – there are a few different roots that might be muddled and dithering.</p>
+
+
+
+<p class="wp-block-paragraph">One way or another, though, <em>diddle</em> appears to be the base of <em>taradiddle</em> (also spelled <em>tarradiddle</em>), which means ‘fib, falsehood, trivial bit of twaddle’. We’re not entirely sure where the <em>tara</em> comes from; it is perhaps a trifling lexical imposture.</p>
+
+
+
+<p class="wp-block-paragraph">Anyway, to get back to taps: Although a dictionary won’t tell you about the tap step, various web pages and videos will. A paradiddle is a four-beat sequence with one foot: dig-spank-step-drop. This means you dig your heel against the floor, pull it back and tap the toe as you pull the foot back, then step the toe down, and then step the heel down as well. And then you do the same on the other foot, usually, and back and forth. It doesn’t sound quite like “taradiddle”; to my ear it’s something more like “poodle paddle.”</p>
+
+
+
+<p class="wp-block-paragraph">Well, at least when you do it right. And when I’m doing it slowly, I get the steps right. But once we speed it up, my reflexes addle and my feet dissimulate, and I quickly pass from paradiddle to a terpsichorean taradiddle.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/10/15/paradiddle-taradiddle/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15301</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>scam</title>
+		<link>https://sesquiotic.com/2026/09/30/scam/</link>
+					<comments>https://sesquiotic.com/2026/09/30/scam/#comments</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 01:08:26 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[scam]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15295</guid>
+
+					<description><![CDATA[Just about 90% of the phone calls I get anymore are scams. Those scum – I wish they would scram. It makes me want to scream. I won’t pick up anymore if I don’t recognize where it’s from. There have &#8230; <a href="https://sesquiotic.com/2026/09/30/scam/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Just about 90% of the phone calls I get anymore are scams. Those scum – I wish they would scram. It makes me want to scream. I won’t pick up anymore if I don’t recognize where it’s from.</p>
+
+
+
+<p class="wp-block-paragraph">There have always been scammers, of course, scanning for some opportunity for making a fast buck. There have long been unsolicited telephone calls, and before those there were door-to-door salesmen, and travelling medicine shows, and three-card monte tricksters, and so on… But scam calls have not always made up the plain majority of phone calls, and not just because other people don’t call as much.</p>
+
+
+
+<p class="wp-block-paragraph">That seems to be the trend with scams generally. There are just so damn many scams now – and some of them for so much money, right out in the open, involving not simple alley-lurking lowlifes but prominent well-connected persons. Some will say that it’s the same as it ever was. But is that true?</p>
+
+
+
+<p class="wp-block-paragraph">Take this word <em>scam</em>. Four letters, four phonemes, not so different from quite a few other words we have –<em> scum</em>, <em>scalp</em>, <em>scab</em>, <em>scram</em>,<em> scamp</em>, <em>camp</em>, <em>scheme</em>, <em>sham</em>, <em>cram</em>, plus quite a lot more that it rhymes with, as well as others with the same sounds like <em>mask</em> and <em>max</em>. <em>Scam</em> presents itself as a time-honoured (or dishonoured) word with a grand history, woven through the English underworld from time immemorial.</p>
+
+
+
+<p class="wp-block-paragraph">Well. From&nbsp;<em>Time</em>&nbsp;in 1963, anyway. That’s the first citation of it that the <em>Oxford English Dictionary</em> has. <em>Green’s Dictionary of Slang</em> reaches back a bit further in related senses. There’s a 1958 use of it to mean ‘nonsense’, and there’s a 1951 use of <em>skam</em> to mean ‘scheme’. There’s even a Damon Runyon use of <em>scamus</em> in 1944.</p>
+
+
+
+<p class="wp-block-paragraph">But that’s it. That’s as far back as it goes in the print record. We’re not even sure where it’s from. Maybe <em>scamp</em>; maybe Danish <em>skam</em>, which would relate it directly to <em>shame</em> and <em>sham</em>. But really, all we can pick up are whispers in the wind.</p>
+
+
+
+<p class="wp-block-paragraph">And, really, its vector into widespread use came in 1980, with an FBI sting operation in which numerous politicians were caught accepting bribes from representatives of a fictitious Arabian company. The operation was called <em>Abscam</em>, from <em>Arab scam</em> (though, after complaints from the American-Arab Relations Committee, the FBI subsequently revised the official etymology to be <em>Abdul scam</em>, from Kambir Abdul Rahman, one of the characters involved). Obviously the word <em>scam</em> was already current within the FBI at the time. And many other people had probably heard it. But its use really caught on after that sting dominated the news for quite a while.</p>
+
+
+
+<p class="wp-block-paragraph">And, alas, use of scams has, with technological advancements, seemed to become epidemic. By coincidence (what else could it be?), as I was writing this, I heard the TV from the other room and it was an episode of PBS’s <em>Frontline</em> called “Scammed,” all about online scams, often being run from compounds in Southeast Asia – where the people working in them have themselves been scammed into going there with the promise of completely different kinds of jobs, then kept there by force and beaten badly if they don’t do the scamming.</p>
+
+
+
+<p class="wp-block-paragraph">It’s not just phone calls, either; it’s social media, through every possible angle. I can tell you that I get incessant game requests on Scrabble from obviously fake people, who you can feel certain are wanting to build a relationship with me so they can gradually get me to fall for a scam. That’s what the scammers do, and they all involve the impression of a real deep and detailed personal history that you can relate to. But it’s not even as deep as the history of this word.</p>
+
+
+
+<p class="wp-block-paragraph">And it all involves links, as <em>Frontline</em> showed, links that can often be followed. For instance, the scam compounds need to connect to the internet, and very often it’s with the aid of Starlink connections, which can often be identified – sort of like how we can identify <em>Abscam</em> as a key point of spread for <em>scam</em>. And many – probably most – of these scams use cryptocurrency, which has the traceability of the blockchain, like an etymology for money.</p>
+
+
+
+<p class="wp-block-paragraph">Well, sort of like it. Just as we can see where the word <em>scam</em> has been used, it’s possible to see where the cryptocurrency changed hands – but not necessarily whose hands it was passing between. And at length, after being passed through many transactions to obscure it, it ends up at a cryptocurrency exchange, where it can be converted to government currency, and there the traceable trail ends – it’s out in the wind, just like <em>scam</em> before its first appearances in print.</p>
+
+
+
+<p class="wp-block-paragraph"><em>Scam</em>&nbsp;came from somewhere; there were people involved. But who, and why, and how? Perhaps we will find out someday. But I wouldn’t stake any money on it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/09/30/scam/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15295</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>invent</title>
+		<link>https://sesquiotic.com/2026/09/24/invent/</link>
+					<comments>https://sesquiotic.com/2026/09/24/invent/#comments</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 03:21:06 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[invent]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15291</guid>
+
+					<description><![CDATA[What is, and what is not, invention? If you discern a mathematical relationship that no one has noticed before, and you produce an equation characterizing it, you didn’t invent it, did you? You just applied existing methods to a new &#8230; <a href="https://sesquiotic.com/2026/09/24/invent/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">What is, and what is not, invention?</p>
+
+
+
+<p class="wp-block-paragraph">If you discern a mathematical relationship that no one has noticed before, and you produce an equation characterizing it, you didn’t invent it, did you? You just applied existing methods to a new discovery.</p>
+
+
+
+<p class="wp-block-paragraph">If you come up with a wordplay, you don’t invent a pun – it is not so much an act of creation as just one of noticing, right?&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">What about if you write poetry? That may be a matter of thinking something out, but is it sensible to speak of inventing a poem?&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Paul Quarrington thought so; in his play <em>The Invention of Poetry</em>, it is not the idea or paradigm or practice of poetry that is spoken of as being invented, but rather the wordstuff of a particular poem. That’s how Shakespeare and Dryden used <em>invent</em>, synonymously with <em>create</em>. But it seems unidiomatic now.</p>
+
+
+
+<p class="wp-block-paragraph">So what, then, do we mean when we say <em>invent</em>? If I invent a vent, what developments and differentiations must I devise so that it’s not merely an advance or variation? I don’t need to invent the concept or practice of venting; I need only invent a new way to vent – something clever, something that shows a spark of inspiration, the divine afflatus or at least an insight of the moment. Perhaps something that lets me vent steam from my stove without installing a duct or merely recirculating. (Don’t ask me what. I didn’t say I <em>had</em> invented it.)</p>
+
+
+
+<p class="wp-block-paragraph">But say I do invent a vent, or some other advent of invention eventuates. Is it the exertion of my own genius, or is it just something that somehow comes to me, or that I somehow come upon?</p>
+
+
+
+<p class="wp-block-paragraph">Different people have different opinions, to be sure. In particular, the ancient Anglo-Saxons saw it one way, and the Romans another. The Anglo-Saxon word for ‘invent’ was <em>āþenċan</em>, literally ‘think out’ – make a thought and excrete it into the world. But that was supplanted by a word taken from French <em>inventer</em>, which in its turn came from Latin <em>inventus</em>, past participle of <em>invenio</em>, which is from <em>in</em> ‘in’ and <em>venio</em> ‘I come’ (different from the source of <em>vent</em>, <em>ventus</em>, which is from a root meaning ‘blow’ and is cognate with <em>wind</em>).</p>
+
+
+
+<p class="wp-block-paragraph">This means not so much that the invention comes into you – blown into your head, as it were – as that you come into, or upon, the invention. If in Latin I want to speak of someone or something being found or discovered, I can use <em>inventus</em>. This seems odd to the English eye, as though a detective might invent a corpse (obviously more the work of the murderer, at least in Dryden’s sense of <em>invent</em>, which can include simple making from raw materials). But there it is.</p>
+
+
+
+<p class="wp-block-paragraph">We came into the word <em>invent</em>, anyway, and at first we used it like <em>discover</em> – which means ‘remove the cover from’, remember – or <em>discern</em> – which comes from roots meaning ‘separate, divide, sieve’. Then we came to use it like <em>devise</em>, which is historically a doublet of <em>divide</em>; our current sense descends from a use with wills, where the dividing of possessions was converted into instructions, and then from giving instructions the sense moved on to figuring out.</p>
+
+
+
+<p class="wp-block-paragraph">Today, we conceive of the mental act <em>invent</em> as synonymous with <em>create</em>, from Latin <em>creo</em>, related to a root meaning ‘grow’, and with <em>conceive</em>, which comes from <em>con</em> ‘with’ plus <em>capio</em> ‘I seize, I grasp’. You may sow or you may reap and yet you invent.</p>
+
+
+
+<p class="wp-block-paragraph">But in the material production, we use <em>invent</em> as a sort of synonym for <em>contrive</em>… with which we find that what went around has come around. It’s from <em>con</em> ‘with’ and Old French <em>trovar</em> ‘find’, from Latin <em>tropare</em>, which meant ‘find’, and before that ‘invent’, and before that specifically ‘create poetry’, from <em>tropus</em> ‘figurative use of a word’ (you may recognize the source of English <em>trope</em> in it). It’s almost poetic justice. Or at least the intrinsic inadvertent inventiveness of verbal evolution.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/09/24/invent/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15291</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>souse</title>
+		<link>https://sesquiotic.com/2026/09/15/souse/</link>
+					<comments>https://sesquiotic.com/2026/09/15/souse/#respond</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 00:52:54 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[souse]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15287</guid>
+
+					<description><![CDATA[Sometimes you get into the sauce and things go south: you sluice whatever’s in the house into your mouth, you start to get salty, your brain turns to brine, and you’re pickled. In short, you’re soused. Or, to say it &#8230; <a href="https://sesquiotic.com/2026/09/15/souse/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Sometimes you get into the sauce and things go south: you sluice whatever’s in the house into your mouth, you start to get salty, your brain turns to brine, and you’re pickled. In short, you’re soused. Or, to say it another way, you’re a souse.</p>
+
+
+
+<p class="wp-block-paragraph">Now, tell me, those of you on speaking terms with <em>souse</em>: while we all agree that <em>soused</em> means ‘heavily inebriated’, do you use <em>souse</em> to mean ‘a person who is currently heavily inebriated’ or do you use it to mean ‘a person who is habitually inebriated’? In other words, in your usage, is the relation between <em>soused</em> and <em>a souse</em> the same as between <em>drunk</em> and <em>a drunk</em>?</p>
+
+
+
+<p class="wp-block-paragraph">Hmm, well, how about the relation between <em>pickled</em> and <em>a pickle</em>? If something is <em>a pickle</em>, it has been pickled, but, more to the point, it is presented as intrinsically and permanently pickled. It will never be unpickled at any future time you may pick. Pickle is its nature. So calling someone <em>a souse</em> is like calling them <em>a pickle</em>, right?</p>
+
+
+
+<p class="wp-block-paragraph">Hmm, yes and no. First let’s get the order of derivations straight: the noun <em>pickle</em> came before the verb. It’s called <em>pickling</em> because it involves using a <em>pickle</em>. But – trick! trickle! – the original sense of <em>pickle</em> is the brine. The cucumber (or other vegetable) has gotten the name <em>pickle</em> by transference. </p>
+
+
+
+<p class="wp-block-paragraph">But back to <em>souse</em>: It is a similar situation to <em>pickle</em> in that <em>soused</em>, the participle, derives from <em>souse</em>, the verb, which in turn comes from <em>souse</em>, the noun. So a souse is not so called from being soused, but rather the converse.</p>
+
+
+
+<p class="wp-block-paragraph">It is also a similar situation because <em>soused</em> means, literally, <em>pickled</em>, and a <em>souse</em> is something that has been steeped in brine. Not necessarily a pickled cucumber per se, though – more likely something that’s a sow’s. Or a hog’s. You know, pickled pig’s feet, pickled pig’s ears, that manner of thing. And specifically it’s pickled in a salty brine: <em>souse</em>, you see, comes via French from Proto-Germanic (yes, Proto-Germanic – French has lots of Frankish bits) <em>*sultijō</em> ‘saltwater, brine’, which is derived from a Proto-Indo-European root <em>*sḗh₂l</em> ‘salt’. </p>
+
+
+
+<p class="wp-block-paragraph">It’s interesting to see that the /s–l/ and then /s–lt/ was preserved for such a long time, only to have the /l/ softened up to /ʊ/ and the /t/ to /s/ to make /saʊs/, sounding as though someone truly sauced were trying to say “salt.” But on the other hand, in the figurative transference, the key component, salt – something that makes you thirsty – has been replaced by a completely different agent, one often used (with variable efficacy) to address thirst: alcohol.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/09/15/souse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15287</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Ontario</title>
+		<link>https://sesquiotic.com/2026/09/04/ontario/</link>
+					<comments>https://sesquiotic.com/2026/09/04/ontario/#respond</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 14:21:24 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[Lake Ontario]]></category>
+		<category><![CDATA[Ontario]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15276</guid>
+
+					<description><![CDATA[I’ve lived in Ontario for nearly 30 years. I’ve woken up every morning with a view of Lake Ontario for 18 years. But somehow I’ve neglected to taste the word&#160;Ontario&#160;until now. Ontario&#160;is a musical word, suited if not for an &#8230; <a href="https://sesquiotic.com/2026/09/04/ontario/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><a href="https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg"><img width="768" height="1024" data-attachment-id="15278" data-permalink="https://sesquiotic.com/2026/09/04/ontario/o-1/" data-orig-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg" data-orig-size="900,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;camera&quot;:&quot;iPhone 14 Pro&quot;,&quot;created_timestamp&quot;:&quot;1788288765&quot;,&quot;focal_length&quot;:&quot;9&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.0023474178403756&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="O-1" data-image-description="" data-image-caption="" data-large-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg?w=500" src="https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg?w=768" alt="" class="wp-image-15278" srcset="https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg?w=768 768w, https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg?w=113 113w, https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg?w=225 225w, https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg 900w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph">I’ve lived in Ontario for nearly 30 years. I’ve woken up every morning with a view of Lake Ontario for 18 years. But somehow I’ve neglected to taste the word&nbsp;<em>Ontario</em>&nbsp;until now.</p>
+
+
+
+<p class="wp-block-paragraph"><em>Ontario</em>&nbsp;is a musical word, suited if not for an oratorio then at least for an aria on the radio – or for an airy jingle, as the provincial government showed every Canadian starting in 1967: their promotional song branded all our brains with “A place to stand, a place to grow, Ontari-ari-ario” (music by Dolores Claman, more famous for the&nbsp;<em>Hockey Night in Canada</em> theme): <a href="https://www.youtube.com/watch?v=zPgZFzO0XZ0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=zPgZFzO0XZ0</a></p>
+
+
+
+<p class="wp-block-paragraph">It’s a pretty efficient word, too: four syllables from seven letters, with “airy” in its heart, and using the same vowel at the start and the end – traits that it shares with, among others, <em>America</em>. But I’m not in America (I’m in North America, but not in the country commonly called America), and though my view is elevated, I can’t quite see America across Lake Ontario, because the lake is, after all, a great big one.</p>
+
+
+
+<p class="wp-block-paragraph"><em>Ontario</em>&nbsp;names several places. In Canada, it’s two big ones: the province of Ontario, the most populous and second largest of Canada’s provinces (two territories are larger, but territories are not provinces), and Lake Ontario, the smallest of the great lakes by area (but second smallest by volume). It’s also smaller places, such as Ontario Street, which is on the east side of downtown Toronto (and probably other places in other towns too), and Hurontario Street, which was laid to run from Lake Huron (Georgian Bay) in Collingwood to Lake Ontario in Mississauga (more than 130 km, but it has some gaps).</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg"><img width="1024" height="682" data-attachment-id="15279" data-permalink="https://sesquiotic.com/2026/09/04/ontario/o-2/" data-orig-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;camera&quot;:&quot;NEX-7&quot;,&quot;created_timestamp&quot;:&quot;1725114235&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.0015625&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="O-2" data-image-description="" data-image-caption="" data-large-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=500" src="https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=1024" alt="" class="wp-image-15279" srcset="https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=1024 1024w, https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=150 150w, https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=300 300w, https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=768 768w, https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph">There are also eight towns and cities in the USA called Ontario (including, notably, a suburb of Los Angeles, where you will find Ontario Airport, which I have to think has confused some people), and they all seem to be named after the lake or the province. But just to get an Ont-ological question out of the way right away: The province of Ontario is named after the lake, and not vice versa (before Canada became an independent country in 1867, Ontario was called Upper Canada, a name you’ll see reflected in various places and things).&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The lake has been called&nbsp;<em>Ontario</em>&nbsp;for a long, long time. And for much of that time, it wasn’t <em>Lake Ontario</em>, it was just <em>Ontario</em>&nbsp;– or another similar word that’s the source of <em>Ontario</em>. This could possibly be&nbsp;<em>skanadario</em>, an Iroquioian word meaning ‘beautiful water’ or ‘sparkling water’, but it’s probably <em>Ontarí:io</em>, a Huron-Wendat word meaning – wait for it – ‘great lake’.</p>
+
+
+
+<p class="wp-block-paragraph">Yes, that’s right. The smallest of the great lakes is the one named Great Lake. But also, that means <em>Lake Ontario</em> is a redundancy, just like <em>Sahara Desert</em> (in Arabic, <em>ṣaḥārā</em> means ‘deserts’). But it’s been called <em>Lake Ontario</em> since before 1794, when it was named in the Treaty of Canandaigua, signed by President George Washington (and still in effect). So we can live with the name, and more easily than, say, <em>salsa sauce</em> or <em>ATM machine</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Anyway, it’s a pretty lake, and it has some very nice beaches too – including several on Toronto Island, where my wife and I go at least once a week all summer long. The water isn’t tropically warm, true, but on the other hand it’s not salty either. And you can go to Ward’s Island beach and feel like you’re way out in the country, even though it’s less than 20 minutes from downtown, most of which is spent on a ferry across the harbour.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg"><img width="1024" height="682" data-attachment-id="15280" data-permalink="https://sesquiotic.com/2026/09/04/ontario/o-3/" data-orig-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;orientation&quot;:&quot;1&quot;}" data-image-title="O-3" data-image-description="" data-image-caption="" data-large-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=500" src="https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=1024" alt="" class="wp-image-15280" srcset="https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=1024 1024w, https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=150 150w, https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=300 300w, https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=768 768w, https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph">Most of the water in Lake Ontario was, of course, previously in the other Great Lakes, since they’re a chain like sausage links, more or less: Lake Superior empties through the St. Marys River into Lake Huron; Lake Huron empties through Lake St. Clair and the Detroit River into Lake Erie; Lake Erie empties into the Niagara River, which – after an abrupt change in elevation – empties into Lake Ontario. A fun bit of trivia is that Lake Erie is shallow enough, and Niagara Falls high enough, that the bottom of Lake Erie is higher in elevation than the surface of Lake Ontario – but Lake Superior is so deep, its bottom is lower in elevation even than the bottom of Lake Ontario.</p>
+
+
+
+<p class="wp-block-paragraph">And although the province of Ontario is named after Lake Ontario, the province touches all of the great lakes I just named. In fact, since hydrologically Lake Huron and Lake Michigan are one lake – because they have the same surface elevation – you could say that Ontario touches all of the great lakes. But we have to admit that most people don’t see it that way, because the only thing connecting Huron and Michigan is the Straits of Mackinac. Anyway, Ontario is the only province that touches any of the great lakes. And all ships that want to get from any great lake to the ocean, or vice versa, have to pass through Ontario – not just in the middle of a lake, but by way of the Welland Canal, which cuts across the Niagara Peninsula, allowing ships to avoid a rather difficult passage over the falls.</p>
+
+
+
+<p class="wp-block-paragraph">But the great lakes are not the only justification for Ontario’s having such an aqueous name. Ontario also has a shore on the Arctic Ocean – specifically the Hudson Bay and James Bay extensions of it – and within its interior it has another quarter of a million lakes. Yes, that’s right, over 250,000 lakes of various sizes. Fully one seventh of Ontario’s area is water. Most of Ontario is impossible to cross without crossing water quite often, and passing by water even more often. Ontarians seem OK with this – going to lakes is a popular pastime.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg"><img loading="lazy" width="1024" height="768" data-attachment-id="15281" data-permalink="https://sesquiotic.com/2026/09/04/ontario/o-4/" data-orig-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg" data-orig-size="1200,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.6&quot;,&quot;camera&quot;:&quot;iPhone 12 Pro&quot;,&quot;created_timestamp&quot;:&quot;1626310934&quot;,&quot;focal_length&quot;:&quot;4.2&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.0082644628099174&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="O-4" data-image-description="" data-image-caption="" data-large-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=500" src="https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=1024" alt="" class="wp-image-15281" srcset="https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=1024 1024w, https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=150 150w, https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=300 300w, https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=768 768w, https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph">And, for that matter, Ontario is nearly impossible to enter from the USA without crossing water; of the more than 2700 km of border between Ontario and the US, only about one kilometre is land, and that’s all up in the wilds at the northern edge of Minnesota. To get between Ontario and the US in a motor vehicle, you have to cross one of 14 bridges – or one tunnel.</p>
+
+
+
+<p class="wp-block-paragraph">But, all that Ontari-eau notwithstanding, Ontario has quite a diverse geography; just watch any tourism video, from the famous “Yours to Discover” of 1980 (<a href="https://www.youtube.com/watch?v=0Iv7QHcOED0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=0Iv7QHcOED0</a>) to more recent ones (e.g.,&nbsp;<a href="https://www.youtube.com/watch?v=SHy0BeOLzaE" target="_blank" rel="noopener">https://www.youtube.com/watch?v=SHy0BeOLzaE</a>). In southwestern Ontario – the spear’s head bounded by Lakes Ontario, Erie, and Huron (including Georgian Bay) – there’s a huge amount of agriculture, including the most farms of any province (more than even Alberta), as well as 150 wineries, several of which are excellent and widely respected, and an ever-changing large number of craft breweries as well.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Ontario has cities, and lots of them, including Toronto, North America’s fourth-most-populous city and seventh-most-populous metropolitan area, and Ottawa, the capital of Canada. Most of the people in Ontario live in the southern part – Ontario has nearly 40% of Canada’s population, and almost 95% of those live in southern Ontario, which, however, is only about 10% of the total area of the province.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg"><img loading="lazy" width="1024" height="678" data-attachment-id="15282" data-permalink="https://sesquiotic.com/2026/09/04/ontario/o-5/" data-orig-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg" data-orig-size="1200,795" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;camera&quot;:&quot;LEICA X (Typ 113)&quot;,&quot;created_timestamp&quot;:&quot;1695671259&quot;,&quot;focal_length&quot;:&quot;23&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="O-5" data-image-description="" data-image-caption="" data-large-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=500" src="https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=1024" alt="" class="wp-image-15282" srcset="https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=1024 1024w, https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=150 150w, https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=300 300w, https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=768 768w, https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph">All of southern Ontario is well south of the 49th parallel, and the southernmost part of Ontario is farther south than the northern border of California. Toronto is on the same latitude as Marseille, France; Florence, Italy; Sarajevo, Bosnia and Herzegovina; Sochi, Russia; and Sapporo, Japan. But of course it’s still part of the “true North, strong and free.”</p>
+
+
+
+<p class="wp-block-paragraph">And anyway, Ontario has plenty of northern On-territory in its massive Ont-area. Ontario is about 60% larger than Texas and almost three-quarters the size of Alaska, and most of that turf is rocks, trees, peatland, and, yes, all those lakes – and not so many people. If you drive from Windsor to Kenora by highways 401, 400, and the Trans-Canada, it’s more than 2000 kilometres and almost 24 hours of pure driving – and I’ve driven it all (though not all in one trip).&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">But I rarely see most of it, except when flying over. I live in downtown Toronto. But there’s still so much to see and do within an easy day trip – for instance, I can take a train down to the Niagara wine region, where I can have a lovely glass of Cabernet Franc by a lovely vineyard, and I can look north across Lake Ontario at my home in the distance, full circle O–o, still in Ontario.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg"><img loading="lazy" width="1024" height="678" data-attachment-id="15283" data-permalink="https://sesquiotic.com/2026/09/04/ontario/o-6/" data-orig-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg" data-orig-size="1200,795" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;camera&quot;:&quot;LEICA X (Typ 113)&quot;,&quot;created_timestamp&quot;:&quot;1719575481&quot;,&quot;focal_length&quot;:&quot;23&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="O-6" data-image-description="" data-image-caption="" data-large-file="https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=500" src="https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=1024" alt="" class="wp-image-15283" srcset="https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=1024 1024w, https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=150 150w, https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=300 300w, https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=768 768w, https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/09/04/ontario/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15276</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+
+		<media:content url="https://sesquiotic.com/wp-content/uploads/2026/09/o-1.jpg?w=768" medium="image" />
+
+		<media:content url="https://sesquiotic.com/wp-content/uploads/2026/09/o-2.jpg?w=1024" medium="image" />
+
+		<media:content url="https://sesquiotic.com/wp-content/uploads/2026/09/o-3.jpg?w=1024" medium="image" />
+
+		<media:content url="https://sesquiotic.com/wp-content/uploads/2026/09/o-4.jpg?w=1024" medium="image" />
+
+		<media:content url="https://sesquiotic.com/wp-content/uploads/2026/09/o-5.jpg?w=1024" medium="image" />
+
+		<media:content url="https://sesquiotic.com/wp-content/uploads/2026/09/o-6.jpg?w=1024" medium="image" />
+	</item>
+		<item>
+		<title>Jolene</title>
+		<link>https://sesquiotic.com/2026/08/25/jolene/</link>
+					<comments>https://sesquiotic.com/2026/08/25/jolene/#respond</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 03:25:45 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[Dolly Parton]]></category>
+		<category><![CDATA[Jolene]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15272</guid>
+
+					<description><![CDATA[Today Dolly Parton left us. She was, etymologically and in many other ways, a gift from God. But since my last word tasting already covered Dolly, today I’m going to pause in memory of her and look just briefly at another &#8230; <a href="https://sesquiotic.com/2026/08/25/jolene/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Today Dolly Parton left us. She was, etymologically and in many other ways, a gift from God. But since my last word tasting already covered <em><a href="https://sesquiotic.com/2026/08/16/barbie-dolly-rebarbative-phenobarbital/" target="_blank" rel="noopener">Dolly</a></em>, today I’m going to pause in memory of her and look just briefly at another name associated with her: the eponym of one of her most famous songs, <a href="https://www.youtube.com/watch?v=L0eeSoU35wM" target="_blank" rel="noopener">Jolene</a>.</p>
+
+
+
+<p class="wp-block-paragraph">This name <em>Jolene</em> is, as you probably know, a sort of portmanteau word, made of the start of one name and the end of another, sort of like how <em>chocoholic</em> is made from <em>chocolate</em> and <em>alcoholic</em>. And if you have the usual familiarity with the American South, you’ll know that <em>Jo</em> is stereotypically common in a lot of women’s names thereabouts – both as a second part, as in <em>Bobby Jo</em> (not to be confused with <em>Bobby Joe</em>, which is a man’s name) and <em>Suzie Jo</em>, and as a first part, especially in <em>Jolene</em>. It’s taken from names such as <em>Joan</em> and <em>Joanne</em> and <em>Josephine</em>. It has that nice voiced apical affricate “J” so well suited to starting names, for men and women both.</p>
+
+
+
+<p class="wp-block-paragraph">OK, so where does the <em>Jo</em> in those names come from? Well, <em>Joan</em> and <em>Joanne</em> are feminized forms of <em>John</em> and <em>Johann</em> and so on, which come by way of Latin and Greek from Hebrew <em>Yohanan</em> (probably from an original form meaning ‘God is gracious’); <em>Josephine</em> is a feminized form of <em>Joseph</em>, which comes via Latin and Greek from Hebrew <em>Yosef</em> (‘God shall add’). So, yeah, that <em>Yo</em> in both cases is from ‘God’. And so, therefore, is <em>Jo</em>.</p>
+
+
+
+<p class="wp-block-paragraph">And how about the <em>-lene</em>? There are many names with the suffix <em>-ine</em> or <em>-ene</em>, pretty much all of which are from adjectival forms (indicating association or derivation) but also are used to indicate femininity, but the <em>-lene</em> in particular has specific sources. One of them is <em>Marlene</em>, the most famous bearer of which was Marlene Dietrich, who was christened Marie Magdalene – so <em>Marlene</em> is a telescoping of <em>Mar</em>ie Magda<em>lene</em>, and no less a portmanteau than <em>Jolene</em>. Another source, then, is <em>Magdalene</em>, and another is <em>Helene</em>, both of which are names of famously attractive women (the one a sort of Jolene type who repented of her husband-stealing ways and became a follower of Jesus, the other a woman whose husband launched a war to get her back because writing a song was clearly not his métier). </p>
+
+
+
+<p class="wp-block-paragraph">The <em>-ene</em> in <em>Magdalene</em> signifies derivation: it means that she was from the village of Magdala, on the shores of the Sea of Galilee (<em>Magdala</em> refers in Hebrew to a tower). <em>Helene</em> is a very old Greek name, highly reminiscent of <em>Hellene</em>, which means ‘Greek person’, but not related to it; instead, <em>Helene</em> – and of course <em>Helen</em> and <em>Helena</em> and, for that matter, <em>Elaine</em> and several other names – probably traces to a name for a solar deity, from a Proto-Indo-European meaning ‘shine, smoulder, burn’. In short, the implication of <em>-lene</em> could – for those who like to play games with etymology – be said to be ‘towering hotty, but derivative’.</p>
+
+
+
+<p class="wp-block-paragraph">So, if you wanted, you could say <em>Jolene</em> is etymologically something like ‘divine but not unique smokin’ hot husband-stealer’. But, again, <em>Dolly</em> is ‘gift from God’. And we know who won in the end.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/08/25/jolene/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15272</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Barbie, Dolly, rebarbative, phenobarbital</title>
+		<link>https://sesquiotic.com/2026/08/16/barbie-dolly-rebarbative-phenobarbital/</link>
+					<comments>https://sesquiotic.com/2026/08/16/barbie-dolly-rebarbative-phenobarbital/#comments</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 00:27:53 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[Barbie]]></category>
+		<category><![CDATA[Dolly]]></category>
+		<category><![CDATA[phenobarbital]]></category>
+		<category><![CDATA[rebarbative]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15268</guid>
+
+					<description><![CDATA[“How was your evening out on The Esplanade yesterday?” I asked Maury. I was sitting with him and Jess in Domus Logogustationis, and he was looking like he’d seen and done things he’d rather not have. “Rebarbative,” Maury said. “Oh &#8230; <a href="https://sesquiotic.com/2026/08/16/barbie-dolly-rebarbative-phenobarbital/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">“How was your evening out on The Esplanade yesterday?” I asked Maury. I was sitting with him and Jess in Domus Logogustationis, and he was looking like he’d seen and done things he’d rather not have.</p>
+
+
+
+<p class="wp-block-paragraph">“Rebarbative,” Maury said.</p>
+
+
+
+<p class="wp-block-paragraph">“Oh dear,” I said.</p>
+
+
+
+<p class="wp-block-paragraph">“Wait,” Jess said. “I thought you went to see <em>Hello, Dolly</em>?”</p>
+
+
+
+<p class="wp-block-paragraph">“<em>I</em>&nbsp;had thought I was going to see Salvador Dalí!” Maury said. “But hello! And hell no!”</p>
+
+
+
+<p class="wp-block-paragraph">“Well, you said you were going to The Esplanade,” I said. “I could have told you that Dolly’s is the new cowgirl-themed bar where the Bier Markt used to be.”</p>
+
+
+
+<p class="wp-block-paragraph">“You could have,” Maury said. “You didn’t, but you certainly could have.”</p>
+
+
+
+<p class="wp-block-paragraph">“I thought you knew.”</p>
+
+
+
+<p class="wp-block-paragraph">“I do now.”</p>
+
+
+
+<p class="wp-block-paragraph">“So you didn’t enjoy it?” Jess said, innocently.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Maury gave her a brief Kubrick stare. Then he inhaled and said, “Line dancing is… not my line of dancing. We each had a sixteen-dollar cocktail and I watched the whirl of activity and longed for less acute hearing. Narcissa had a thing called a Porn Star Martini. I was expecting local hummingbirds to seek it out. I had something made with whiskey, charred oak, sarsaparilla, and bitters, specifically because it was named Desperado, and I was desperate.”</p>
+
+
+
+<p class="wp-block-paragraph">“You didn’t stay long, did you?” I said.</p>
+
+
+
+<p class="wp-block-paragraph">“Well, no, only as long as it took to get the drink, plus several seconds to swallow it. And then Narcissa asked if I would like to go instead to a barbecue. Or I thought that’s what she said.”</p>
+
+
+
+<p class="wp-block-paragraph">“Oh dear,” I said. I knew what was coming, as I live at the other end of the block from the location in question.</p>
+
+
+
+<p class="wp-block-paragraph">“Was it not a barbecue?” Jess said.</p>
+
+
+
+<p class="wp-block-paragraph">“It was… a Barbie queue. A queue for the Malibu Barbie Café pop-up event, next door to Dolly’s.”</p>
+
+
+
+<p class="wp-block-paragraph">“And she already had tickets?” I said. I knew it was a forty-buck entrance, though I had not gone to it myself.</p>
+
+
+
+<p class="wp-block-paragraph">“Yes, it was a set-up.”</p>
+
+
+
+<p class="wp-block-paragraph">“Malibu. Barbie. Café,” Jess said.</p>
+
+
+
+<p class="wp-block-paragraph">“It looks like a Malibu Barbie playhouse,” Maury said. “Also, it looks exactly like several nightmares I have had.”</p>
+
+
+
+<p class="wp-block-paragraph">“A lot of pink,” I said.</p>
+
+
+
+<p class="wp-block-paragraph">“And I then realized why Narcissa was dressed all in pink. She had also brought a pink bowtie for me. Fortunately it was at least a real one, not a clip-on.”</p>
+
+
+
+<p class="wp-block-paragraph">“And how did you get through that experience?” Jess said.</p>
+
+
+
+<p class="wp-block-paragraph">“With the aid of prosecco and mojitos. At least there wasn’t any country music.”</p>
+
+
+
+<p class="wp-block-paragraph">Jess leaned forward, teasingly. “Did you get any souvenirs?”</p>
+
+
+
+<p class="wp-block-paragraph">“As a matter of fact…” Maury said, and reached into his pocket. “I at some point said to Narcissa that what I could really use was a phenobarbital.”&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">He paused for effect. Then he said, “Behold.” And from his pocket he produced a flannel Barbie doll.</p>
+
+
+
+<p class="wp-block-paragraph">It goes without saying that as the evening progressed further we went without etymologically dissecting or otherwise tasting any of the words. But now we’re here, on my blog, and I’d like to.</p>
+
+
+
+<p class="wp-block-paragraph">First: <em>Barbie</em>. Obviously a short form for <em>Barbara</em>. The dolls were named after Barbara Handler, the daughter of Ruth Handler, who invented them in the late 1950s. The name <em>Barbara</em> in its various forms has caught on, rather like a barb, but it’s not related to <em>barb</em> as in on a fish hook; that <em>barb</em> comes by way of Old French from Latin <em>barba</em>, ‘beard’. Instead, <em>Barbara</em> is Latin for ‘foreign woman’ (‘foreign man’ is <em>barbarus</em>); the vector for its use as a name is Saint Barbara – who also, of course, gave her name to Santa Barbara, which is just a bit more than seventy miles up the California coast from Malibu.</p>
+
+
+
+<p class="wp-block-paragraph">Foreign woman? Yes, a barbarian, literally. Some people have at some times thought that <em>barbarian</em> came from the same word for ‘beard’, distinguishing foreigners as bearded people. But it does not. Latin got it from Greek βάρβαρος <em>barbaros</em>, and (a) ancient Greek men commonly had beards, so a beard was not a mark of a foreigner, and (b) the Ancient Greek word for ‘beard’ was γένειον <em>geneion</em>. Instead, it is commonly accepted that βάρβαρος was just imitative of the speech of the foreigners. It was like calling them “blah-blahs.”</p>
+
+
+
+<p class="wp-block-paragraph">On the other hand, the rather barbed word <em>rebarbative</em>, which means ‘repellent’, does come from <em>barba</em> – by way of Middle French <em>rebarber</em>, ‘oppose’, as in stand beard-to-beard against. (As to <em>barbecue</em>, although it has sometimes been attributed to a Bar-B-Q Ranch, it’s from Taino <em>barbakoa</em>, the name of a frame of wooden sticks that was used for cooking or curing meat or fish. And <em>queue</em> comes from Latin <em>cauda</em>, ‘tail’.) </p>
+
+
+
+<p class="wp-block-paragraph">Now, having talked about <em>Barbie</em>, we come around to dolls, or, more to the point, to <em>Dolly</em>. Classically, <em>Dolly</em> has been a pet name for <em>Dorothy</em> or, later, for <em>Dolores</em>; <em>Dorothy</em> comes from <em>Dorothea</em>, ‘gift from God’, the same roots as <em>Theodore</em>, while <em>Dolores</em> is from Spanish for ‘sorrows’, and became a woman’s name from María de los Dolores, Mary of the Sorrows – one of the presentations of the Virgin Mary. But the most famous Dolly of our times, Dolly Parton, was christened Dolly Rebecca Parton – not short for anything (rather like being named Jack or Cindy from birth: why not just go with the version everyone will use anyway?). And in that sense, <em>Dolly</em> is, well, like a doll. </p>
+
+
+
+<p class="wp-block-paragraph">And where does <em>doll</em> as in a stuffed or carved or moulded homunculus come from? Heh heh, from <em>Dorothy</em>. Yes, that’s right, a doll is a doll because a typical name was Doll, and dolls could have as easily been called <em>molls</em> or <em>kates</em> or <em>barbies</em> or any other common name for a girl.</p>
+
+
+
+<p class="wp-block-paragraph">And all of the above means that <em>Barbie doll</em>, etymologically, is ‘foreign woman, gift from God’, but specifically in a cute, affectionate way.</p>
+
+
+
+<p class="wp-block-paragraph">Oh, and <em>phenobarbital</em>? It’s from <em>pheno-</em> from Greek φαίνω <em>phainō</em> ‘come to light, manifest’ (as seen in <em>epiphany</em> and also, lightly changed, in <em>Tiffany</em>, which has exactly the same roots as <em>theophany</em> ‘manifestation of a deity’), plus <em>barbital</em>, which is from <em>barbiturate</em>, from German <em>Barbiturat</em>, which probably comes from the name <em>Barbara</em> plus the root we see in <em>uric</em> and <em>urine</em>. Yes: <em>phenobarbital</em> could be said to mean ‘a vision of Barbie’s piss’. Maury should feel grateful he just got the doll.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/08/16/barbie-dolly-rebarbative-phenobarbital/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15268</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>debunk, bunkum, hokum, hocus-pocus, harum-scarum</title>
+		<link>https://sesquiotic.com/2026/08/02/debunk-bunkum-hokum-hocus-pocus-harum-scarum/</link>
+					<comments>https://sesquiotic.com/2026/08/02/debunk-bunkum-hokum-hocus-pocus-harum-scarum/#respond</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Sun, 02 Aug 2026 18:36:57 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[bunkum]]></category>
+		<category><![CDATA[debunk]]></category>
+		<category><![CDATA[harum-scarum]]></category>
+		<category><![CDATA[hocus-pocus]]></category>
+		<category><![CDATA[hokum]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15260</guid>
+
+					<description><![CDATA[Some would-be genii will tell you – without being asked – that the plural of octopus is octopi and the plural of omnibus is omnibi and, for that matter, the plural of hocus-pocus (why do you even need one) is &#8230; <a href="https://sesquiotic.com/2026/08/02/debunk-bunkum-hokum-hocus-pocus-harum-scarum/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Some would-be genii will tell you – without being asked – that the plural of <em>octopus</em> is <em><a href="https://sesquiotic.com/2018/07/31/the-roots-of-disagreement/" target="_blank" rel="noopener">octopi</a></em> and the plural of <em>omnibus</em> is <em>omnibi</em> and, for that matter, the plural of <em>hocus-pocus</em> (why do you even need one) is <em>hoci-poci</em>.</p>
+
+
+
+<p class="wp-block-paragraph">This is because of the well-ensconced prestige of Latin in the English language, combined with the capriciousness of English, where we assume that, ceteris paribus, weirder is more likely to be correct. Latin is like a visiting kid who gets to take the upper bunk. The result is a lot of bunkum and hokum, harum-scarum. It’s time for some debunking.</p>
+
+
+
+<p class="wp-block-paragraph">Of course all those words I just used – <em>bunkum</em>, <em>hokum</em>, <em>harum-scarum</em> – are supposed to look like Latin. They’re supposed to look like their plurals should be <em>bunka</em> and <em>hoka</em> and <em>hara-scara</em> (how does that even work – it’s an adverb and adjective). But they’re not. You’re being tricked. It’s all hocus-pocus.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Let’s start with <em>harum-scarum</em>. This looks sort of like it means “scaring the hoes” but it means, more or less, ‘<a href="https://sesquiotic.com/2009/11/10/willy-nilly/" target="_blank" rel="noopener">willy-nilly</a>’. It comes from extremely not Latin. In fact, it draws on atavistic Anglo-Saxon morphology: as far as we can tell, it is from “hare ’em, scare ’em,” where <em>hare</em> is a short form of <em>harass</em> and <em>scare</em> is <em>scare</em> and <em>’em</em> is ‘them’, formed not by dropping the <em>th</em> (we don’t do that – no one says “’is and ’at” for “this and that”) but by recalling the old Anglo-Saxon third-person plural, <em>hem</em>; the modern <em>them</em> form came from Danish, when the Danes occupied a large slab of England. Anyway, the idea was one of fright and disarray, and somehow that ended up referring just to the messiness that results from same. And the pseudo-Latin <em>-um</em> endings appeared for the sake of rhyme and stayed on like stickum.</p>
+
+
+
+<p class="wp-block-paragraph">That one is the odd one out here, however. It’s the guest at the family party. Let’s turn our eyes to&nbsp;<em>hocus-pocus</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Obviously <em>hocus-pocus</em> avails itself of the same sing-song rhyming and the same Latin look. And some people say that it’s even <em>from</em>&nbsp;Latin. John Tillotson, Archbishop of Canterbury, asserted confidently in the late 1600s that it was a mockery of “Hic est corpus.” But as far as anyone can tell, he just decided that on the basis of its sounding plausible and giving him something to condemn. At least as likely, it’s just fake Latin made up by a conjurer – a stage magician – who had invented the incantation “Hocus pocus, tontus talontus, vade celeriter jubeo.” It just… <em>sounded</em> right. Basic phonotactical imitation.</p>
+
+
+
+<p class="wp-block-paragraph">Certainly, on the basis of its plainly being fake Latin, you could justify going with an according nominative plural, <em>hoci-poci</em> (weirdly – or not – however, no one wants to use, for example, the plural dative, <em>hocoribus-pocoribus</em>). But then how about <em>hokum</em>?</p>
+
+
+
+<p class="wp-block-paragraph">Well, how about it? It may look like a neutering and respelling of <em>hocus</em>, but as far as anyone can tell, it’s a blend of <em>hocus</em> and <em>bunkum</em>. It means ‘flim-flam’, of course. But what’s with this <em>bunkum</em>? Ah, thereby hangs a tale.</p>
+
+
+
+<p class="wp-block-paragraph">The tale, just to take it straight from&nbsp;<a href="https://en.wiktionary.org/wiki/bunkum" target="_blank" rel="noopener">Wiktionary</a>, is this:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">In 1820, Felix Walker, who represented the county [of Buncombe, North Carolina] in the U.S. House of Representatives, rose to address the question of admitting Missouri as a free or slave state, his first attempt to speak on the subject after nearly a month of solid debate, right before the vote was to be called. To the exasperation of colleagues, he began a long and wearisome speech, explaining that he was speaking not to Congress but “to Buncombe.” He was ultimately shouted down by his colleagues, though his speech was published in a Washington paper and his persistence made “buncombe” (later respelled “bunkum”) a synonym for meaningless political claptrap and later for any kind of nonsense, at first only in the jargon of Washington and then in common usage.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Yes, once it became a mass noun for a substance, it was natural to have that <em>-um</em> that you see on <em>gypsum</em> and <em>uranium</em> and so forth. And just to cover the rest of the ground: The county was named after Edward Buncombe, a colonel in the Revolutionary War. His surname came from Somerset, England, and meant ‘reed valley’. And through the wonder of linguistic evolution, it referred to a speech that had gone into a valley and got lost in the reeds, and now, especially in its short form <em>bunk</em>, it refers to claptrap, hoo-hah, nonsense.</p>
+
+
+
+<p class="wp-block-paragraph">And if you expose and remove the bunk? Why, you debunk, of course. Yes, a verb that could as readily refer to tossing someone out of a bed – in much the same way as <em>defenestrate</em> refers to tossing someone out a window – instead refers to exposing falsehoods and misrepresentations. Which it does through appealing to a misrepresentation (as Latin when it is not) and a falsehood (the fake Latin incantation) – and of course the mistaken suppositions and deliberate misdirections, the hocus-pocus, that is going on harum-scarum throughout the language.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/08/02/debunk-bunkum-hokum-hocus-pocus-harum-scarum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15260</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>chuckle, giggle, yuk, joke</title>
+		<link>https://sesquiotic.com/2026/07/24/chuckle-giggle-yuk-joke/</link>
+					<comments>https://sesquiotic.com/2026/07/24/chuckle-giggle-yuk-joke/#respond</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Sat, 25 Jul 2026 02:28:29 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[chuckle]]></category>
+		<category><![CDATA[giggle]]></category>
+		<category><![CDATA[joke]]></category>
+		<category><![CDATA[yuk]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15254</guid>
+
+					<description><![CDATA[If someone tells a funny joke, do you chuckle? Do you giggle? Do you yuk it up? (I won’t ask whether you yuck it up, because that spelling can also refer to something… unpleasant.) What if I told you that &#8230; <a href="https://sesquiotic.com/2026/07/24/chuckle-giggle-yuk-joke/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">If someone tells a funny joke, do you chuckle? Do you giggle? Do you yuk it up? (I won’t ask whether you yuck it up, because that spelling can also refer to something… unpleasant.)</p>
+
+
+
+<p class="wp-block-paragraph">What if I told you that all those words – <em>joke</em>, <em>giggle</em>, <em>chuckle</em>, <em>yuk</em> – are related etymologically?</p>
+
+
+
+<p class="wp-block-paragraph">They’re not. Sorry. But it’s not implausible, phonologically. And they <em>are</em> all imitative in origin, so, in a way, if you want to trace the etymology back to nonlinguistic utterances, you could say they <em>are</em> related.</p>
+
+
+
+<p class="wp-block-paragraph">First, though, let’s address a ticklish little issue: the <em>-le</em> on <em>giggle</em> and <em>chuckle</em>. That’s a frequentative suffix, meaning that it indicates repeated action. You can see that clearly on words like <em>crackle</em> and <em>sniffle</em> and <em>snuggle</em>, though <em>-le</em> also shows up on a lot of words that don’t have versions without <em>-le</em> – at least not anymore: <em>cuddle</em>, <em>fumble</em>, <em>sizzle</em>, <em>tickle</em>…</p>
+
+
+
+<p class="wp-block-paragraph">Anyway, <em>chuckle</em> is from <em>chuck</em> plus <em>-le</em> and <em>giggle</em> is probably from <em>gig</em> plus <em>-le</em>. Which doesn’t help much, because this <em>chuck</em> is not the <em>chuck</em> we think of when we think of <em>chuck</em>, and this <em>gig</em> is equally a different <em>gig</em> than <em>gig</em>.</p>
+
+
+
+<p class="wp-block-paragraph"><em>Chuck</em>, in this case, is imitative of a sound such as the one chickens make, and can also mean ‘cluck’. Fair enough, since a certain kind of laugh is often described as a cackle. Oh, yeah, <em>cackle</em>: another imitative sound, <em>cack</em>, plus the <em>-le</em>.</p>
+
+
+
+<p class="wp-block-paragraph">And <em>gig</em> is supposedly imitative of a creaking sound, although there are cognates with <em>giggle</em> throughout the Germanic languages, such as Dutch <em>giechelen</em> (which uses a pair of those deep velar fricatives characteristic of Dutch – a sound like horking a chicken bone out of your throat), and all of them mean ‘giggle’, not ‘creak’.</p>
+
+
+
+<p class="wp-block-paragraph">Anyway, getting back to the plausibility of their being related, you will see in <em>chuck</em> and <em>cack</em> and <em>gig</em> a velar stop (“g” or “k”) at the end, the same as in the plainly imitative <em>yuk</em>. And while the initial sounds are different, they are all capable of being phonologically related with vowel shifts: a dorsal stop “k” can assimilate forward towards a front vowel, giving an affricate /tʃ/ “ch” or a fricative /x/ “kh,” and at the back or in the front it can be voiced, /g/ “g” or /dʒ/ “j” or /j/ “y” – this is how the Dutch word for ‘goat’, <em>geit</em>, sounds sort of like a vehement utterance of “hate,” and the Swedish word for ‘goat’, <em>get</em>, sounds like “yate.”</p>
+
+
+
+<p class="wp-block-paragraph">So. Do you get it? (Or do you hate it?) The laughter sound we represent as <em>yuk</em> (or <em>yuck</em>) can also be the etymological origin of <em>chuckle</em> and <em>giggle</em> and even <em>cackle</em>, and while there’s no known common root for them between then and now, there could be, and anyway they’re all imitating the same thing. </p>
+
+
+
+<p class="wp-block-paragraph">But here’s the punch line: <em>joke</em> traces through Latin <em>iocus</em> (‘joke, jest, pastime’) back to Proto-Indo-European <em>*yek-</em> ‘speak, utter’. Yep, <em>yek</em>. That is the sound of people making sounds – talking or, yeah, laughing. That’s right, the prototypical utterance may well have been yukking it up. Yikes!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/07/24/chuckle-giggle-yuk-joke/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15254</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>beeline</title>
+		<link>https://sesquiotic.com/2026/07/16/beeline/</link>
+					<comments>https://sesquiotic.com/2026/07/16/beeline/#comments</comments>
+		
+		<dc:creator><![CDATA[sesquiotic]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 15:02:40 +0000</pubDate>
+				<category><![CDATA[word tasting notes]]></category>
+		<category><![CDATA[beeline]]></category>
+		<guid isPermaLink="false">http://sesquiotic.com/?p=15250</guid>
+
+					<description><![CDATA[As I was chatting with Timmy Danos and Donna Ferrante (see my word tasting notes on free rein and horse idioms), Maury at last appeared, holding a Bellini. “Where have you been?” I said. “Sorry,” Maury said. “I was making &#8230; <a href="https://sesquiotic.com/2026/07/16/beeline/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">As I was chatting with Timmy Danos and Donna Ferrante (see my word tasting notes on <em><a href="https://sesquiotic.com/2026/07/09/free-rein/" target="_blank" rel="noopener">free rein</a></em> and <a href="https://sesquiotic.com/2026/06/30/horse-idioms/" target="_blank" rel="noopener">horse idioms</a>), Maury at last appeared, holding a Bellini.</p>
+
+
+
+<p class="wp-block-paragraph">“Where have you been?” I said.</p>
+
+
+
+<p class="wp-block-paragraph">“Sorry,” Maury said. “I was making a beeline for the blinis.”</p>
+
+
+
+<p class="wp-block-paragraph">“There’s a nice New York subway reference,” Timmy said to Donna.</p>
+
+
+
+<p class="wp-block-paragraph">“Blinis?” Maury said. “I mean, the B line ends at Brighton Beach, but…”</p>
+
+
+
+<p class="wp-block-paragraph">“And it makes a straight line down to it through Brooklyn, express, skipping the long queue of local Q line stops.” Timmy said. “And it was inaugurated as an express line in Manhattan. The B-line beeline.”</p>
+
+
+
+<p class="wp-block-paragraph">“That may well B,” Maury said, trusting everyone would hear the pun, “but I can’t think anyone would name a highway in Florida after a New York subway.”’</p>
+
+
+
+<p class="wp-block-paragraph">“Highway?” Donna said.</p>
+
+
+
+<p class="wp-block-paragraph">“It’s officially the Beachline now,” I said, “but until 2005, Florida State Road 528 was named the Bee Line, so named because it goes straight from Orlando to Canaveral with no curves for more than 20 miles.”</p>
+
+
+
+<p class="wp-block-paragraph">“It’s not as though there are no New Yorkers in Florida,” Timmy said. He took a sip from his highball of Blanton’s.</p>
+
+
+
+<p class="wp-block-paragraph">“But beelines owe nothing to New York,” Maury said, “any more than to Berlin or Ljubljana. Leaving aside that the New York train was not called the B until 1967, the same year as the Beeline Expressway opened, the etymology of <em>beeline</em> is entomology: a bee, and not a B.” He tried to gesture to indicate the difference in words. “We’ve had <em>beeline</em> in the language since the earlier 1800s, referring to an apian trajectory through the air.”</p>
+
+
+
+<p class="wp-block-paragraph">“Don’t bees just kind of… buzz around, from flower to flower?” Donna said. “Seems more like a cruise than a direct route.”</p>
+
+
+
+<p class="wp-block-paragraph">“Right until it’s loaded with pollen and wants to go home,” Maury said. “Then it skips the stops.”</p>
+
+
+
+<p class="wp-block-paragraph">“Speaking of which,” I said. A yellow and black insect was making straight for Maury’s Bellini. “That doesn’t belong here.”</p>
+
+
+
+<p class="wp-block-paragraph">Maury looked up and flinched. “Then I won’t be long here either!” He made a move barely describable in Labanotation trying to ward off the bug. Alas, this only enabled it to sting him, leaving a blain. I won’t transcribe under my own byline what he bellowed – let’s just say it was an f-line.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sesquiotic.com/2026/07/16/beeline/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15250</post-id>
+		<media:content url="https://2.gravatar.com/avatar/280275d3f3c5363098f49f07a5563c449b604152cb65e5773143ba34974fb549?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">sesquiotic</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

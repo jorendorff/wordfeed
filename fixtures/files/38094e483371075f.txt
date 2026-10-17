@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:merriam="https://www.merriam-webster.com/word-of-the-day" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel>
+<title>Merriam-Webster's Word of the Day</title>
+<link>https://www.merriam-webster.com/word-of-the-day</link>
+<description>Free daily dose of word power from Merriam-Webster's experts</description>
+<copyright>Copyright 2026</copyright>
+<lastBuildDate>Sat, 17 Oct 2026 01:00:01 -0400</lastBuildDate>
+<ttl>60</ttl>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-us</language>
+<generator>Merriam Webster feed generator</generator>
+<itunes:subtitle>Free daily dose of word power from Merriam-Webster's experts</itunes:subtitle>
+<itunes:author>Merriam-Webster</itunes:author>
+<itunes:summary>Build your vocabulary with Merriam-Webster's Word of the Day!  Each day a Merriam-Webster editor offers insight into a fascinating new word -- explaining its meaning, current use, and little-known details about its origin.</itunes:summary>
+<itunes:owner>
+<itunes:name>Merriam-Webster</itunes:name>
+<itunes:email>mwol-support@m-w.com</itunes:email>
+</itunes:owner>
+<itunes:image href='https://prod.cdn-mw.com/assets/mw/static/wod-rss-images/wotd_podcast_logo_2.jpg' />
+<itunes:category text='Arts'>
+<itunes:category text='Literature' />
+</itunes:category>
+<itunes:category text='Education'>
+<itunes:category text='Language Courses' />
+</itunes:category>
+<image><url>https://prod.cdn-mw.com/assets/mw/static/wod-rss-images/wotd_podcast_logo_2.jpg</url><title>Merriam-Webster Online</title><link>https://www.merriam-webster.com/word-of-the-day</link><width>90</width><height>90</height></image><item><guid>f1c6598b-d48c-40cc-ba91-7240ef1fa5d2</guid><title><![CDATA[syncretic]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/syncretic-2026-10-17]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 17, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>syncretic</strong> &#149; \sin-KRET-ik\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Syncretic</em> describes things that are characterized or brought about by a combination of different forms of belief or practice.</p>
+
+<p>// We were raised with a <em>syncretic</em> religion that combined practices from various faiths.  </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/syncretic">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"Traditional medicine, wellness rituals, and spiritual practices reflect the island’s complex cultural history and diverse ethnic origins—a <em>syncretic</em> blending of <a href="https://www.britannica.com/topic/Taino">Taíno</a> Indigenous, African, and Spanish traditions." — Tiana Randall, <em>Forbes</em>, 20 Aug. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p><em>Syncretic</em> has its roots in an ancient alliance. The word is a descendant of the Greek noun <em>synkrētismos</em>, referring to a federation of cities on the island of Crete (<em>syn</em> means "together, with," and <em>Krēt-</em> means "Cretan"). The adjective first appeared in English in the mid-19th century, the related noun <a href="https://www.merriam-webster.com/dictionary/syncretism"><em>syncretism</em></a> having debuted over 200 years earlier. <em>Syncretic</em> retains the idea of coalition and appears in such contexts as "syncretic religions," "syncretic cultures," and even "syncretic art," all describing things influenced by two or more styles or traditions.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/4fcaacec-0a92-46d5-95bd-795900ff5647.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sat, 17 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:41</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 17, 2026 is: syncretic  \sin-KRET-ik\ adjective  
+Syncretic describes things that are characterized or brought about by a combination of different forms of belief or practice.
+
+// We were raised with a syncretic religion that combined practices from various faiths.  
+
+[See the entry >](https://www.merriam-webster.com/dictionary/syncretic)  
+  
+Examples:
+  
+"Traditional medicine, wellness rituals, and spiritual practices reflect the island’s complex cultural history and diverse ethnic origins—a syncretic blending of [Taíno](https://www.britannica.com/topic/Taino) Indigenous, African, and Spanish traditions." — Tiana Randall, Forbes, 20 Aug. 2026   
+  
+Did you know?  
+   
+Syncretic has its roots in an ancient alliance. The word is a descendant of the Greek noun synkrētismos, referring to a federation of cities on the island of Crete (syn means "together, with," and Krēt- means "Cretan"). The adjective first appeared in English in the mid-19th century, the related noun [syncretism](https://www.merriam-webster.com/dictionary/syncretism) having debuted over 200 years earlier. Syncretic retains the idea of coalition and appears in such contexts as "syncretic religions," "syncretic cultures," and even "syncretic art," all describing things influenced by two or more styles or traditions.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[involving different forms of belief or practice]]></merriam:shortdef></item><item><guid>aa647d5d-ddd3-478a-b16b-f4dfd7919ac6</guid><title><![CDATA[zenith]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/zenith-2026-10-16]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 16, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>zenith</strong> &#149; \ZEE-nith\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Zenith</em> refers to the strongest or most successful period of time for a person or thing.</p>
+
+<p>// At its <em>zenith</em> in the 1980s, the company employed more than 300 people.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/zenith">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The opening 40 minutes of Trần Anh Hùng’s dreamy romance set in the 1889 French countryside are the <em>zenith</em> of food preparation on the big screen. ... Food is a love language for many, and watching Pauline prepare a Baked Alaska in the hot French summer without a freezer expresses her affection better than any sonnet could.” — Kevin Slane, <em>Boston.com</em>, 15 Aug. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>When you reach the zenith, you’re at the top, the pinnacle, the summit, the peak. <em>Zenith</em> developed from a Spanish modification of an Arabic phrase meaning “the way over one’s head,” traveling through Medieval Latin and Middle French before arriving in English. As long ago as the 1300s, English speakers used <em>zenith</em> to name the highest point in the celestial heavens, directly overhead. By the 1600s, <em>zenith</em> was being used for other high points as well. The celestial term is often contrasted with <em>nadir</em>, which refers to the point that is vertically downward from the observer (imagine a line going through the Earth from the observer’s feet and out the other side into the sky). Figuratively, <a href="https://www.merriam-webster.com/dictionary/nadir"><em>nadir</em></a> simply means “the lowest point.”</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/0399de3a-d2b0-4ee9-b671-54d372b36c6d.mp3" length="3100000" type="audio/mpeg" /><pubDate>Fri, 16 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:00</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 16, 2026 is: zenith  \ZEE-nith\ noun  
+Zenith refers to the strongest or most successful period of time for a person or thing.
+
+// At its zenith in the 1980s, the company employed more than 300 people.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/zenith)
+  
+  
+Examples:
+  
+“The opening 40 minutes of Trần Anh Hùng’s dreamy romance set in the 1889 French countryside are the zenith of food preparation on the big screen. ... Food is a love language for many, and watching Pauline prepare a Baked Alaska in the hot French summer without a freezer expresses her affection better than any sonnet could.” — Kevin Slane, Boston.com, 15 Aug. 2026  
+  
+Did you know?  
+   
+When you reach the zenith, you’re at the top, the pinnacle, the summit, the peak. Zenith developed from a Spanish modification of an Arabic phrase meaning “the way over one’s head,” traveling through Medieval Latin and Middle French before arriving in English. As long ago as the 1300s, English speakers used zenith to name the highest point in the celestial heavens, directly overhead. By the 1600s, zenith was being used for other high points as well. The celestial term is often contrasted with nadir, which refers to the point that is vertically downward from the observer (imagine a line going through the Earth from the observer’s feet and out the other side into the sky). Figuratively, [nadir](https://www.merriam-webster.com/dictionary/nadir) simply means “the lowest point.”  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[the strongest or most successful period of time for something]]></merriam:shortdef></item><item><guid>f5cebff7-bb8d-44a6-a501-6a3dc6e5a2af</guid><title><![CDATA[outlandish]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/outlandish-2026-10-15]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 15, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>outlandish</strong> &#149; \out-LAN-dish\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Outlandish</em> can describe things that are strikingly strange or unusual; in this use, it’s a synonym of <a href="https://www.merriam-webster.com/dictionary/bizarre"><em>bizarre</em></a>. <em>Outlandish</em> can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.</p>
+
+<p>// One of the author’s greatest strengths is her ability to write <em>outlandish</em> characters whose quirks remain lodged in readers’ minds long after they’ve finished the book.</p>
+
+<p>// When asked to back up his <em>outlandish</em> claims, the mayor quickly changed the subject, all but admitting that he had no proof for his allegations.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/outlandish">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“In a successful book for children, no matter what <em>outlandish</em> stuff might be happening on the page, young readers will see their real emotions faithfully represented there ...” — Caroline Carson, <em>Literary Hub</em>, 3 Aug. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>For some, the grass isn’t necessarily greener on the other side of the fence—it may also be very, very strange. The side-eye that skeptical sorts cast toward visitors from parts yonder is embedded in the history of the ancient word <em>outlandish</em>. In Old English someone described as “outlandish” came from an <a href="https://www.merriam-webster.com/dictionary/outland">outland</a>, i.e., a foreign land. Within a few hundred years, <em>outlandish</em> had broadened in use to describe anything unfamiliar or strange. It’s now commonly applied to things—especially things people do, wear, or say—that are strikingly out of the ordinary, or even just beyond reasonable or proper limits or standards. But lest you mistake us for equating <em>outlandish</em> with <em>wrong</em> or <em>bad</em>, consider this line from a review of a Dr. Seuss book once published in <em>Time</em>: “Its illustrations are properly outlandish, and its verses are zany and catchy enough for many rereadings.” </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/dc4e7426-89bc-4586-a18c-f0758ba9119b.mp3" length="3100000" type="audio/mpeg" /><pubDate>Thu, 15 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:07</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 15, 2026 is: outlandish  \out-LAN-dish\ adjective  
+Outlandish can describe things that are strikingly strange or unusual; in this use, it’s a synonym of [bizarre](https://www.merriam-webster.com/dictionary/bizarre). Outlandish can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.
+
+// One of the author’s greatest strengths is her ability to write outlandish characters whose quirks remain lodged in readers’ minds long after they’ve finished the book.
+
+// When asked to back up his outlandish claims, the mayor quickly changed the subject, all but admitting that he had no proof for his allegations.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/outlandish)  
+  
+Examples:
+  
+“In a successful book for children, no matter what outlandish stuff might be happening on the page, young readers will see their real emotions faithfully represented there ...” — Caroline Carson, Literary Hub, 3 Aug. 2026  
+  
+Did you know?  
+   
+For some, the grass isn’t necessarily greener on the other side of the fence—it may also be very, very strange. The side-eye that skeptical sorts cast toward visitors from parts yonder is embedded in the history of the ancient word outlandish. In Old English someone described as “outlandish” came from an [outland](https://www.merriam-webster.com/dictionary/outland), i.e., a foreign land. Within a few hundred years, outlandish had broadened in use to describe anything unfamiliar or strange. It’s now commonly applied to things—especially things people do, wear, or say—that are strikingly out of the ordinary, or even just beyond reasonable or proper limits or standards. But lest you mistake us for equating outlandish with wrong or bad, consider this line from a review of a Dr. Seuss book once published in Time: “Its illustrations are properly outlandish, and its verses are zany and catchy enough for many rereadings.”   ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[extremely different from what is normal or expected]]></merriam:shortdef></item><item><guid>b0eb0c07-eca1-436e-9b67-770d691bc3d4</guid><title><![CDATA[deportment]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/deportment-2026-10-14]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 14, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>deportment</strong> &#149; \dih-PORT-munt\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Deportment</em> refers to the way in which one conducts oneself especially in a formal setting.</p>
+
+<p>// The new students were instructed in proper dress and <em>deportment</em>.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/deportment">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"The scholarship goes to a junior nursing student who has demonstrated 'academic achievement and abilities, promise as a future nurse, personal <em>deportment</em> and other outstanding characteristics,' the college said in a news release." — <em>The Citizen</em> (Auburn, New York), 24 June 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p><em>Deportment</em>, like a number of English words,  has its roots in Latin <em>portare</em>, meaning "to carry." Other <em>portare</em> descendants include such familiar terms as <a href="https://www.merriam-webster.com/dictionary/import"><em>import</em></a> ("to bring from an external source"), <a href="https://www.merriam-webster.com/dictionary/transport"><em>transport</em></a> ("to bring from one place to another"), and <a href="https://www.merriam-webster.com/dictionary/portfolio"><em>portfolio</em></a>, which by its oldest meaning refers to a case for carrying papers. In the case of <em>deportment</em>, the thing we "carry" is ourselves. <em>Deportment</em> can refer simply to one's demeanor, or it can refer to behavior formed by social conditioning and often conforming to conventional rules of propriety. A 17-year-old Emily Dickinson applied the latter meaning when she wrote to her brother, Austin: "Are you not gratified that I am so rapidly gaining correct ideas of female propriety and sedate deportment?"</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/63ce6a29-c4d9-4823-ac8a-3017790fae5e.mp3" length="3100000" type="audio/mpeg" /><pubDate>Wed, 14 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:56</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 14, 2026 is: deportment  \dih-PORT-munt\ noun  
+Deportment refers to the way in which one conducts oneself especially in a formal setting.
+
+// The new students were instructed in proper dress and deportment.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/deportment)  
+  
+Examples:
+  
+"The scholarship goes to a junior nursing student who has demonstrated 'academic achievement and abilities, promise as a future nurse, personal deportment and other outstanding characteristics,' the college said in a news release." — The Citizen (Auburn, New York), 24 June 2026  
+  
+Did you know?  
+   
+Deportment, like a number of English words,  has its roots in Latin portare, meaning "to carry." Other portare descendants include such familiar terms as [import](https://www.merriam-webster.com/dictionary/import) ("to bring from an external source"), [transport](https://www.merriam-webster.com/dictionary/transport) ("to bring from one place to another"), and [portfolio](https://www.merriam-webster.com/dictionary/portfolio), which by its oldest meaning refers to a case for carrying papers. In the case of deportment, the thing we "carry" is ourselves. Deportment can refer simply to one's demeanor, or it can refer to behavior formed by social conditioning and often conforming to conventional rules of propriety. A 17-year-old Emily Dickinson applied the latter meaning when she wrote to her brother, Austin: "Are you not gratified that I am so rapidly gaining correct ideas of female propriety and sedate deportment?"  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[the way in which one conducts oneself]]></merriam:shortdef></item><item><guid>c4fa9533-a1e8-428b-953d-05fcb763ee2d</guid><title><![CDATA[abscond]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/abscond-2026-10-13]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 13, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>abscond</strong> &#149; \ab-SKAHND\&nbsp; &#149; <em>verb</em><br />
+    <p>To abscond is to leave, flee, or escape a place in secret and go into hiding. Often, someone is said to have absconded <em>with</em> something. </p>
+
+<p>// It was mid-semester, when fantasies about <em>absconding</em> from school and leaving the stress of exams behind abound.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/abscond">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“So having a variety of financial intermediaries is good. But they need to be regulated and supervised by objective parties using objective standards. If not, someone could open a bank, take deposits and <em>abscond</em> to a tropical isle.”  — Edward Lotterman, <em>The St. Paul (Minnesota) Pioneer Press</em>, 23 Nov. 2025</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>In “Take the Money and Run,” a 1976 song by the Steve Miller Band, the singer punctuates a song about teenage bandits with the catchy refrain “Go on, take the money and run.” Granted, the song probably wouldn’t have charted had it been titled “Abscond,” but the meaning would have been the same. <em>Abscond</em> is a word most often used in formal contexts for when someone is running and hiding from the law, often with cash or other ill-gotten gains. In legal circles it’s used specifically when someone flies like an eagle from a jurisdiction to evade the legal process, as in “absconded from parole.” The history of <em>abscond</em> doesn’t evade scrutiny: it comes from the Latin verb <em>abscondere</em>, meaning “to hide away.” (That word’s root is <em>condere</em>, meaning “to conceal.”) Today, whether some joker absconds by going to the country to bury some treasure or by taking a jet airliner beyond the law’s reach, they are, in essence, hiding themselves away.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/a0ac9efe-8eb3-4672-b293-c9d006bae6ba.mp3" length="3100000" type="audio/mpeg" /><pubDate>Tue, 13 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:11</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 13, 2026 is: abscond  \ab-SKAHND\ verb  
+To abscond is to leave, flee, or escape a place in secret and go into hiding. Often, someone is said to have absconded with something. 
+
+// It was mid-semester, when fantasies about absconding from school and leaving the stress of exams behind abound.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/abscond)  
+  
+Examples:
+  
+“So having a variety of financial intermediaries is good. But they need to be regulated and supervised by objective parties using objective standards. If not, someone could open a bank, take deposits and abscond to a tropical isle.”  — Edward Lotterman, The St. Paul (Minnesota) Pioneer Press, 23 Nov. 2025  
+  
+Did you know?  
+   
+In “Take the Money and Run,” a 1976 song by the Steve Miller Band, the singer punctuates a song about teenage bandits with the catchy refrain “Go on, take the money and run.” Granted, the song probably wouldn’t have charted had it been titled “Abscond,” but the meaning would have been the same. Abscond is a word most often used in formal contexts for when someone is running and hiding from the law, often with cash or other ill-gotten gains. In legal circles it’s used specifically when someone flies like an eagle from a jurisdiction to evade the legal process, as in “absconded from parole.” The history of abscond doesn’t evade scrutiny: it comes from the Latin verb abscondere, meaning “to hide away.” (That word’s root is condere, meaning “to conceal.”) Today, whether some joker absconds by going to the country to bury some treasure or by taking a jet airliner beyond the law’s reach, they are, in essence, hiding themselves away.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[to secretly leave a place and go into hiding]]></merriam:shortdef></item><item><guid>28685f9e-8546-46e7-b127-2eee6126373c</guid><title><![CDATA[nexus]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/nexus-2026-10-12]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 12, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>nexus</strong> &#149; \NEK-sus\&nbsp; &#149; <em>noun</em><br />
+    <p>A nexus is a relationship or connection between people or things. <em>Nexus</em> can also refer to a connected group or series or to the center or focus of something.</p>
+
+<p>// The cultural district serves as a <em>nexus</em> for art and cuisine.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/nexus">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The eclectic costume design by Ryan Matthieu Smith suggests Eastern Europe at the <em>nexus</em> of the Middle Ages and the Renaissance: loosely fitting frocks and vests, layered and embroidered, and hats in myriad geometric shapes ...” — Manuel Mendoza, <em>The Dallas Morning News</em>, 1 Mar. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>If you’re unfamiliar with the word <em>nexus</em>, the popular, long-running video game series <a href="https://www.britannica.com/topic/The-Legend-of-Zelda-1688275"><em>The Legend of Zelda</em></a> provides an object lesson in its several definitions. When <em>nexus</em> came into English from Latin in the 17th century, it meant “connection” or “link.” Eventually, people began using it to refer to a connected group or series of things, as in “a nexus of relationships.” In recent decades it has taken on a third meaning, “center” or “hub,” perhaps from the notion that a point in the center of an arrangement serves to join together the objects that surround it. Now, one might plausibly say that the 20 <em>Zelda</em> games (not counting remakes and spin-offs) themselves form a nexus, as each represents an installment in a long, twisty saga with numerous echoes and callbacks to other games in the series. Most of these feature the fictional land of Hyrule, which often presents magical nexuses to shadowy alternate dimensions (1991’s <em>A Link to the Past</em>), the past (2011’s <em>Skyward Sword</em>), or the underworld (2023’s <em>Tears of the Kingdom</em>) that the hero, Link (ahem) must traverse. As for <em>nexus</em>’s third meaning, Hyrule’s map is nearly always situated around a central nexus, or hub, in the form of the castle where the titular Zelda lives. (If you’re into gaming or curious about its lingo, don’t miss the article <a href="https://www.merriam-webster.com/words-at-play/popular-gaming-terms-explained">“Popular Gaming Terms Explained”</a>).</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/3c012f33-a2c0-4cf0-8e8b-9a43d744c2ee.mp3" length="3100000" type="audio/mpeg" /><pubDate>Mon, 12 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:31</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 12, 2026 is: nexus  \NEK-sus\ noun  
+A nexus is a relationship or connection between people or things. Nexus can also refer to a connected group or series or to the center or focus of something.
+
+// The cultural district serves as a nexus for art and cuisine.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/nexus)  
+  
+Examples:
+  
+“The eclectic costume design by Ryan Matthieu Smith suggests Eastern Europe at the nexus of the Middle Ages and the Renaissance: loosely fitting frocks and vests, layered and embroidered, and hats in myriad geometric shapes ...” — Manuel Mendoza, The Dallas Morning News, 1 Mar. 2026  
+  
+Did you know?  
+   
+If you’re unfamiliar with the word nexus, the popular, long-running video game series [The Legend of Zelda](https://www.britannica.com/topic/The-Legend-of-Zelda-1688275) provides an object lesson in its several definitions. When nexus came into English from Latin in the 17th century, it meant “connection” or “link.” Eventually, people began using it to refer to a connected group or series of things, as in “a nexus of relationships.” In recent decades it has taken on a third meaning, “center” or “hub,” perhaps from the notion that a point in the center of an arrangement serves to join together the objects that surround it. Now, one might plausibly say that the 20 Zelda games (not counting remakes and spin-offs) themselves form a nexus, as each represents an installment in a long, twisty saga with numerous echoes and callbacks to other games in the series. Most of these feature the fictional land of Hyrule, which often presents magical nexuses to shadowy alternate dimensions (1991’s A Link to the Past), the past (2011’s Skyward Sword), or the underworld (2023’s Tears of the Kingdom) that the hero, Link (ahem) must traverse. As for nexus’s third meaning, Hyrule’s map is nearly always situated around a central nexus, or hub, in the form of the castle where the titular Zelda lives. (If you’re into gaming or curious about its lingo, don’t miss the article [“Popular Gaming Terms Explained”](https://www.merriam-webster.com/words-at-play/popular-gaming-terms-explained)).  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[a relationship or connection between people or things]]></merriam:shortdef></item><item><guid>62136b45-4656-4085-b91c-f77c91e83dae</guid><title><![CDATA[galore]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/galore-2026-10-11]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 11, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>galore</strong> &#149; \guh-LOR\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Galore</em> is an informal adjective that describes something as being in large numbers or amounts. It is always used postpositively, that is, after a noun.</p>
+
+<p>// The store promises bargains <em>galore</em> on Black Friday.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/galore">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The rest of the home is filled with what Josh calls ‘love stuff,’ like an entire wall of family pictures, his mother’s recipe box, random heirlooms, and artwork <em>galore</em>, including his grandfather’s acid etching prints and three-dimensional pieces made by his mother … who worked in wood and papier-mâché.” — Meg McConahey, <em>The Mercury News</em> (San Jose, California), 1 July 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p><em>Galore</em> means “in large numbers or amounts,” making it a synonym of useful words like <a href="https://www.merriam-webster.com/dictionary/abundant"><em>abundant</em></a> and <a href="https://www.merriam-webster.com/dictionary/plentiful"><em>plentiful</em></a>. But its charm lies not in its meaning but in its sound and syntax. <em>Galore</em> doesn’t sound like familiar Germanic or Latinate words, and for good reason—it’s one of a small number of Irish borrowings, coming from <em>go leor</em>, meaning “enough.” It also takes an odd position in phrases: it’s used postpositively, which means that it follows the word or words it modifies. First defined in one our dictionaries way back in 1864, the word was for many years obscure and a bit of a conundrum. Limited evidence of the word in use, along with its unusual syntax, led to some editorial back-and-forth about whether <em>galore</em> was an adjective or adverb; one can see how in a phrase like “someone who has money galore” <em>galore</em> might have been interpreted as modifying the verb <em>have</em> rather than the noun <em>money</em>. But by the seventh edition of our <em>Collegiate</em> dictionary, published in 1963, enough evidence had accumulated to confidently declare <em>galore</em> an adjective. If you’re curious about the Great Galore Grammar Debate, <a href="https://www.merriam-webster.com/wordplay/what-kind-of-word-is-galore">this article has information galore</a>.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/d378e353-82eb-4bd6-8f8b-5d6cbd53f268.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sun, 11 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:36</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 11, 2026 is: galore  \guh-LOR\ adjective  
+Galore is an informal adjective that describes something as being in large numbers or amounts. It is always used postpositively, that is, after a noun.
+
+// The store promises bargains galore on Black Friday.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/galore)
+  
+  
+Examples:
+  
+“The rest of the home is filled with what Josh calls ‘love stuff,’ like an entire wall of family pictures, his mother’s recipe box, random heirlooms, and artwork galore, including his grandfather’s acid etching prints and three-dimensional pieces made by his mother … who worked in wood and papier-mâché.” — Meg McConahey, The Mercury News (San Jose, California), 1 July 2026  
+  
+Did you know?  
+   
+Galore means “in large numbers or amounts,” making it a synonym of useful words like [abundant](https://www.merriam-webster.com/dictionary/abundant) and [plentiful](https://www.merriam-webster.com/dictionary/plentiful). But its charm lies not in its meaning but in its sound and syntax. Galore doesn’t sound like familiar Germanic or Latinate words, and for good reason—it’s one of a small number of Irish borrowings, coming from go leor, meaning “enough.” It also takes an odd position in phrases: it’s used postpositively, which means that it follows the word or words it modifies. First defined in one our dictionaries way back in 1864, the word was for many years obscure and a bit of a conundrum. Limited evidence of the word in use, along with its unusual syntax, led to some editorial back-and-forth about whether galore was an adjective or adverb; one can see how in a phrase like “someone who has money galore” galore might have been interpreted as modifying the verb have rather than the noun money. But by the seventh edition of our Collegiate dictionary, published in 1963, enough evidence had accumulated to confidently declare galore an adjective. If you’re curious about the Great Galore Grammar Debate, [this article has information galore](https://www.merriam-webster.com/wordplay/what-kind-of-word-is-galore).  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[in large numbers or amounts]]></merriam:shortdef></item><item><guid>8102eab6-a5e3-4d28-a200-e8544d2233e3</guid><title><![CDATA[Luddite]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/luddite-2026-10-10]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 10, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>Luddite</strong> &#149; \LUH-dyte\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Luddite</em> refers to someone who is opposed to change, and especially to technological change.</p>
+
+<p>// My friends call me a <em>Luddite</em> for refusing to use chat bots.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/Luddite">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“Today, a <em>Luddite</em> is your grandparent who keeps looking at the screen rather than the camera when on Zoom, the Boomer who types in all-capital letters, the grouchy man who refuses to get a smart phone, the professor spewing invective against Twitter, Facebook, and TikTok. … But the Luddites weren’t simple-minded primitives who objected to technology out of ignorance; they were dedicated craftsmen in the looming guilds who despised the shoddy craftsmanship of the mechanized contraptions replacing them, and of those same machines robbing them of their livelihoods.” — Ed Simon, <em>Writing During the Apocalypse: Reflections on the Great Unraveling</em>, 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>Long before your Luddite friend was waxing poetic about how blissful it is to not have a smartphone, Luddites were protesting the textile machinery that was gradually replacing them. It was toward the end of 1811, in the vicinity of Nottingham, England, when handicraftsmen formed organized bands and began to riot for the destruction of the new machinery. Their name is of uncertain origin, but it may be connected to a (probably mythical) person named Ned Ludd. According to an unsubstantiated account in George Pellew's <em>Life of Lord Sidmouth</em> (1847), Ned Ludd was a Leicestershire villager of the late 1700s who, in a fit of rage, rushed into a stocking weaver's house and destroyed his equipment; subsequently, Ludd's name was proverbially connected with machinery destruction. With the onset of the information age, <em>Luddite</em> gained a broader sense describing anyone who shuns new technology.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/acd54d4f-abd8-43b8-acde-7380419ebe35.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sat, 10 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:30</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 10, 2026 is: Luddite  \LUH-dyte\ noun  
+Luddite refers to someone who is opposed to change, and especially to technological change.
+
+// My friends call me a Luddite for refusing to use chat bots.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/Luddite)
+  
+  
+Examples:
+  
+“Today, a Luddite is your grandparent who keeps looking at the screen rather than the camera when on Zoom, the Boomer who types in all-capital letters, the grouchy man who refuses to get a smart phone, the professor spewing invective against Twitter, Facebook, and TikTok. … But the Luddites weren’t simple-minded primitives who objected to technology out of ignorance; they were dedicated craftsmen in the looming guilds who despised the shoddy craftsmanship of the mechanized contraptions replacing them, and of those same machines robbing them of their livelihoods.” — Ed Simon, Writing During the Apocalypse: Reflections on the Great Unraveling, 2026  
+  
+Did you know?  
+   
+Long before your Luddite friend was waxing poetic about how blissful it is to not have a smartphone, Luddites were protesting the textile machinery that was gradually replacing them. It was toward the end of 1811, in the vicinity of Nottingham, England, when handicraftsmen formed organized bands and began to riot for the destruction of the new machinery. Their name is of uncertain origin, but it may be connected to a (probably mythical) person named Ned Ludd. According to an unsubstantiated account in George Pellew's Life of Lord Sidmouth (1847), Ned Ludd was a Leicestershire villager of the late 1700s who, in a fit of rage, rushed into a stocking weaver's house and destroyed his equipment; subsequently, Ludd's name was proverbially connected with machinery destruction. With the onset of the information age, Luddite gained a broader sense describing anyone who shuns new technology.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[someone opposed to technological change]]></merriam:shortdef></item><item><guid>c9b5ffa8-e4cd-4e0e-a972-d67dd2fbcbea</guid><title><![CDATA[inscrutable]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/inscrutable-2026-10-09]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 9, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>inscrutable</strong> &#149; \in-SKROO-tuh-bul\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Inscrutable</em> means "not readily investigated, interpreted, or understood." It often describes things that are mysterious or difficult to comprehend.</p>
+
+<p>// His professor wore an <em>inscrutable</em> expression throughout the oral exam.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/inscrutable">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"The paper makes significant progress on an unresolved aspect of the <em>inscrutable</em> math equation that determines how the primes are distributed along the number line." —  Joseph Howlett, <em>Scientific American</em>, 12 Aug. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>Scrutinizing the inscrutable may be futile: even close scrutiny can fail to decipher it. Scrutinizing the scrutable, on the other hand, is likely to yield some understanding. All of these <em>scrut-</em> words have the same Latin root: <em>scrutari</em>, meaning "to search or examine." While <a href="https://www.merriam-webster.com/dictionary/scrutiny"><em>scrutiny</em></a>, <a href="https://www.merriam-webster.com/dictionary/scrutinize"><em>scrutinize</em></a>, and <em>inscrutable</em> all prove themselves useful in everyday discourse, English speakers don’t tend to call much on <a href="https://www.merriam-webster.com/dictionary/scrutable"><em>scrutable</em></a>, which functions as a synonym of <a href="https://www.merriam-webster.com/dictionary/comprehensible"><em>comprehensible</em></a>.   </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/a70ca612-5eb8-42ce-b2d4-9162f6f90aaa.mp3" length="3100000" type="audio/mpeg" /><pubDate>Fri, 09 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:35</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 9, 2026 is: inscrutable  \in-SKROO-tuh-bul\ adjective  
+Inscrutable means "not readily investigated, interpreted, or understood." It often describes things that are mysterious or difficult to comprehend.
+
+// His professor wore an inscrutable expression throughout the oral exam.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/inscrutable)  
+  
+Examples:
+  
+"The paper makes significant progress on an unresolved aspect of the inscrutable math equation that determines how the primes are distributed along the number line." —  Joseph Howlett, Scientific American, 12 Aug. 2026   
+  
+Did you know?  
+   
+Scrutinizing the inscrutable may be futile: even close scrutiny can fail to decipher it. Scrutinizing the scrutable, on the other hand, is likely to yield some understanding. All of these scrut- words have the same Latin root: scrutari, meaning "to search or examine." While [scrutiny](https://www.merriam-webster.com/dictionary/scrutiny), [scrutinize](https://www.merriam-webster.com/dictionary/scrutinize), and inscrutable all prove themselves useful in everyday discourse, English speakers don’t tend to call much on [scrutable](https://www.merriam-webster.com/dictionary/scrutable), which functions as a synonym of [comprehensible](https://www.merriam-webster.com/dictionary/comprehensible).     ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[difficult to understand]]></merriam:shortdef></item><item><guid>cba6ee3e-9d7a-4872-a242-6d1aa78f4075</guid><title><![CDATA[etiquette]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/etiquette-2026-10-08]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 8, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>etiquette</strong> &#149; \ET-ih-kut\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Etiquette</em> refers to rules or customs that dictate what behavior is considered appropriate and expected in a particular setting.</p>
+
+<p>// Her failure to respond to the invitation was a serious breach of <em>etiquette</em>. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/etiquette">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“My first interaction with <em>The Real Housewives</em> franchise happened sometime in 2015, when my partner became hooked on the show. I had just begun work on what I expected to be a big and research-heavy multi-generational family novel, and all I could hear was a chorus of accusations about who said what to whom, who lied to whom, and who hadn’t followed the correct <em>etiquette</em> at a charity event.” — Saleen Haddad, <em>Literary Hub</em>, 24 Feb. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>If you’re looking for a polite topic of conversation to raise at your next gathering of word lovers, we’ve got just the ticket. The French word <em>étiquette</em> means “ticket”; its direct French ancestor also referred to a label attached to something for description or identification. Spaniards of the 16th-century adopted the French word (altering it to <em>etiqueta</em>), and used it to refer to the written protocols describing the behavior demanded of those who appeared at court. Eventually, <em>etiqueta</em> came to be applied to the court ceremonies themselves as well as to the documents which outlined their requirements. Word of this linguistic development got back to the French, who then expanded their word’s meaning to include “proper court behavior” along with its “label” sense. By the middle of the 18th century English speakers had taken on <em>etiquette</em> as their own, applying it to the rules that indicate the proper and polite way to behave, whether in the presence of royalty or not.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/cb2bb9c7-9c24-47a9-a732-e5fd5e9a87f6.mp3" length="3100000" type="audio/mpeg" /><pubDate>Thu, 08 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:17</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 8, 2026 is: etiquette  \ET-ih-kut\ noun  
+Etiquette refers to rules or customs that dictate what behavior is considered appropriate and expected in a particular setting.
+
+// Her failure to respond to the invitation was a serious breach of etiquette. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/etiquette)
+  
+  
+Examples:
+  
+“My first interaction with The Real Housewives franchise happened sometime in 2015, when my partner became hooked on the show. I had just begun work on what I expected to be a big and research-heavy multi-generational family novel, and all I could hear was a chorus of accusations about who said what to whom, who lied to whom, and who hadn’t followed the correct etiquette at a charity event.” — Saleen Haddad, Literary Hub, 24 Feb. 2026  
+  
+Did you know?  
+   
+If you’re looking for a polite topic of conversation to raise at your next gathering of word lovers, we’ve got just the ticket. The French word étiquette means “ticket”; its direct French ancestor also referred to a label attached to something for description or identification. Spaniards of the 16th-century adopted the French word (altering it to etiqueta), and used it to refer to the written protocols describing the behavior demanded of those who appeared at court. Eventually, etiqueta came to be applied to the court ceremonies themselves as well as to the documents which outlined their requirements. Word of this linguistic development got back to the French, who then expanded their word’s meaning to include “proper court behavior” along with its “label” sense. By the middle of the 18th century English speakers had taken on etiquette as their own, applying it to the rules that indicate the proper and polite way to behave, whether in the presence of royalty or not.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[rules or customs that dictate what behavior is acceptable]]></merriam:shortdef></item></channel></rss>

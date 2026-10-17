@@ -1,0 +1,2102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag("consent", "default", {
+        analytics_storage: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        personalization_storage: "denied",
+        functionality_storage: "granted",
+        security_storage: "granted",
+        wait_for_update: 500,
+        region: [
+            "AT", "BE", "BG", "CH", "HR", "CY", "CZ", "DK", "EE", "FI", "FR",
+            "DE", "GR", "HU", "IE", "IT", "LV", "LT", "LU", "MT", "NL",
+            "PL", "PT", "RO", "SK", "SI", "ES", "SE", "IS", "LI", "NO",
+            "GB"
+        ],
+    });
+
+    gtag("consent", "default", {
+        analytics_storage: "granted",
+        ad_storage: "granted",
+        ad_user_data: "granted",
+        ad_personalization: "granted",
+        personalization_storage: "granted",
+        functionality_storage: "granted",
+        security_storage: "granted",
+    });
+</script>
+
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.3) -->
+<script type="text/javascript">
+    (function () {
+        var uspTries = 0;
+        var uspTriesLimit = 3;
+
+        function makeStub() {
+            var TCF_LOCATOR_NAME = '__tcfapiLocator';
+            var queue = [];
+            var win = window;
+            var cmpFrame;
+
+            function addFrame() {
+                var doc = win.document;
+                var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+                if (!otherCMP) {
+                    if (doc.body) {
+                        var iframe = doc.createElement('iframe');
+
+                        iframe.style.cssText = 'display:none';
+                        iframe.name = TCF_LOCATOR_NAME;
+                        doc.body.appendChild(iframe);
+                    } else {
+                        setTimeout(addFrame, 5);
+                    }
+                }
+                return !otherCMP;
+            }
+
+            function tcfAPIHandler() {
+                var gdprApplies;
+                var args = arguments;
+
+                if (!args.length) {
+                    return queue;
+                } else if (args[0] === 'setGdprApplies') {
+                    if (
+                        args.length > 3 &&
+                        args[2] === 2 &&
+                        typeof args[3] === 'boolean'
+                    ) {
+                        gdprApplies = args[3];
+                        if (typeof args[2] === 'function') {
+                            args[2]('set', true);
+                        }
+                    }
+                } else if (args[0] === 'ping') {
+                    var retr = {
+                        gdprApplies: gdprApplies,
+                        cmpLoaded: false,
+                        cmpStatus: 'stub'
+                    };
+
+                    if (typeof args[2] === 'function') {
+                        args[2](retr);
+                    }
+                } else {
+                    if (args[0] === 'init' && typeof args[3] === 'object') {
+                        args[3] = Object.assign(args[3], { tag_version: 'V3' });
+                    }
+                    queue.push(args);
+                }
+            }
+
+            function postMessageEventHandler(event) {
+                var msgIsString = typeof event.data === 'string';
+                var json = {};
+
+                try {
+                    if (msgIsString) {
+                        json = JSON.parse(event.data);
+                    } else {
+                        json = event.data;
+                    }
+                } catch (ignore) { }
+
+                var payload = json.__tcfapiCall;
+
+                if (payload) {
+                    window.__tcfapi(
+                        payload.command,
+                        payload.version,
+                        function (retValue, success) {
+                            var returnMsg = {
+                                __tcfapiReturn: {
+                                    returnValue: retValue,
+                                    success: success,
+                                    callId: payload.callId
+                                }
+                            };
+                            if (msgIsString) {
+                                returnMsg = JSON.stringify(returnMsg);
+                            }
+                            if (event && event.source && event.source.postMessage) {
+                                event.source.postMessage(returnMsg, '*');
+                            }
+                        },
+                        payload.parameter
+                    );
+                }
+            }
+
+            while (win) {
+                try {
+                    if (win.frames[TCF_LOCATOR_NAME]) {
+                        cmpFrame = win;
+                        break;
+                    }
+                } catch (ignore) { }
+
+                if (win === window.top) {
+                    break;
+                }
+                win = win.parent;
+            }
+            if (!cmpFrame) {
+                addFrame();
+                win.__tcfapi = tcfAPIHandler;
+                // In Cypress, app code can run in an iframe while the stub binds on top window.
+                // Mirror __tcfapi to the local window only in tests to avoid window-context mismatch errors.
+                if (window.Cypress && win !== window) {
+                    window.__tcfapi = win.__tcfapi;
+                }
+                win.addEventListener('message', postMessageEventHandler, false);
+            }
+        };
+
+        makeStub();
+
+        function makeGppStub() {
+            const CMP_ID = 10;
+            const SUPPORTED_APIS = [
+                '2:tcfeuv2',
+                '6:uspv1',
+                '7:usnatv1',
+                '8:usca',
+                '9:usvav1',
+                '10:uscov1',
+                '11:usutv1',
+                '12:usctv1'
+            ];
+
+            window.__gpp_addFrame = function (n) {
+                if (!window.frames[n]) {
+                    if (document.body) {
+                        var i = document.createElement("iframe");
+                        i.style.cssText = "display:none";
+                        i.name = n;
+                        document.body.appendChild(i);
+                    } else {
+                        window.setTimeout(window.__gpp_addFrame, 10, n);
+                    }
+                }
+            };
+            window.__gpp_stub = function () {
+                var b = arguments;
+                __gpp.queue = __gpp.queue || [];
+                __gpp.events = __gpp.events || [];
+
+                if (!b.length || (b.length == 1 && b[0] == "queue")) {
+                    return __gpp.queue;
+                }
+
+                if (b.length == 1 && b[0] == "events") {
+                    return __gpp.events;
+                }
+
+                var cmd = b[0];
+                var clb = b.length > 1 ? b[1] : null;
+                var par = b.length > 2 ? b[2] : null;
+                if (cmd === "ping") {
+                    clb(
+                        {
+                            gppVersion: "1.1", // must be "Version.Subversion", current: "1.1"
+                            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                            signalStatus: "not ready", // possible values: not ready, ready
+                            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                            cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+                            sectionList: [],
+                            applicableSections: [-1],
+                            gppString: "",
+                            parsedSections: {},
+                        },
+                        true
+                    );
+                } else if (cmd === "addEventListener") {
+                    if (!("lastId" in __gpp)) {
+                        __gpp.lastId = 0;
+                    }
+                    __gpp.lastId++;
+                    var lnr = __gpp.lastId;
+                    __gpp.events.push({
+                        id: lnr,
+                        callback: clb,
+                        parameter: par,
+                    });
+                    clb(
+                        {
+                            eventName: "listenerRegistered",
+                            listenerId: lnr, // Registered ID of the listener
+                            data: true, // positive signal
+                            pingData: {
+                                gppVersion: "1.1", // must be "Version.Subversion", current: "1.1"
+                                cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                                cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                                signalStatus: "not ready", // possible values: not ready, ready
+                                supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                                cmpId: CMP_ID, // list of supported APIs
+                                sectionList: [],
+                                applicableSections: [-1],
+                                gppString: "",
+                                parsedSections: {},
+                            },
+                        },
+                        true
+                    );
+                } else if (cmd === "removeEventListener") {
+                    var success = false;
+                    for (var i = 0; i < __gpp.events.length; i++) {
+                        if (__gpp.events[i].id == par) {
+                            __gpp.events.splice(i, 1);
+                            success = true;
+                            break;
+                        }
+                    }
+                    clb(
+                        {
+                            eventName: "listenerRemoved",
+                            listenerId: par, // Registered ID of the listener
+                            data: success, // status info
+                            pingData: {
+                                gppVersion: "1.1", // must be "Version.Subversion", current: "1.1"
+                                cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                                cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                                signalStatus: "not ready", // possible values: not ready, ready
+                                supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                                cmpId: CMP_ID, // CMP ID
+                                sectionList: [],
+                                applicableSections: [-1],
+                                gppString: "",
+                                parsedSections: {},
+                            },
+                        },
+                        true
+                    );
+                } else if (cmd === "hasSection") {
+                    clb(false, true);
+                } else if (cmd === "getSection" || cmd === "getField") {
+                    clb(null, true);
+                }
+                //queue all other commands
+                else {
+                    __gpp.queue.push([].slice.apply(b));
+                }
+            };
+            window.__gpp_msghandler = function (event) {
+                var msgIsString = typeof event.data === "string";
+                try {
+                    var json = msgIsString ? JSON.parse(event.data) : event.data;
+                } catch (e) {
+                    var json = null;
+                }
+                if (typeof json === "object" && json !== null && "__gppCall" in json) {
+                    var i = json.__gppCall;
+                    window.__gpp(
+                        i.command,
+                        function (retValue, success) {
+                            var returnMsg = {
+                                __gppReturn: {
+                                    returnValue: retValue,
+                                    success: success,
+                                    callId: i.callId,
+                                },
+                            };
+                            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+                        },
+                        "parameter" in i ? i.parameter : null,
+                        "version" in i ? i.version : "1.1"
+                    );
+                }
+            };
+            if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+                window.__gpp = window.__gpp_stub;
+                window.addEventListener("message", window.__gpp_msghandler, false);
+                window.__gpp_addFrame("__gppLocator");
+            }
+        };
+
+        makeGppStub();
+
+        var uspStubFunction = function () {
+            var arg = arguments;
+            if (typeof window.__uspapi !== uspStubFunction) {
+                setTimeout(function () {
+                    if (typeof window.__uspapi !== 'undefined') {
+                        window.__uspapi.apply(window.__uspapi, arg);
+                    }
+                }, 500);
+            }
+        };
+
+        var checkIfUspIsReady = function () {
+            uspTries++;
+            if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+                console.warn('USP is not accessible');
+            } else {
+                clearInterval(uspInterval);
+            }
+        };
+
+        if (typeof window.__uspapi === 'undefined') {
+            window.__uspapi = uspStubFunction;
+            var uspInterval = setInterval(checkIfUspIsReady, 6000);
+        }
+    })();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+<script type="text/javascript">
+    (function () {
+        if (typeof window.__gpp !== 'function') {
+            return;
+        }
+
+        const GRANTED = 'granted';
+        const DENIED = 'denied';
+
+        const normalizeSection = (section) =>
+            Array.isArray(section) ? section[0] : section;
+
+        // Iterates over all GPP sections and returns granular US opt-out signals.
+        // Iterates over every section so new US state sections are handled automatically.
+        const getUsOptOutSignals = (sections) => {
+            let saleOrSharing = false;
+            let targetedAdvertising = false;
+            for (const raw of Object.values(sections)) {
+                const section = normalizeSection(raw);
+                if (section?.SaleOptOut === 1 || section?.SharingOptOut === 1) {
+                    saleOrSharing = true;
+                }
+                if (section?.TargetedAdvertisingOptOut === 1) {
+                    targetedAdvertising = true;
+                }
+            }
+            return { saleOrSharing, targetedAdvertising };
+        };
+
+        const getTcfConsentSignals = (sections) => {
+            const tcf = normalizeSection(sections.tcfeuv2);
+            if (!tcf?.PurposeConsents) return null;
+            const p = tcf.PurposeConsents;
+            const storageConsent = !!p[1];
+            return {
+                adStorage: storageConsent,
+                analyticsStorage: storageConsent,
+                adUserData: storageConsent,
+                adPersonalization: !!p[3] && !!p[4],
+            };
+        };
+
+        const updateGoogleConsent = (sections) => {
+            const { saleOrSharing, targetedAdvertising } = getUsOptOutSignals(sections);
+            const tcfSignals = getTcfConsentSignals(sections);
+
+            let adStorage = !(saleOrSharing || targetedAdvertising);
+            let analyticsStorage = !(saleOrSharing || targetedAdvertising);
+            let adUserData = !saleOrSharing;
+            let adPersonalization = !targetedAdvertising;
+
+            if (tcfSignals) {
+                adStorage = adStorage && tcfSignals.adStorage;
+                analyticsStorage = analyticsStorage && tcfSignals.analyticsStorage;
+                adUserData = adUserData && tcfSignals.adUserData;
+                adPersonalization = adPersonalization && tcfSignals.adPersonalization;
+            }
+
+            window.gtag('consent', 'update', {
+                ad_storage: adStorage ? GRANTED : DENIED,
+                analytics_storage: analyticsStorage ? GRANTED : DENIED,
+                ad_user_data: adUserData ? GRANTED : DENIED,
+                ad_personalization: adPersonalization ? GRANTED : DENIED,
+                personalization_storage: adPersonalization ? GRANTED : DENIED,
+            });
+        };
+
+        window.__gpp(
+            'addEventListener',
+            function (evt, success) {
+                if (!evt || !evt.pingData) {
+                    return;
+                }
+                if (!success || evt.pingData.signalStatus !== 'ready') {
+                    return;
+                }
+
+                // If a user changes their consent in the EU, the CMP emits this event.
+                if (
+                    evt.eventName === 'cmpDisplayStatus' &&
+                    evt.data === 'hidden' &&
+                    evt.pingData.signalStatus === 'ready'
+                ) {
+                    const sections = evt.pingData.parsedSections || {};
+                    const isEmpty = Object.keys(sections).length === 0;
+
+                    if (!isEmpty) {
+                        updateGoogleConsent(sections);
+                        window.dataLayer.push({ event: 'cmp_status_changed' });
+                    }
+                }
+
+                // On page load, after the CMP is done loading, the CMP emits a signalStatus event in ready state.
+                // If the CMP processes prior to the listener being added, then the listenerRegistered may be the
+                // only event emitted.
+                if (
+                    (evt.eventName === 'listenerRegistered' &&
+                        evt.pingData.signalStatus === 'ready') ||
+                    (evt.eventName === 'signalStatus' && evt.data === 'ready')
+                ) {
+                    const sections = evt.pingData.parsedSections || {};
+                    const isEmpty = Object.keys(sections).length === 0;
+
+                    // In the EU, the parsedSections will be empty until the user responds
+                    // to the consent modal.
+                    if (!isEmpty) {
+                        updateGoogleConsent(sections);
+                    }
+
+                    // GTM tags will be triggered off of cmp_signal_ready.
+                    // Therefore we want to ensure cmp_signal_ready is sent on every page view.
+                    window.dataLayer.push({ event: 'cmp_signal_ready' });
+                }
+            }
+        );
+    })();
+</script><!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-TXC5GP');</script>
+  <!-- End Google Tag Manager -->
+
+  <title>
+    Word of the Day | Dictionary.com</title>
+  <meta charset="utf-8">
+  <meta name="google" content="notranslate" />
+  <meta name="googlebot" content="noodp, noarchive" />
+  <meta name="robots" content="noarchive" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.dictionary.com/common-dcom-BYDp89Qg.css" rel="stylesheet"/><link href="https://cdn.dictionary.com/dcom-favicon-BAQR4afA.ico" rel="icon" type="image/x-icon"/><link href="https://cdn.dictionary.com/dcom-favicon-32-7UEu9eA0.png" sizes="32x32" rel="icon" type="image/png"/><link href="https://cdn.dictionary.com/dcom-favicon-16-DjZm33EA.png" sizes="16x16" rel="icon" type="image/png"/><link href="https://cdn.dictionary.com/dcom-favicon-48-FddvFXE4.png" sizes="48x48" rel="icon" type="image/png"/><link href="https://cdn.dictionary.com/dcom-favicon-96-CiLIOT8B.png" sizes="96x96" rel="icon" type="image/png"/><link href="https://cdn.dictionary.com/dcom-favicon-128-pwPCvvgV.png" sizes="128x128" rel="icon" type="image/png"/><link href="https://cdn.dictionary.com/dcom-favicon-180-BHFUJQeI.png" sizes="180x180" rel="apple-touch-icon"/><link href="https://cdn.dictionary.com/dcom-favicon-192-SJDrbPYQ.png" sizes="192x192" rel="icon" type="image/png"/><link href="https://cdn.dictionary.com/dcom-favicon-512-ixIH81Na.png" sizes="512x512" rel="icon" type="image/png"/><!-- Mixpanel -->
+  <script type="text/javascript">(function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2;} })(document, window.mixpanel || []);</script>
+  <!-- End Mixpanel -->
+
+  <script async src="https://www.google.com/recaptcha/api.js?render=6Lf7JnQrAAAAAPHGrpyhBScGaodHXsKHUOnRDX5a"></script>
+  <script id="site-context" type="application/json">
+    {"assetsOrigin":"https://assets.dictionary.com","audioHostname":"https://audio.dictionary.com","dictionaryOrigin":"https://www.dictionary.com","isDictionary":true,"recaptchaSiteKey":"6Lf7JnQrAAAAAPHGrpyhBScGaodHXsKHUOnRDX5a"}</script>
+  <!-- Definition Images -->
+  <!-- End Definition Images -->
+  <link href="https://cdn.dictionary.com/dcom-wordoftheday-landing-page-DrK0q8Va.css" rel="stylesheet"/><link rel="canonical" href="https://www.dictionary.com/word-of-the-day"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <link rel="preload" href="https://cmas.sdcdns.com/prebid-min.js" as="script" crossorigin="anonymous"/>
+  
+  
+
+</head>
+<body class="wordoftheday-landing-page">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXC5GP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="wrapper-site-hdr">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+
+<header class="site-hdr" id="id-site-hdr">
+  <nav aria-label="site navigation" class="nav-site">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button
+  aria-controls="id-menu-site-nav"
+  aria-expanded="false"
+  aria-haspopup="true"
+  aria-label="Open site navigation menu"
+  class="btn-menu-site-nav"
+  id="id-btn-menu-site-nav"></button>
+<ul
+  aria-labelledby="id-btn-menu-site-nav"
+  class="menu-site-nav"
+  id="id-menu-site-nav"
+  role="menu"
+>
+  <li class="menu-item-site-nav" role="none">
+    <a class="lk-site-nav" href="https://www.dictionary.com/articles" role="menuitem">Featured</a>
+  </li>
+  <li class="menu-item-site-nav" role="none">
+    <a class="lk-site-nav" href="https://www.dictionary.com/games" role="menuitem">Games</a>
+  </li>
+  <li class="menu-item-site-nav" role="none">
+    <a class="lk-site-nav" href="https://www.dictionary.com/culture" role="menuitem">Cultural</a>
+  </li>
+  <li class="menu-item-site-nav" role="none">
+    <a class="lk-site-nav" href="https://www.thesaurus.com/articles" role="menuitem">Writing tips</a>
+  </li>
+</ul>
+    <div class="mask-site-nav" id="id-mask-site-nav"><!-- --></div>
+  </nav>
+  
+    
+    
+      <a class="lk-home" href="/">Dictionary.com</a>
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<search class="form-search-word-container" id="form-search-word-container" data-props='{"popularSearchSample":[{"headword":"kiss cam","slug":"kiss-cam"},{"headword":"burn the midnight oil","slug":"burn-the-midnight-oil"},{"headword":"supersede","slug":"supersede"},{"headword":"mnemonic","slug":"mnemonic"},{"headword":"nearshoring","slug":"nearshoring"},{"headword":"TIL","slug":"til"},{"headword":"enormity","slug":"enormity"}]}'>
+  <form method="get" class="search-form" name="form-search-word">
+    <input
+      id="input-search-word"
+      autoCapitalize="off"
+      class="search-input"
+      name="inputSearchWord"
+      placeholder="Search a word or phrase"
+      type="search"
+      autoComplete="off"
+    />
+    <button class="search-button btn"></button>
+  </form>
+</search>
+  
+    
+    
+      <a class="lk-logo-redirect" href="https://www.thesaurus.com">
+        Thesaurus.com
+      </a>
+    
+  
+</header></div>
+  <div class="wrapper-site-main">
+    <main id="main" class="site-main">
+      <div class="wotd-landing-wrapper">
+      <div class="wotd-header-section">
+        <h1 class="wotd-main-header">Word of the Day</h1>
+        <p class="wotd-subheader">Learn a new word every day! The Dictionary.com team of language experts carefully selects each Word of the Day to add some <i>panache</i> to your vocabulary.</p>
+      </div>
+
+      <hr class="wotd-hr"/>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+  
+  
+
+
+<div class="box-additional box-additional-anyclip box-additional-after-first-entry">
+  
+    <script type="text/javascript">
+      window.CMAS_API = window.CMAS_API || { que: [] };
+      (function () {
+        var INTERVAL_MS = 250;
+        var DEADLINE_MS = 30000;
+        var waited = 0;
+        var timer = setInterval(function () {
+          var widget =
+            window.anyclip && typeof window.anyclip.getWidget === 'function'
+              ? window.anyclip.getWidget()
+              : null;
+          if (widget) {
+            clearInterval(timer);
+            window.CMAS_API.que.push(function () {
+              window.CMAS_API.setVideoPlayer(widget, {
+                vendor: window.CMAS_VIDEO_VENDOR.ANYCLIP,
+                name: 'anyclip:0011r00002KyO15AAF_M8137'
+              });
+            });
+            return;
+          }
+          waited += INTERVAL_MS;
+          if (waited >= DEADLINE_MS) {
+            clearInterval(timer);
+          }
+        }, INTERVAL_MS);
+      })();
+    </script>
+    <script src="https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js" type="text/javascript" async="true" pubname="2091" widgetname="0011r00002KyO15AAF_M8137"></script>
+  
+</div>
+
+<div class="wotd-landing-layout">
+        <div class="wotd-landing-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wotd-entry-wrapper">
+  <div>
+    <div class="wotd-entry-date">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 17, 2026</div>
+    <a class="wotd-entry-headword" href="/browse/lily-livered">lily-livered</a>
+    <div class='wotd-entry-phonetics-section'>
+      
+        <button
+          aria-label="play audio of lily-livered"
+          class="common-btn-headword-audio js-play-word-audio"
+          data-audiosrc="l/lily-livered/lily-livered-oTnjFF.mp3"
+          data-audioorigin="https://audio.dictionary.com"
+        ></button>
+      
+      <p class='wotd-entry-phonetics'>[<b>lil</b>-ee-<b>liv</b>-erd]</p>
+    </div>
+  </div>
+  <div>
+    <div class="wotd-entry-pos">adjective</div>
+    <p class="wotd-entry-definition">weak or lacking in courage</p>
+  </div>
+  <div class="wotd-entry-explanation-section">
+    <div class="wotd-entry-explanation-pill">Explanation</div>
+    <p><b>Lily-livered</b> describes someone who is cowardly or easily intimidated. The phrase comes from an old belief that the liver was the seat of courage, with a pale or "lily-white" liver suggesting it was lacking. A <b>lily-livered</b> person might talk a big game, but they tend to shrink away when the pressure is on.</p>
+  </div>
+
+  
+    <div>
+      <div class="wotd-entry-example-heading">Example</div>
+      <p class="wotd-entry-example">My <b>lily-livered </b>brother refused to watch the scary movie, so we picked a comedy instead.</p>
+    </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<div id="dcoContent1-container" class="box-additional box-additional-subsequent-entry-content">
+  <div id="dcoContent1"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wotd-entry-wrapper">
+  <div>
+    <div class="wotd-entry-date">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 16, 2026</div>
+    <a class="wotd-entry-headword" href="/browse/sippet">sippet</a>
+    <div class='wotd-entry-phonetics-section'>
+      
+        <button
+          aria-label="play audio of sippet"
+          class="common-btn-headword-audio js-play-word-audio"
+          data-audiosrc="tts/s/sippet/sippet-8woY83.mp3"
+          data-audioorigin="https://audio.dictionary.com"
+        ></button>
+      
+      <p class='wotd-entry-phonetics'>[<b>sip</b>-it]</p>
+    </div>
+  </div>
+  <div>
+    <div class="wotd-entry-pos">noun</div>
+    <p class="wotd-entry-definition">a small piece of bread or the like for dipping in liquid food</p>
+  </div>
+  <div class="wotd-entry-explanation-section">
+    <div class="wotd-entry-explanation-pill">Explanation</div>
+    <p>A <b>sippet</b> is a small piece of food used for dipping into soup, broth, or another liquid dish. It's more likely than not to be made of bread, like a toast point or a chunk of crusty sourdough. With a <b>sippet </b>in hand, you know exactly what to do with that last bit of flavor left in the bowl.</p>
+  </div>
+
+  
+    <div>
+      <div class="wotd-entry-example-heading">Example</div>
+      <p class="wotd-entry-example">She dipped a crisp <b>sippet </b>into the warm tomato soup before taking a bite.</p>
+    </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<div id="dcoContent2-container" class="box-additional box-additional-subsequent-entry-content">
+  <div id="dcoContent2"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wotd-entry-wrapper">
+  <div>
+    <div class="wotd-entry-date">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 15, 2026</div>
+    <a class="wotd-entry-headword" href="/browse/windshield-survey">windshield survey</a>
+    <div class='wotd-entry-phonetics-section'>
+      
+        <button
+          aria-label="play audio of windshield survey"
+          class="common-btn-headword-audio js-play-word-audio"
+          data-audiosrc="w/windshield-survey/windshield-survey-DgHooD.mp3"
+          data-audioorigin="https://audio.dictionary.com"
+        ></button>
+      
+      <p class='wotd-entry-phonetics'>[<b>wind</b>-sheeld sur-vey]</p>
+    </div>
+  </div>
+  <div>
+    <div class="wotd-entry-pos">noun</div>
+    <p class="wotd-entry-definition">a quick community assessment done by driving through an area</p>
+  </div>
+  <div class="wotd-entry-explanation-section">
+    <div class="wotd-entry-explanation-pill">Explanation</div>
+    <p>A <b>windshield survey </b>offers a fast way to get a feel for a community by observing it from the road. Used in public health and community assessments, the term describes gathering visual information about an area by driving or walking through it. A <b>windshield survey</b> may be happening on your street right now without you even realizing!</p>
+  </div>
+
+  
+    <div>
+      <div class="wotd-entry-example-heading">Example</div>
+      <p class="wotd-entry-example">Officials conducted a <b>windshield survey</b> of the neighborhood to assess local housing conditions.</p>
+    </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<div id="dcoContent3-container" class="box-additional box-additional-subsequent-entry-content">
+  <div id="dcoContent3"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wotd-entry-wrapper">
+  <div>
+    <div class="wotd-entry-date">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 14, 2026</div>
+    <a class="wotd-entry-headword" href="/browse/lamination">lamination</a>
+    <div class='wotd-entry-phonetics-section'>
+      
+        <button
+          aria-label="play audio of lamination"
+          class="common-btn-headword-audio js-play-word-audio"
+          data-audiosrc="l/lamination/lamination-dEWqBC.mp3"
+          data-audioorigin="https://audio.dictionary.com"
+        ></button>
+      
+      <p class='wotd-entry-phonetics'>[lam-<i>uh</i>-<b>ney</b>-sh<i>uh</i>n]</p>
+    </div>
+  </div>
+  <div>
+    <div class="wotd-entry-pos">noun</div>
+    <p class="wotd-entry-definition">the act or process of arranging into thin layers</p>
+  </div>
+  <div class="wotd-entry-explanation-section">
+    <div class="wotd-entry-explanation-pill">Explanation</div>
+    <p>While you may associate <b>lamination</b> with protecting important documents, the term can describe any process that involves combining thin sheets or layers into a single structure. In baking, <b>lamination</b> involves folding butter and dough together to create the flaky texture found in croissants and other pastries. Next time you have a sweet treat for breakfast, you can thank <b>lamination</b> for each delicious bite.</p>
+  </div>
+
+  
+    <div>
+      <div class="wotd-entry-example-heading">Example</div>
+      <p class="wotd-entry-example">Careful<b> lamination</b> of thin wooden sheets gave the tabletop exceptional strength and durability.</p>
+    </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<div id="dcoContent4-container" class="box-additional box-additional-subsequent-entry-content">
+  <div id="dcoContent4"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wotd-entry-wrapper">
+  <div>
+    <div class="wotd-entry-date">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 13, 2026</div>
+    <a class="wotd-entry-headword" href="/browse/caprice">caprice</a>
+    <div class='wotd-entry-phonetics-section'>
+      
+        <button
+          aria-label="play audio of caprice"
+          class="common-btn-headword-audio js-play-word-audio"
+          data-audiosrc="c/caprice/caprice-lQjOBA.mp3"
+          data-audioorigin="https://audio.dictionary.com"
+        ></button>
+      
+      <p class='wotd-entry-phonetics'>[k<i>uh</i>-<b>prees</b>]</p>
+    </div>
+  </div>
+  <div>
+    <div class="wotd-entry-pos">noun</div>
+    <p class="wotd-entry-definition">a sudden, unpredictable change, as of one's mind or the weather</p>
+  </div>
+  <div class="wotd-entry-explanation-section">
+    <div class="wotd-entry-explanation-pill">Explanation</div>
+    <p>Ever had an urge to change your plans for no particular reason? That could be a <b>caprice</b>, or a sudden, unpredictable change of mood or behavior. A <b>caprice</b> might inspire someone to rearrange their living room on a whim or decide to take a spontaneous weekend trip. It comes from an Italian word meaning "sudden start," suggesting that a <b>caprice</b> can come out of nowhere and leave you feeling a little stirred up.</p>
+  </div>
+
+  
+    <div>
+      <div class="wotd-entry-example-heading">Example</div>
+      <p class="wotd-entry-example">On a total <b>caprice</b>, she sold her house and bought a sailboat instead.</p>
+    </div>
+  
+</div>
+<nav aria-label="pagination">
+            <ol class="wotd-pagination-controls">
+              <li>
+                  <a class="wotd-pagination-number active" href="/word-of-the-day?page=1" aria-current="page">1</a>
+                    </li>
+              <li>
+                  <a class="wotd-pagination-number" href="/word-of-the-day?page=2">2</a>
+                    </li>
+              <li>
+                  <a class="wotd-pagination-number" href="/word-of-the-day?page=3">3</a>
+                    </li>
+              <li>
+                  <a class="wotd-pagination-number" href="/word-of-the-day?page=4">4</a>
+                    </li>
+              <li>
+                  <a class="wotd-pagination-number" href="/word-of-the-day?page=5">5</a>
+                    </li>
+              <li>
+                  <a class="wotd-next-page" href="/word-of-the-day?page=2" aria-label="next"></a>
+                </li>
+              </ol>
+          </nav>
+        </div>
+        <div class="wotd-landing-ad-column">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<div id="dcoSide1-container" class="box-additional box-additional-browse-side">
+  <div id="dcoSide1"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="dcoSideNoFlex2-container" class="box-additional box-additional-no-flex-side-secondary">
+  <div id="dcoSideNoFlex2"></div>
+</div>
+</div>
+      </div>
+    </div>
+  </main>
+  </div>
+  <div class="wrapper-site-ftr">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="site-ftr">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="sec-wotd-card" data-cy="wotd-card">
+  <div class="wrapper-wotd-card">
+    <div class="box-wotd-card">
+      <header>
+        
+          
+          
+            <div class="hdr-wotd">
+              <a class="lk-wotd" href="/word-of-the-day">Word of the Day</a>
+            </div>
+          
+        
+      </header>
+      <div class="box-word-phonetics-audio">
+        <div class="js-word-of-the-day-modal"></div>
+        
+          
+          
+            <div class="hdr-headword">
+              <a class="lk-headword" href="/browse/lily-livered">lily-livered</a>
+            </div>
+          
+        
+        <div class="box-phonetics-audio">
+          
+            <button
+              aria-label="play audio of lily-livered"
+              class="common-btn-headword-audio js-play-word-audio"
+              data-audiosrc="l/lily-livered/lily-livered-oTnjFF.mp3"
+              data-audioorigin="https://audio.dictionary.com"
+            ></button>
+          
+          <span class="txt-phonetics">
+            [<b>lil</b>-ee-<b>liv</b>-erd]
+          </span>
+        </div>
+      </div>
+      <button class="btn-common-cta js-get-wotd-modal">Get the Word of the Day</button>
+    </div>
+    
+  </div>
+  
+</section>
+
+  <div class="logos-primary-container">
+    <div class="primary-section primary-logo-container">
+      
+        
+        
+          <a href="/"><img src="https://cdn.dictionary.com/dcom-footer-logo-D3hiCHBw.svg"  alt="" loading="lazy" class="primary-logo"/></a>
+        
+      
+      <p class="description">Over 500,000 expert-authored dictionary and thesaurus entries</p>
+    </div>
+    <div class="primary-section primary-links-container">
+      <div class="internal-links">
+        <a href="/list">Entry list</a>
+        <a href="https://www.ixl.com/company/careers"
+          target="_blank"
+          rel="noopener noreferrer">Careers</a>
+        <a href="/cdn-cgi/l/email-protection#b7c4c2c7c7d8c5c3f7d3ded4c3ded8d9d6c5ce99d4d8da">Contact us</a>
+        <a href="https://help.dictionary.com/">Help</a>
+        <a href="/terms-and-privacy">Cookies, terms &amp privacy</a>
+      </div>
+      <div class="social-logo-container">
+        <a href="https://www.facebook.com/dictionarycom"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/facebook-logo-CyeagSVt.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+        <a href="https://www.instagram.com/dictionarycom"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/instagram-logo-DjehPe9u.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+        <a href="https://www.x.com/dictionarycom"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/x-logo-BkS2op_x.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+        <a href="https://www.linkedIn.com/company/dictionary.com/"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/linkedin-logo-C27Z32SR.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+        <a href="https://www.youtube.com/c/DictionarycomVideo"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/youtube-logo-AGOPFgFh.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+        <a href="https://apps.apple.com/us/app/dictionary-com-english-words/id308750436"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/apple-logo-DpgKKelf.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.dictionary&hl=en"
+          target="_blank" rel="noopener noreferrer"><img src="https://cdn.dictionary.com/play-store-logo-DBMxwBHG.svg"  alt="" width="20" loading="lazy" height="20"/></a>
+      </div>
+    </div>
+  </div>
+  <div class="parent-brands-container">
+    <div class="brands-parent-logos-container">
+      <a href="https://www.ixl.com"><img src="https://cdn.dictionary.com/ixl-footer-parent-logo-CMjElTgC.svg"  alt="" loading="lazy"/></a>
+      <a href="https://www.dictionarymedia.com"><img src="https://cdn.dictionary.com/dmg-footer-parent-logo-COhNvSUi.svg"  alt="" loading="lazy"/></a>
+    </div>
+    <p>IXL Learning's Dictionary Media Group reaches over 500,000,000 learners each year</p>
+  </div>
+  <div class="brands-container">
+    <div class="brands-subsidiary-container">
+      <div class="brands-row">
+        <div class="brand">
+          <div class="brand-logo">
+            
+              
+              
+                <a href="https://www.thesaurus.com/">
+                  <img src="https://cdn.dictionary.com/tcom-footer-brands-logo-Ce0ywHGh.svg"  alt="" loading="lazy"/>
+                </a>
+                <p>Essential reference for synonyms and antonyms</p>
+              
+            
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.vocabulary.com/">
+              <img src="https://cdn.dictionary.com/vocab-footer-brands-logo-BlMloknW.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Adaptive learning for English vocabulary</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.words.com/">
+              <img src="https://cdn.dictionary.com/words-footer-brands-logo-DGX_eyNx.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Fun daily word games</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.ingles.com/">
+              <img src="https://cdn.dictionary.com/ingles-footer-brands-logo-Cj0_mi36.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>English dictionary and learning for Spanish speakers</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.spanishdict.com/">
+              <img src="https://cdn.dictionary.com/spanish-dict-footer-brands-logo-4FlU3dl5.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Spanish-English dictionary, translator, and learning</p>
+          </div>
+        </div>
+      </div>
+      <div class="brands-row">
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.frenchdictionary.com/">
+              <img src="https://cdn.dictionary.com/french-dict-footer-brands-logo-CpczaTEW.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>French-English dictionary, translator, and learning</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.rosettastone.com/">
+              <img src="https://cdn.dictionary.com/rosetta-stone-footer-brands-logo-BHxnsu0P.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Immersive learning for 25 languages</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.ixl.com/">
+              <img src="https://cdn.dictionary.com/ixl-footer-brands-logo-ecUK1g3T.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Comprehensive K-12 personalized learning</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.teacherspayteachers.com/">
+              <img src="https://cdn.dictionary.com/tpt-footer-brands-logo-DDu69lkn.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Marketplace for millions of educator-created resources</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.education.com/">
+              <img src="https://cdn.dictionary.com/edcom-footer-brands-logo-CqMly76v.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>35,000+ worksheets, games, and lesson plans</p>
+          </div>
+        </div>
+      </div>
+      <div class="brands-row">
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.abcya.com/">
+              <img src="https://cdn.dictionary.com/abcya-footer-brands-logo-C6ORZBhp.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Fun educational games for kids</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.wyzant.com/">
+              <img src="https://cdn.dictionary.com/wyzant-footer-brands-logo-XsKkZY9f.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Trusted tutors for 300+ subjects</p>
+          </div>
+        </div>
+        <div class="brand">
+          <div class="brand-logo">
+            <a href="https://www.multiplication.com/">
+              <img src="https://cdn.dictionary.com/multcom-footer-brands-logo-0pGBnyvb.svg"  alt="" loading="lazy"/>
+            </a>
+            <p>Math games and learning resources for kids</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright">
+    <p>&copy; 2026 Dictionary Media Group, Inc., a division of IXL Learning</p>
+    
+    <div id="mspa-footer-html-id"></div>
+    
+  </div>
+</footer>
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<div id="dcoAdhesion1-container" class="box-additional box-additional-adhesion">
+  <div id="dcoAdhesion1"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <style>
+    /* Scoped to the same breakpoint the Adhesion slot uses, so the offset stops
+       applying the instant a window is narrowed rather than at the next page
+       load: below 768px the In-Screen unit is hidden and the mobile Adhesion is
+       back, and space still reserved for GumGum would leave the floating player
+       hovering in a gap above the adhesion.
+       The body attribute means the offset only applies while an In-Screen unit
+       is really occupying the bottom of the viewport. Loading the script is not
+       enough: it can be blocked, return no fill, or the unit can be closed, and
+       in each of those cases reserving 105px would leave the player hovering
+       over nothing. See inScreenIsOnScreen below.
+       The `translate` property rather than `transform`: the individual property
+       composes with whatever `transform` AnyClip sets on the player, instead of
+       replacing it. Writing `transform` here would silently discard the vendor's
+       own positioning, and would override a close animation that slides the
+       player away. !important because AnyClip writes these inline. */
+    @media only screen and (min-width: 768px) {
+      body[data-gumgum-inscreen] [data-gumgum-anyclip-float] {
+        translate: 0 -105px !important;
+      }
+    }
+
+    /* Below the breakpoint the mobile Adhesion is the unit on screen, and GumGum
+       offers no way to unload an In-Screen unit once requested -- so hide its
+       container. Doing that here, keyed to an attribute of our own, means never
+       writing to GumGum's inline display: if the vendor collapses or closes the
+       unit while we are narrow, stashing and restoring that value on widening
+       could resurrect an ad the user had already dismissed. Above the breakpoint
+       this rule simply does not apply, so the vendor's own display always wins.
+       `not all and (min-width: 768px)` is the exact complement of the query
+       above, leaving no fractional-width gap between the two.
+       !important so it beats the inline display GumGum writes on that node. */
+    @media not all and (min-width: 768px) {
+      [data-gumgum-container] {
+        display: none !important;
+      }
+    }
+  </style>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    (function () {
+      /* The DCOM/TCOM apps webview these pages and strip the ad formats that
+         overlay the viewport: MobileAppHideSiteHeaderFooter.js removes
+         .box-additional-adhesion for these user agents. In an app webview wide
+         enough to clear the breakpoint below, In-Screen would otherwise load as a
+         stand-in for the very unit the app just removed -- and this tag renders
+         ahead of that bundle in base.tag, so waiting for it is not an option.
+         The user agent cannot change mid-page, so bail out for good.
+         These strings are duplicated from that file deliberately: it is a Vite
+         module and an inline script cannot import from it. Keep the two in step. */
+      const ua = window.navigator && typeof window.navigator.userAgent === 'string'
+        ? window.navigator.userAgent
+        : '';
+      if (ua.indexOf('dcom ios') > -1 || ua.indexOf('dcom android') > -1) {
+        return;
+      }
+
+      const breakpoint = window.matchMedia('(min-width: 768px)');
+
+      /* Load once, the first time we are at or above the breakpoint -- which can
+         be a later resize, not only page load. Widening has to load too: CSS
+         hides the mobile Adhesion slot from 768px up, so a window opened narrow
+         and then widened would otherwise be left with neither unit. Never load
+         below the breakpoint, where the Adhesion is the unit on screen. */
+      let gumgumLoaded = false;
+
+      function loadGumGum() {
+        if (gumgumLoaded) {
+          return;
+        }
+        gumgumLoaded = true;
+        window.ggv2id = 'luvkiqqj';
+        const services = document.createElement('script');
+        services.type = 'text/javascript';
+        services.async = true;
+        services.src = 'https://js.gumgum.com/services.js';
+        document.head.appendChild(services);
+      }
+
+      /* GumGum measures the viewport once, when it requests the ad, and its
+         client API exposes no way to unload, re-request or re-evaluate an
+         In-Screen unit afterwards -- so a window narrowed past the breakpoint
+         would otherwise leave the unit on screen, overlapping the mobile
+         Adhesion slot that CSS has just brought back. GUMGUM.container is
+         GumGum's own node and the only handle on it: its id is generated per
+         pageview, so there is nothing stable to write a selector against. All we
+         do is stamp our own attribute on it and let the stylesheet above hide it
+         below the breakpoint -- the vendor's inline display is never touched.
+         Note this hides, it does not unload -- the impression is already served. */
+      const INSCREEN_ATTR = 'data-gumgum-inscreen';
+      const CONTAINER_ATTR = 'data-gumgum-container';
+      const MIN_UNIT_WIDTH = 100;
+      const MIN_UNIT_HEIGHT = 20;
+
+      let observedContainer = null;
+      let syncQueued = false;
+
+      /* Whether an In-Screen unit is really occupying the bottom of the viewport.
+         That the script loaded proves nothing: it can be blocked, it can return
+         no fill, and the unit can be closed or collapsed later -- in each of
+         those cases the 105px offset would strand the AnyClip player above an
+         empty gap. The unit is viewport-anchored, so look for a visible
+         fixed-positioned box of real size inside GumGum's container: the same
+         shape of check used for the AnyClip player below, and for the same
+         reason -- the vendor's own class names are not ours to depend on.
+         The box also has to actually intersect the viewport. A unit closed by
+         being translated out of view keeps its size and its fixed position, so
+         measuring the box alone would read it as still on screen and strand the
+         player over the empty space it left behind. */
+      function inScreenIsOnScreen(container) {
+        if (!breakpoint.matches || window.getComputedStyle(container).display === 'none') {
+          return false;
+        }
+        const nodes = container.querySelectorAll('*');
+        for (let i = 0; i < nodes.length; i++) {
+          const style = window.getComputedStyle(nodes[i]);
+          if (style.position !== 'fixed' || style.display === 'none' || style.visibility === 'hidden') {
+            continue;
+          }
+          const rect = nodes[i].getBoundingClientRect();
+          if (rect.width < MIN_UNIT_WIDTH || rect.height < MIN_UNIT_HEIGHT) {
+            continue;
+          }
+          const onScreen = rect.bottom > 0 && rect.right > 0 &&
+            rect.top < window.innerHeight && rect.left < window.innerWidth;
+          if (onScreen) {
+            return true;
+          }
+        }
+        return false;
+      }
+
+      function sync() {
+        syncQueued = false;
+        const container = window.GUMGUM && window.GUMGUM.container;
+        /* A container GumGum has detached counts as gone: it can still be
+           referenced by GUMGUM.container after the node leaves the document. */
+        if (!container || !document.body.contains(container)) {
+          document.body.removeAttribute(INSCREEN_ATTR);
+          return;
+        }
+        if (container !== observedContainer) {
+          if (observedContainer) {
+            observedContainer.removeEventListener('transitionend', queueSync);
+            observedContainer.removeEventListener('animationend', queueSync);
+          }
+          observedContainer = container;
+          /* Hands the node to the stylesheet rule above. Our own attribute, so
+             GumGum's inline display is never read or written. */
+          container.setAttribute(CONTAINER_ATTR, '');
+          /* Catches the unit rendering, collapsing, or being closed later. */
+          unitObserver.disconnect();
+          unitObserver.observe(container, {
+            childList: true,
+            subtree: true,
+            attributes: true,
+            attributeFilter: ['style', 'class']
+          });
+          /* A CSS close animation only touches style/class when it starts, so
+             the observer above fires while the unit is still over the viewport
+             and nothing tells us when it has finished leaving. These bubble from
+             the unit, so re-check once the movement is actually done. */
+          container.addEventListener('transitionend', queueSync);
+          container.addEventListener('animationend', queueSync);
+        }
+        if (inScreenIsOnScreen(container)) {
+          document.body.setAttribute(INSCREEN_ATTR, '');
+        } else {
+          document.body.removeAttribute(INSCREEN_ATTR);
+        }
+      }
+
+      function queueSync() {
+        if (syncQueued) {
+          return;
+        }
+        syncQueued = true;
+        window.requestAnimationFrame(sync);
+      }
+
+      /* GumGum appends its container to <body> whenever its script finishes, so
+         watch for that rather than polling for a fixed window: on a slow
+         connection it can arrive long after any timeout we would pick, and if it
+         lands while we are below the breakpoint the unit would appear over the
+         Adhesion -- the exact collision this is here to prevent.
+         This stays connected for the life of the page. unitObserver watches the
+         container's subtree and so cannot see the container itself being removed
+         from <body>; only this one can, and a close that removes the node has to
+         clear the offset. Direct children of <body> only, so it stays cheap. */
+      const containerObserver = new MutationObserver(queueSync);
+      containerObserver.observe(document.body, { childList: true });
+      const unitObserver = new MutationObserver(queueSync);
+
+      breakpoint.addEventListener('change', function () {
+        if (breakpoint.matches) {
+          loadGumGum();
+        }
+        queueSync();
+      });
+
+      if (breakpoint.matches) {
+        loadGumGum();
+      }
+
+      /* AnyClip names its own DOM with an `ac-` prefix, not anything we control,
+         so we watch for the descendant it switches to position:fixed rather than
+         matching a vendor class name that could be renamed under us. It floats
+         in place -- the player stays inside our wrapper -- so scoping the scan
+         and the observer to the wrapper is enough. */
+      /* A data attribute, not a class or an inline style: those two are the
+         observer's attributeFilter below, so writing either would re-trigger
+         the observer on every mark. */
+      const FLOAT_ATTR = 'data-gumgum-anyclip-float';
+
+      const wrapper = document.querySelector('.box-additional-anyclip');
+      if (!wrapper) {
+        return;
+      }
+
+      let scanQueued = false;
+
+      function mark(el) {
+        if (window.getComputedStyle(el).position === 'fixed') {
+          el.setAttribute(FLOAT_ATTR, '');
+        } else if (el.hasAttribute(FLOAT_ATTR)) {
+          el.removeAttribute(FLOAT_ATTR);
+        }
+      }
+
+      function scan() {
+        scanQueued = false;
+        const descendants = wrapper.querySelectorAll('*');
+        for (let i = 0; i < descendants.length; i++) {
+          mark(descendants[i]);
+        }
+      }
+
+      function queueScan() {
+        if (scanQueued) {
+          return;
+        }
+        scanQueued = true;
+        window.requestAnimationFrame(scan);
+      }
+
+      const observer = new MutationObserver(queueScan);
+      observer.observe(wrapper, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ['style', 'class']
+      });
+      queueScan();
+    })();
+  </script>
+
+<script type="module" src="https://cdn.dictionary.com/js-MobileAppHideSiteHeaderFooter-Tpcs_rJC.js"></script>
+
+      <script type="module" src="https://cdn.dictionary.com/js-MobileSiteNav-C3m_VUjA.js"></script>
+
+      <script type="module" src="https://cdn.dictionary.com/js-HeadwordAudioBtn-CEkauKRl.js"></script>
+
+      <script type="module" src="https://cdn.dictionary.com/WordOfTheDayModal.app-BmJQk9Eh.js"></script>
+
+      <link href="https://cdn.dictionary.com/WordOfTheDayModal-BUDi79Bd.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.dictionary.com/Modal-BBlh2m_d.css" rel="stylesheet" type="text/css">
+    <script id="WordOfTheDayModal-props" type="application/json">
+    {"body":"\u003Cb\u003ELily-livered\u003C/b\u003E describes someone who is cowardly or easily intimidated. The phrase comes from an old belief that the liver was the seat of courage, with a pale or \"lily-white\" liver suggesting it was lacking. A \u003Cb\u003Elily-livered\u003C/b\u003E person might talk a big game, but they tend to shrink away when the pressure is on.","dateSlug":"lily-livered-2026-10-17","definition":"weak or lacking in courage","displayDate":"October 17, 2026","exampleSentence":"My \u003Cb\u003Elily-livered \u003C/b\u003Ebrother refused to watch the scary movie, so we picked a comedy instead.","headword":"lily-livered","heroArticle":{"blurb":"Each week, we scan the latest headlines to spot words in action. From major news stories to pop culture buzz, this list highlights language as it’s unfolding. ","header":"News from October 10–October 16, 2026","imageUrl":"https://www.dictionary.com/e/wp-content/uploads/2026/09/09212020/TWIW-1200x676-1.png","url":"https://www.dictionary.com/articles/news-from-october-10-october-16-2026"},"id":20261017,"partOfSpeech":"adjective","pronunciation":{"audio":{"mpeg":"l/lily-livered/lily-livered-oTnjFF.mp3"},"phonetic":{"html":"\u003Cb\u003Elil\u003C/b\u003E-ee-\u003Cb\u003Eliv\u003C/b\u003E-erd"}},"slug":"lily-livered","subject":"The Anatomy of \"Lily-Livered\""}</script>
+<script type="module" src="https://cdn.dictionary.com/Search.app-C0eHHyAW.js"></script>
+
+      <link href="https://cdn.dictionary.com/Search-CzSwWtU-.css" rel="stylesheet" type="text/css">
+    <script type="module" src="https://cdn.dictionary.com/js-mixpanel-pageview-B2mKYUlj.js"></script>
+
+      <script id="js-mixpanel-pageview-props" type="application/json">
+    {"isDictionarySite":true,"mixpanelProjectToken":"7ad09e902154fc1872a50d2af3b6ebdd"}</script>
+<script type="module" src="https://cdn.dictionary.com/js-HeadwordAudioBtn-CEkauKRl.js"></script>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript">
+      window.SD_PREBID_FILE_URL = '//cmas.sdcdns.com/prebid-min.js';
+      window.SD_GEO_CODE = '-';
+      window.fetch('/api/country-code').then(res => res.json()).then(data => window.SD_GEO_CODE = data.countryCode || '-').catch(() => {});
+    </script>
+    
+    <script src="https://btloader.com/tag?o=4864101730746368&upapi=true" async></script>
+    <script type="text/javascript" src="https://get.s-onetag.com/ead40e1a-8d39-4d5f-96ff-99c519eeede7/tag.min.js" async></script>
+    <script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+    <script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+    <script type="text/javascript" src="https://cmas.sdcdns.com/dco/main-min.js"  crossorigin="anonymous" async></script>
+    <script type="text/javascript">
+      window._qevents = window._qevents || [];
+      (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+      })();
+      window._qevents.push({
+        qacct:"p-J6UREPaB79qHH"
+      });
+    </script>
+    <noscript>
+      <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-J6UREPaB79qHH.gif" border="0" height="1" width="1" alt="Quantcast"/>
+      </div>
+    </noscript>
+  
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4bfa0522e2b90ae',t:'MTc5MjI0MzQ5NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"734c06cf58c740e6abcef6624127a4b1","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://dictionaryblog.cambridge.org/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="SPmTcPb5b6kxs2QTu47s5XxrKN17DAapGtNVFMx7E9g">
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>The Word Watcher: Dating - About Words - Cambridge Dictionary blog</title>
+	<meta name="description" content="Word Watcher Anna Stevenson shares a range of new words and trends that are emerging in the world of dating." />
+	<link rel="canonical" href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The Word Watcher: Dating - About Words - Cambridge Dictionary blog" />
+	<meta property="og:description" content="Word Watcher Anna Stevenson shares a range of new words and trends that are emerging in the world of dating." />
+	<meta property="og:url" content="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/" />
+	<meta property="og:site_name" content="About Words - Cambridge Dictionary blog" />
+	<meta property="article:publisher" content="https://www.facebook.com/CUPCambridgeDictionary" />
+	<meta property="article:published_time" content="2026-10-12T06:00:52+00:00" />
+	<meta property="og:image" content="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&ssl=1" />
+	<meta property="og:image:width" content="600" />
+	<meta property="og:image:height" content="400" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Cambridge Words" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@CambridgeWords" />
+	<meta name="twitter:site" content="@CambridgeWords" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Cambridge Words" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#article","isPartOf":{"@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/"},"author":{"name":"Cambridge Words","@id":"https:\/\/dictionaryblog.cambridge.org\/#\/schema\/person\/8f20552bfa544e9383f1c8719143bfff"},"headline":"The Word Watcher: Dating","datePublished":"2026-10-12T06:00:52+00:00","mainEntityOfPage":{"@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/"},"wordCount":556,"commentCount":6,"publisher":{"@id":"https:\/\/dictionaryblog.cambridge.org\/#organization"},"image":{"@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#primaryimage"},"thumbnailUrl":"https:\/\/i0.wp.com\/dictionaryblog.cambridge.org\/wp-content\/uploads\/2026\/10\/dating.jpg?fit=600%2C400&ssl=1","articleSection":["Word watching"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#respond"]}]},{"@type":"WebPage","@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/","url":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/","name":"The Word Watcher: Dating - About Words - Cambridge Dictionary blog","isPartOf":{"@id":"https:\/\/dictionaryblog.cambridge.org\/#website"},"primaryImageOfPage":{"@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#primaryimage"},"image":{"@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#primaryimage"},"thumbnailUrl":"https:\/\/i0.wp.com\/dictionaryblog.cambridge.org\/wp-content\/uploads\/2026\/10\/dating.jpg?fit=600%2C400&ssl=1","datePublished":"2026-10-12T06:00:52+00:00","description":"Word Watcher Anna Stevenson shares a range of new words and trends that are emerging in the world of dating.","breadcrumb":{"@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#primaryimage","url":"https:\/\/i0.wp.com\/dictionaryblog.cambridge.org\/wp-content\/uploads\/2026\/10\/dating.jpg?fit=600%2C400&ssl=1","contentUrl":"https:\/\/i0.wp.com\/dictionaryblog.cambridge.org\/wp-content\/uploads\/2026\/10\/dating.jpg?fit=600%2C400&ssl=1","width":600,"height":400,"caption":"MoMo Productions \/ DigitalVision \/ Getty"},{"@type":"BreadcrumbList","@id":"https:\/\/dictionaryblog.cambridge.org\/2026\/10\/12\/the-word-watcher-dating\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/dictionaryblog.cambridge.org\/"},{"@type":"ListItem","position":2,"name":"The Word Watcher: Dating"}]},{"@type":"WebSite","@id":"https:\/\/dictionaryblog.cambridge.org\/#website","url":"https:\/\/dictionaryblog.cambridge.org\/","name":"About Words - Cambridge Dictionary blog","description":"Commenting on developments in the English language","publisher":{"@id":"https:\/\/dictionaryblog.cambridge.org\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/dictionaryblog.cambridge.org\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/dictionaryblog.cambridge.org\/#organization","name":"Cambridge Dictionary","url":"https:\/\/dictionaryblog.cambridge.org\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/dictionaryblog.cambridge.org\/#\/schema\/logo\/image\/","url":"https:\/\/i0.wp.com\/dictionaryblog.cambridge.org\/wp-content\/uploads\/2023\/07\/og-image.png?fit=400%2C400&ssl=1","contentUrl":"https:\/\/i0.wp.com\/dictionaryblog.cambridge.org\/wp-content\/uploads\/2023\/07\/og-image.png?fit=400%2C400&ssl=1","width":400,"height":400,"caption":"Cambridge Dictionary"},"image":{"@id":"https:\/\/dictionaryblog.cambridge.org\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/CUPCambridgeDictionary","https:\/\/x.com\/CambridgeWords","https:\/\/www.instagram.com\/cambridgewords\/","https:\/\/www.youtube.com\/c\/cambridgedictionary"]},{"@type":"Person","@id":"https:\/\/dictionaryblog.cambridge.org\/#\/schema\/person\/8f20552bfa544e9383f1c8719143bfff","name":"Cambridge Words","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/secure.gravatar.com\/avatar\/28a518e18888d7dc058c7b3f4b89ff161ede26fff1c67b0626a9e264582ed497?s=96&d=identicon&r=g","url":"https:\/\/secure.gravatar.com\/avatar\/28a518e18888d7dc058c7b3f4b89ff161ede26fff1c67b0626a9e264582ed497?s=96&d=identicon&r=g","contentUrl":"https:\/\/secure.gravatar.com\/avatar\/28a518e18888d7dc058c7b3f4b89ff161ede26fff1c67b0626a9e264582ed497?s=96&d=identicon&r=g","caption":"Cambridge Words"},"description":"The most popular online dictionary and thesaurus for learners of English!","sameAs":["http:\/\/cambridgewords.wordpress.com"],"url":"https:\/\/dictionaryblog.cambridge.org\/author\/cambridgewords\/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='preconnect' href='//i0.wp.com' />
+<link rel='preconnect' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="About Words - Cambridge Dictionary blog &raquo; Feed" href="https://dictionaryblog.cambridge.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="About Words - Cambridge Dictionary blog &raquo; Comments Feed" href="https://dictionaryblog.cambridge.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="About Words - Cambridge Dictionary blog &raquo; The Word Watcher: Dating Comments Feed" href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://dictionaryblog.cambridge.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdictionaryblog.cambridge.org%2F2026%2F10%2F12%2Fthe-word-watcher-dating%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://dictionaryblog.cambridge.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdictionaryblog.cambridge.org%2F2026%2F10%2F12%2Fthe-word-watcher-dating%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=https://dictionaryblog.cambridge.org/wp-content/plugins/gutenberg/build/styles/block-library/common.min.css */
+</style>
+<link rel='stylesheet' id='all-css-66dffd18daea598c1b7a48346915d0f0' href='https://dictionaryblog.cambridge.org/_static/??-eJytzMEKwjAMgOEXcgsTyvQgPkvalSyYtSFpGXv7CZ68isefH75dh1RLy6WBSicuDtTfGbMRxM6ygLdDskOUml6DcDS0A8hq188aNy5jcr/sP1prxoUL/UlTNCRDXb+95/aY5ts9hDDN1xMOwF1P' type='text/css' media='all' />
+<style id="wp-block-library-inline-css-extra">
+.has-text-align-justify{text-align:justify;}
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+.wp-block-button__link{background-color:#32373c;border-radius:9999px;box-shadow:none;color:#fff;font-size:1.125em;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-file__button{background:#32373c;color:#fff}.wp-block-accordion-heading{margin:0}.wp-block-accordion-heading__toggle{background-color:inherit!important;color:inherit!important}.wp-block-accordion-heading__toggle:not(:focus-visible){outline:none}.wp-block-accordion-heading__toggle:focus,.wp-block-accordion-heading__toggle:hover{background-color:inherit!important;border:none;box-shadow:none;color:inherit;padding:var(--wp--preset--spacing--20,1em) 0;text-decoration:none}.wp-block-accordion-heading__toggle:focus-visible{outline:auto;outline-offset:0}.wp-block-tab:not(.has-text-color){color:inherit!important}.wp-block-tab:not(.has-background){background-color:inherit!important}.wp-block-tab:focus,.wp-block-tab:hover{text-decoration:none}.wp-block-tab:focus-visible{outline:auto;outline-offset:0}
+/*# sourceURL=https://dictionaryblog.cambridge.org/wp-content/plugins/gutenberg/build/styles/block-library/classic.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--text-shadow--light: 0.05em 0.05em 0.1em rgba(0, 0, 0, 0.3);--wp--preset--text-shadow--strong: 0.1em 0.1em 0.25em rgba(0, 0, 0, 0.5);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}.has-light-text-shadow{text-shadow: var(--wp--preset--text-shadow--light) !important;}.has-strong-text-shadow{text-shadow: var(--wp--preset--text-shadow--strong) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id="jetpack-stats-inline-css">
+img#wpstats{display:none}
+/*# sourceURL=jetpack-stats-inline-css */
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://dictionaryblog.cambridge.org/wp-includes/css/dashicons.min.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='all-css-4f352d2881218c25dcc87b5cf9ddd845' href='https://dictionaryblog.cambridge.org/_static/??-eJyVjk0OgjAQhS8kDC6UuDBuSDyAJ4DpWBraGcK0Em5vI8aFC3+W7+Xl+948FigciSOMPlnHCjbl2NFkoUvOG9C4eFKIPQUCQ+osF1EGYi2D4xJVN/PPFJQwCuehrs0nBErnBQcFx+hTNkNDI7EhRpfDWZrWmAUuK3nV+DaSxnfi47uClxvh1F7j0/1lVWD/ev7v9hSO2/pQ1ftqV1d3qtuH6A==' type='text/css' media='all' />
+<link rel='stylesheet' id='lovecraft-fonts-css' href='https://fonts-api.wp.com/css?family=Playfair+Display%3A400%2C700%2C400italic%7CLato%3A400%2C400italic%2C700%2C700italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext&#038;ver=7.1.3' media='all' />
+<link rel='stylesheet' id='all-css-ccb5934106c259c683bddaa29643595f' href='https://dictionaryblog.cambridge.org/_static/??-eJyFj80OgkAMhF/ItSEahYPxUchSKq7uX7ZdiG/vkoAHg/HUaWbmazpFhcELeYFo82A8w4MkanxCazzCQJ6SKRHelntk3k2/IctsR/J9SKCzBKdFDK5OaTpXmgxdNraHdf0HdqHPlviTB84dYzJRTPCquNqqIhZ7w/0+IHdyhWfDSJj0TWB+n+VlSU2xYOb81V2qc1PVh2PdnN70zHjp' type='text/css' media='all' />
+<style id="jetpack-subscriptions-inline-css">
+#subscribe-email input{width:95%}.comment-subscription-form{margin-bottom:1em}.comment-subscription-form .subscribe-label{display:inline!important}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;padding:0;position:absolute!important;width:1px}
+/*# sourceURL=https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/build/subscriptions/subscriptions.min.css */
+</style>
+<style id="jetpack-global-styles-frontend-style-inline-css">
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<script id="jetpack-mu-wpcom-settings-js-before">
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://dictionaryblog.cambridge.org/wp-content/mu-plugins/wpcomsh/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+</script>
+<link rel="https://api.w.org/" href="https://dictionaryblog.cambridge.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://dictionaryblog.cambridge.org/wp-json/wp/v2/posts/24495" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dictionaryblog.cambridge.org/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://wp.me/p1frMc-6n5' />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0KGCN0J803"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-0KGCN0J803');
+		</script>
+
+			<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0 !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0 0 1px 0;
+				margin: 0;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0 0 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0 10px 2px 0;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0 0 0 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0 10px 0 0;
+			}
+		</style>
+			<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel="amphtml" href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/?amp=1"><noscript><style>.jetpack-comments{visibility:visible!important}</style></noscript><link rel="icon" href="https://s0.wp.com/i/webclip.png" sizes="32x32" />
+<link rel="icon" href="https://s0.wp.com/i/webclip.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://s0.wp.com/i/webclip.png" />
+<meta name="msapplication-TileImage" content="https://s0.wp.com/i/webclip.png" />
+<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://dictionaryblog.cambridge.org/?custom-css=0f4f5d7893" /><link rel='stylesheet' id='all-css-2993f82848b630933769a590d60adec7' href='https://dictionaryblog.cambridge.org/_static/??-eJydzMEKAjEMBNAfsoauongQP0VqGta4bVM2KcW/dy8LXgT1NszwpleHUoyKQU1t5KLwIKsBJ7hyQbglwUlBO1eat6i66Z9FltgSKWCYpSmldXBr8e1B5ziSKZhUV0WXpPZM9CsPze4y/4lVkENymSIHx4t6+7nksz+e/OAPw27/Al5+e1w=' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2f22b7dc400f38cc17452945051cdf68' href='https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/blocks/subscriptions/view.css?m=1779184514' type='text/css' media='all' />
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-24495 single-format-standard wp-embed-responsive wp-theme-lovecraft wp-child-theme-lovecraft-child group-blog has-featured-image fpt-template-lovecraft">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+							<a href="https://dictionaryblog.cambridge.org/" class="site-logo-link" rel="home" itemprop="url"></a>						<h1 class="site-title"><a href="https://dictionaryblog.cambridge.org/" rel="home">About Words &#8211; Cambridge Dictionary blog</a></h1>
+			<p class="site-description">Commenting on developments in the English language</p>
+		</div><!-- .site-branding -->
+
+		<div class="toggles clear">
+			<button class="menu-toggle toggle" aria-controls="primary-menu" aria-expanded="false">
+				<div class="bar"></div>
+				<div class="bar"></div>
+				<div class="bar"></div>
+				<span class="screen-reader-text">Menu</span>
+			</button><!-- .menu-toggle -->
+			<button class="search-toggle toggle">
+				<div class="genericon genericon-search" aria-expanded="false">
+					<span class="screen-reader-text">Search</span>
+				</div><!-- .genericon-search -->
+			</button><!-- .search-toggle -->
+		</div><!-- .toggles -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="menu-cdo-container"><ul id="primary-menu" class="menu"><li id="menu-item-7610" class="home menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7610"><a href="http://dictionaryblog.cambridge.org">Home</a></li>
+<li id="menu-item-7609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7609"><a href="http://dictionary.cambridge.org">Cambridge</a></li>
+<li id="menu-item-22210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-22210"><a href="https://dictionaryblog.cambridge.org">About words</a></li>
+<li id="menu-item-7611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7611"><a href="http://dictionary.cambridge.org/dictionary/">Dictionary</a></li>
+<li id="menu-item-7612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7612"><a href="http://dictionary.cambridge.org/translate/">Translate</a></li>
+<li id="menu-item-7613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7613"><a href="http://dictionary.cambridge.org/grammar/">Grammar</a></li>
+<li id="menu-item-13516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13516"><a href="https://dictionary.cambridge.org/thesaurus/">Thesaurus</a></li>
+<li id="menu-item-13449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13449"><a href="https://dictionary.cambridge.org/plus/">+Plus</a></li>
+<li id="menu-item-7615" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-7615"><a href="https://twitter.com/CambridgeWords">Twitter</a></li>
+<li id="menu-item-7616" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-7616"><a href="https://www.facebook.com/CUPCambridgeDictionary/">Facebook</a></li>
+<li id="menu-item-7617" class="follow menu-item menu-item-type-custom menu-item-object-custom menu-item-7617"><a href="#">Follow us</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+		<div class="mobile-search">
+			<form role="search" method="get" class="search-form" action="https://dictionaryblog.cambridge.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-submit">
+		<span class="genericon genericon-search">
+			<span class="screen-reader-text">Search</span>
+		</span>
+	</button>
+</form>		</div>
+	</header><!-- #masthead -->
+
+			<a class="header-image-wrapper" href="https://dictionaryblog.cambridge.org/" rel="home">
+			<div class="header-image bg-image" style="background-image: url(https://dictionaryblog.cambridge.org/wp-content/uploads/2025/08/cropped-about-words_blog_header_2560x888-v2.png)">
+				<img src="https://dictionaryblog.cambridge.org/wp-content/uploads/2025/08/cropped-about-words_blog_header_2560x888-v2.png" width="1280" height="444" alt="">
+			</div>
+		</a>
+	
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-24495" class="post-24495 post type-post status-publish format-standard has-post-thumbnail hentry category-word-watching">
+	<div class="entry-wrapper">
+		<header class="entry-header">
+			<h1 class="entry-title">The Word Watcher: Dating</h1>
+							<div class="entry-meta">
+					<span class="posted-on">On <a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/" rel="bookmark"><time class="entry-date published" datetime="2026-10-12T07:00:52+01:00">October 12, 2026</time><time class="updated" datetime="2026-10-08T14:08:29+01:00">October 8, 2026</time></a></span><span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://dictionaryblog.cambridge.org/author/cambridgewords/">Cambridge Words</a></span></span><span class="cat-links">In <a href="https://dictionaryblog.cambridge.org/category/word-watching/" rel="category tag">Word watching</a></span>				</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<figure id="attachment_24505" aria-describedby="caption-attachment-24505" style="width: 300px" class="wp-caption alignleft"><a href="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?ssl=1"><img data-recalc-dims="1" fetchpriority="high" decoding="async" data-attachment-id="24505" data-permalink="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/young-couple-seated-across-from-each-other-in-coffeeshop/" data-orig-file="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1" data-orig-size="600,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;Getty Images&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;Young couple seated across from each other in coffeeshop&quot;,&quot;created_timestamp&quot;:&quot;1750978176&quot;,&quot;focal_length&quot;:&quot;47&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;Young couple seated across from each other in coffeeshop&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="" data-image-description="" data-image-caption="&lt;p&gt;MoMo Productions / DigitalVision / Getty&lt;/p&gt;
+" data-large-file="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1" class="size-medium wp-image-24505" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?resize=300%2C200&#038;ssl=1" alt="" width="300" height="200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?w=600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-24505" class="wp-caption-text">MoMo Productions / DigitalVision / Getty</figcaption></figure>
+<p>I’m Anna Stevenson, the Word Watcher. Back in the Dark Ages, when I started dating my husband (Mr Word Watcher), things were much simpler. You met someone nice, went out for dinner, and decided if you liked each other enough to do it again.</p>
+<p>With Gen Z, the world of dating seems to be much more complicated. Let’s look at a few of the colourful words and expressions that are now being used to describe modern romance.<span id="more-24495"></span></p>
+<p>If the terminology is anything to go by, 21st-century dating can be remarkably vague. Why pin yourself down to one person and risk disappointment? With <strong>roster dating</strong>, the idea is to date several people at once, either because you can’t make up your mind or because each person has a different set of qualities that, combined, might make the perfect partner.</p>
+<p class="example"><i class="eg">Commitment isn’t necessarily the destination with roster dating – it’s about letting go of expectations, and not wasting all your energy on a single connection.</i><br />
+<span class="source">[theguardian.com, 27 July 2026]</span></p>
+<p>If that sounds like an organizational nightmare, it might be a better idea to try <strong>wildflowering</strong>, where you stick to one person, but let your new relationship unfold and blossom naturally (or, indeed, wither and die), avoiding any awkward conversations about what it all means.</p>
+<p class="example"><i class="eg">Wildflowering is essentially just a relaxed approach to dating that involves being open to seeing where things go with a potential new love interest </i><br />
+<span class="source">[cosmopolitan, com, 11 June 2026]</span></p>
+<p>Still keeping things somewhat casual, an <strong>explorationship</strong> offers a similar set-up, where you slowly explore the possibility that this may turn out to be a committed relationship, without placing any demands on yourself or your potential partner. This at least allows for the possibility that whatever is going on may develop into something more serious, unlike a <a href="https://dictionary.cambridge.org/dictionary/english/situationship/">situationship</a>, which is often so vague as to be barely romantic at all.</p>
+<p class="example"><i class="eg">Gen-Z is more open to explorationships than traditional dating and relationships.</i><br />
+<span class="source">[idiva.com, 15 September 2025]</span></p>
+<p>If hedging your bets like this holds no appeal and you want to know exactly where this relationship is heading, you can always try <strong>DTR</strong>. DTR stands for “define the relationship” and a DTR conversation lets you speak openly, set your boundaries, and decide whether the two of you actually have a future.</p>
+<p class="example"><i class="eg">If you have been dating consistently for two months, a DTR conversation is in no way outside the realm of reason and may even be expected. </i><br />
+<span class="source">[www.regain.us, 26 March 2026]</span></p>
+<p>An even more direct approach is <strong>turbodating</strong>, where you waste no time on casual conversation and finding out if you have the same taste in music and films and both like cats. Instead, you bypass the fun stage completely and right from the first date engage in serious conversation about relationship goals, financial compatibility, and whether you share the same basic values.</p>
+<p class="example"><i class="eg">Turbodating is sidestepping the small talk stage and asking the nitty gritty questions from the off to avoid &#8220;time wasters&#8221;.</i><br />
+<span class="source">[discoverswns.com, 12 January 2026]</span></p>
+<p>Phew. It all sounds rather exhausting and these are only a few of the words I&#8217;ve been watching, so look out for Part 2 soon. Next time, however, we will be looking at mildly annoying people and the words we use to describe them. See you then!</p>
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+								</footer><!-- .entry-footer -->
+	</div>
+</article><!-- #post-## -->
+
+
+			
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/" rel="prev"><span class="meta-nav">Previous</span> <h4>The Word Watcher: Climate</h4></a></div></div>
+	</nav>
+			
+<div id="comments" class="comments-area">
+	<div class="comments-wrapper">
+		
+					<h2 class="comments-title">
+				6 thoughts on &ldquo;<span>The Word Watcher: Dating</span>&rdquo;			</h2>
+
+			
+			<ol class="comment-list">
+					<li id="comment-256553" class="comment even thread-even depth-1 parent">
+		<article id="div-comment-256553" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='https://secure.gravatar.com/avatar/895394ccc9032f761a5668785eccb225c962042c178808eb428bd38061793260?s=60&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/895394ccc9032f761a5668785eccb225c962042c178808eb428bd38061793260?s=120&#038;d=identicon&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' decoding='async'/>					<b class="fn">S Bassan</b>				</div><!-- .comment-author -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>What about Hybrid dating?</p>
+			</div><!-- .comment-content -->
+
+			<div class="comment-metadata">
+				<a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comment-256553">
+					<time datetime="2026-10-12T07:16:22+01:00">
+						October 12, 2026 at 7:16 am					</time>
+				</a>
+								<span class="reply"><a rel="nofollow" class="comment-reply-link" href="#comment-256553" data-commentid="256553" data-postid="24495" data-belowelement="div-comment-256553" data-respondelement="respond" data-replyto="Reply to S Bassan" aria-label="Reply to S Bassan">Reply</a></span>			</div><!-- .comment-metadata -->
+		</article><!-- .comment-body -->
+<ol class="children">
+	<li id="comment-256556" class="comment odd alt depth-2">
+		<article id="div-comment-256556" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='https://secure.gravatar.com/avatar/0f5476a479a1e0e67302d6d70e9b4636ee77397c851df090f4cc3bc380827e29?s=60&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/0f5476a479a1e0e67302d6d70e9b4636ee77397c851df090f4cc3bc380827e29?s=120&#038;d=identicon&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' decoding='async'/>					<b class="fn">benz</b>				</div><!-- .comment-author -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>nice phrase</p>
+			</div><!-- .comment-content -->
+
+			<div class="comment-metadata">
+				<a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comment-256556">
+					<time datetime="2026-10-12T17:19:35+01:00">
+						October 12, 2026 at 5:19 pm					</time>
+				</a>
+								<span class="reply"><a rel="nofollow" class="comment-reply-link" href="#comment-256556" data-commentid="256556" data-postid="24495" data-belowelement="div-comment-256556" data-respondelement="respond" data-replyto="Reply to benz" aria-label="Reply to benz">Reply</a></span>			</div><!-- .comment-metadata -->
+		</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+	<li id="comment-256560" class="comment even depth-2 parent">
+		<article id="div-comment-256560" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='https://secure.gravatar.com/avatar/8d94c1b07247d73c1846ae3b6b7d4632e5f9ce97df3c69384fef7295a0ee172b?s=60&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/8d94c1b07247d73c1846ae3b6b7d4632e5f9ce97df3c69384fef7295a0ee172b?s=120&#038;d=identicon&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy' decoding='async'/>					<b class="fn"><a href="http://github.com/yaitskov" class="url" rel="ugc external nofollow">Daniil</a></b>				</div><!-- .comment-author -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>dating an ai agent 😉</p>
+			</div><!-- .comment-content -->
+
+			<div class="comment-metadata">
+				<a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comment-256560">
+					<time datetime="2026-10-13T14:36:01+01:00">
+						October 13, 2026 at 2:36 pm					</time>
+				</a>
+								<span class="reply"><a rel="nofollow" class="comment-reply-link" href="#comment-256560" data-commentid="256560" data-postid="24495" data-belowelement="div-comment-256560" data-respondelement="respond" data-replyto="Reply to Daniil" aria-label="Reply to Daniil">Reply</a></span>			</div><!-- .comment-metadata -->
+		</article><!-- .comment-body -->
+<ol class="children">
+	<li id="comment-256562" class="comment odd alt depth-3">
+		<article id="div-comment-256562" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='https://secure.gravatar.com/avatar/190885298bac9417e121a332ab106c1b621845c98a9232f53092bdfad3508b78?s=60&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/190885298bac9417e121a332ab106c1b621845c98a9232f53092bdfad3508b78?s=120&#038;d=identicon&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy' decoding='async'/>					<b class="fn">Ami</b>				</div><!-- .comment-author -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Whats that?</p>
+			</div><!-- .comment-content -->
+
+			<div class="comment-metadata">
+				<a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comment-256562">
+					<time datetime="2026-10-14T01:39:02+01:00">
+						October 14, 2026 at 1:39 am					</time>
+				</a>
+											</div><!-- .comment-metadata -->
+		</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+	<li id="comment-256563" class="comment even thread-odd thread-alt depth-1">
+		<article id="div-comment-256563" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='https://secure.gravatar.com/avatar/bbdb02235c73015123a6fe69cef8d5829c9734d858d9804f076e37b283a127a5?s=60&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/bbdb02235c73015123a6fe69cef8d5829c9734d858d9804f076e37b283a127a5?s=120&#038;d=identicon&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy' decoding='async'/>					<b class="fn">Srikanta Roy</b>				</div><!-- .comment-author -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Sri Kanta Roy 🌹 <strong>s/</strong>Cambridge ☠️ October 14,2026at7:7am &amp; replying </p>
+			</div><!-- .comment-content -->
+
+			<div class="comment-metadata">
+				<a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comment-256563">
+					<time datetime="2026-10-14T02:40:54+01:00">
+						October 14, 2026 at 2:40 am					</time>
+				</a>
+								<span class="reply"><a rel="nofollow" class="comment-reply-link" href="#comment-256563" data-commentid="256563" data-postid="24495" data-belowelement="div-comment-256563" data-respondelement="respond" data-replyto="Reply to Srikanta Roy" aria-label="Reply to Srikanta Roy">Reply</a></span>			</div><!-- .comment-metadata -->
+		</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+	<li id="comment-256565" class="comment odd alt thread-even depth-1">
+		<article id="div-comment-256565" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='https://secure.gravatar.com/avatar/0748c9cf9ec9eb475da959bbf1fea8484aa24ee38cff6d75e1b23996652e4479?s=60&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/0748c9cf9ec9eb475da959bbf1fea8484aa24ee38cff6d75e1b23996652e4479?s=120&#038;d=identicon&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy' decoding='async'/>					<b class="fn">slarchy</b>				</div><!-- .comment-author -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>gulp</p>
+			</div><!-- .comment-content -->
+
+			<div class="comment-metadata">
+				<a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comment-256565">
+					<time datetime="2026-10-14T09:08:05+01:00">
+						October 14, 2026 at 9:08 am					</time>
+				</a>
+								<span class="reply"><a rel="nofollow" class="comment-reply-link" href="#comment-256565" data-commentid="256565" data-postid="24495" data-belowelement="div-comment-256565" data-respondelement="respond" data-replyto="Reply to slarchy" aria-label="Reply to slarchy">Reply</a></span>			</div><!-- .comment-metadata -->
+		</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+			</ol><!-- .comment-list -->
+
+			
+		
+		
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2026/10/12/the-word-watcher-dating/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://dictionaryblog.cambridge.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><div class="jetpack-comments" data-jetpack-comments="{&quot;postId&quot;:24495,&quot;loginUrl&quot;:&quot;https://dictionaryblog.cambridge.org/wp-login.php?redirect_to=https%3A%2F%2Fdictionaryblog.cambridge.org%2F2026%2F10%2F12%2Fthe-word-watcher-dating%2F&quot;,&quot;logoutUrl&quot;:&quot;&quot;,&quot;submit&quot;:{&quot;id&quot;:&quot;submit&quot;,&quot;name&quot;:&quot;submit&quot;,&quot;class&quot;:&quot;submit&quot;,&quot;wrapClass&quot;:&quot;&quot;,&quot;label&quot;:&quot;Comment&quot;},&quot;subscriptions&quot;:[{&quot;name&quot;:&quot;subscribe_comments&quot;,&quot;label&quot;:&quot;Notify me of new comments by email.&quot;,&quot;checked&quot;:false},{&quot;name&quot;:&quot;subscribe_blog&quot;,&quot;label&quot;:&quot;Subscribe to keep up with About Words - Cambridge Dictionary blog.&quot;,&quot;checked&quot;:false}]}"><p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" rows="4" required></textarea></p><p class="comment-form-author"><label for="author">Name</label><input id="author" name="author" type="text" value="" required /></p><p class="comment-form-email"><label for="email">Email</label><input id="email" name="email" type="email" value="" required /></p><p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" maxlength="200" /></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Comment" /> </p></div><input type='hidden' name='comment_post_ID' value='24495' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+<input type="hidden" id="jetpack_comments_form_nonce" name="jetpack_comments_form_nonce" value="8bffc7863b" /><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="37d141b013" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="59"/><script>
+document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+</script>
+</p></form>	</div><!-- #respond -->
+		</div>
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="media_image-3" class="widget widget_media_image"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="https://bit.ly/4i62jQc"><img width="800" height="362" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/Sticky-slot-option-4.png?fit=800%2C362&amp;ssl=1" class="image wp-image-24485 alignleft attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/Sticky-slot-option-4.png?w=800&amp;ssl=1 800w, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/Sticky-slot-option-4.png?resize=300%2C136&amp;ssl=1 300w, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/Sticky-slot-option-4.png?resize=768%2C348&amp;ssl=1 768w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="24485" data-permalink="https://dictionaryblog.cambridge.org/sticky-slot-option-4/" data-orig-file="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/Sticky-slot-option-4.png?fit=800%2C362&amp;ssl=1" data-orig-size="800,362" data-comments-opened="1" data-image-title="Sticky slot option (4)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/Sticky-slot-option-4.png?fit=640%2C290&amp;ssl=1" /></a></aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://dictionaryblog.cambridge.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-submit">
+		<span class="genericon genericon-search">
+			<span class="screen-reader-text">Search</span>
+		</span>
+	</button>
+</form></aside><aside id="top-posts-3" class="widget widget_top-posts"><h1 class="widget-title">Top posts</h1><div class='widgets-grid-layout no-grav'>
+<div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/" title="The Word Watcher: Dating" class="bump-view" data-bump-view="tp" aria-current="page"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1&amp;resize=600%2C600 3x" alt="The Word Watcher: Dating" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2024/05/20/new-words-20-may-2024/" title="New words – 20 May 2024" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2024/04/DINKWAD.jpg?fit=600%2C372&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2024/04/DINKWAD.jpg?fit=600%2C372&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2024/04/DINKWAD.jpg?fit=600%2C372&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2024/04/DINKWAD.jpg?fit=600%2C372&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2024/04/DINKWAD.jpg?fit=600%2C372&amp;ssl=1&amp;resize=600%2C600 3x" alt="New words – 20 May 2024" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/" title="The Word Watcher: Climate" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/climate.jpg?fit=600%2C400&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/climate.jpg?fit=600%2C400&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/climate.jpg?fit=600%2C400&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/climate.jpg?fit=600%2C400&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/climate.jpg?fit=600%2C400&amp;ssl=1&amp;resize=600%2C600 3x" alt="The Word Watcher: Climate" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2015/08/05/they-carried-out-an-experiment-phrasal-verbs-in-formal-writing/" title="They carried out an experiment: phrasal verbs in formal writing" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2015/07/carriedout_phrasalverbs.jpg?resize=200%2C200&#038;ssl=1" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2015/07/carriedout_phrasalverbs.jpg?resize=200%2C200&amp;ssl=1 1x" alt="They carried out an experiment: phrasal verbs in formal writing" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2026/09/14/the-word-watcher-reverse/" title="The Word Watcher: Reverse" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=1200%2C800&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=600%2C600 3x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=800%2C800 4x" alt="The Word Watcher: Reverse" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2026/08/31/the-word-watcher-food-and-drink/" title="The Word Watcher: Food and drink" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=1200%2C801&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=1200%2C801&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=1200%2C801&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=1200%2C801&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=1200%2C801&amp;ssl=1&amp;resize=600%2C600 3x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=1200%2C801&amp;ssl=1&amp;resize=800%2C800 4x" alt="The Word Watcher: Food and drink" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/" title="I&#039;m tearing my hair out here! Hair idioms" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=1200%2C800&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=600%2C600 3x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=800%2C800 4x" alt="I&#039;m tearing my hair out here! Hair idioms" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/" title="All good things come to an end: talking about leaving a place" class="bump-view" data-bump-view="tp"><img loading="lazy" width="200" height="200" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=1200%2C800&#038;ssl=1&#038;resize=200%2C200" srcset="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=200%2C200 1x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=300%2C300 1.5x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=400%2C400 2x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=600%2C600 3x, https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=800%2C800 4x" alt="All good things come to an end: talking about leaving a place" data-pin-nopin="true"/></a></div></div>
+</aside><aside id="authors-2" class="widget widget_authors"><h1 class="widget-title">Authors</h1><ul><li><a href="https://dictionaryblog.cambridge.org/author/aezrac/"> <img alt='1' src='https://secure.gravatar.com/avatar/33f1167341bcb2ad8d5cda944c1565a4bed3229b7e714f68c0a715b0b828729c?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/33f1167341bcb2ad8d5cda944c1565a4bed3229b7e714f68c0a715b0b828729c?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Ron Carter</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2011/12/14/a-few-words-on-corpus-linguistics-part-2/" title="A few words on corpus linguistics part 2">A few words on corpus linguistics part 2</a></li><li><a href="https://dictionaryblog.cambridge.org/2011/12/12/a-few-words-on-corpus-linguistics/" title="A few words on corpus linguistics">A few words on corpus linguistics</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/cambridgewords/"> <img alt='1' src='https://secure.gravatar.com/avatar/28a518e18888d7dc058c7b3f4b89ff161ede26fff1c67b0626a9e264582ed497?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/28a518e18888d7dc058c7b3f4b89ff161ede26fff1c67b0626a9e264582ed497?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Cambridge Words</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/" title="The Word Watcher: Dating">The Word Watcher: Dating</a></li><li><a href="https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/" title="The Word Watcher: Climate">The Word Watcher: Climate</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/colinjmcintosh/"> <img alt='1' src='https://secure.gravatar.com/avatar/294164df8efb1218c8b62af6645988caafb7a0ff920df0f92177b61417d41618?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/294164df8efb1218c8b62af6645988caafb7a0ff920df0f92177b61417d41618?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>colinjmcintosh</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2016/08/02/a-life-beyond-fiction/" title="A life beyond fiction">A life beyond fiction</a></li><li><a href="https://dictionaryblog.cambridge.org/2016/07/26/whats-in-a-name/" title="What’s in a name?">What’s in a name?</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/domcambridge/"> <img alt='1' src='https://secure.gravatar.com/avatar/3e0d056764a6be85bb41d21dec0a15b1d2be527f7ab8e9ec49ad6291cfd47160?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/3e0d056764a6be85bb41d21dec0a15b1d2be527f7ab8e9ec49ad6291cfd47160?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Dom Glennon</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2014/11/26/countability-grammar-codes/" title="Countability &#8211; grammar codes">Countability &#8211; grammar codes</a></li><li><a href="https://dictionaryblog.cambridge.org/2014/06/04/hairdryers-and-squeaky-bums-the-colourful-world-of-football-words/" title="Hairdryers and squeaky bums: the colourful world of football words">Hairdryers and squeaky bums: the colourful world of football words</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/drheikek/"> <img alt='1' src='https://secure.gravatar.com/avatar/92a9b5b2cf76ef84031a3d5781efb6dd4a11b77e40d5c9970b75505bb3167c01?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/92a9b5b2cf76ef84031a3d5781efb6dd4a11b77e40d5c9970b75505bb3167c01?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Dr Heike Krüsemann</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2020/08/21/how-to-stay-motivated-during-the-pandemic-what-you-told-us-and-why-it-matters/" title="How to stay motivated during the pandemic: What you told us, and why it matters">How to stay motivated during the pandemic: What you told us, and why it matters</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/hughrawson/"> <img alt='1' src='https://secure.gravatar.com/avatar/deef880c82b394ecec12d2b493b3b61428d28041335ae4449492a34337f0d157?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/deef880c82b394ecec12d2b493b3b61428d28041335ae4449492a34337f0d157?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>hughrawson</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2013/07/01/janus-words-two-faced-english/" title="Janus Words &#8211; Two-faced English">Janus Words &#8211; Two-faced English</a></li><li><a href="https://dictionaryblog.cambridge.org/2013/06/24/yet-more-yiddish/" title="Yet More Yiddish">Yet More Yiddish</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/katewoodford/"> <img alt='1' src='https://secure.gravatar.com/avatar/dbded23afb9ce9c557c807b04ccdad4acb7fd3df29bed81045cec94c9eabe767?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/dbded23afb9ce9c557c807b04ccdad4acb7fd3df29bed81045cec94c9eabe767?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Kate Woodford</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/" title="I&#8217;m tearing my hair out here! Hair idioms">I&#8217;m tearing my hair out here! Hair idioms</a></li><li><a href="https://dictionaryblog.cambridge.org/2026/08/26/youre-barking-up-the-wrong-tree-dog-idioms-part-2/" title="You’re barking up the wrong tree! (Dog idioms, Part 2)">You’re barking up the wrong tree! (Dog idioms, Part 2)</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/lizwalter2/"> <img alt='1' src='https://secure.gravatar.com/avatar/741c473fbe96b8cf19a353ce88029caecdad923e2272d55667ef42a12ab98449?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/741c473fbe96b8cf19a353ce88029caecdad923e2272d55667ef42a12ab98449?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Liz Walter</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/" title="All good things come to an end: talking about leaving a place">All good things come to an end: talking about leaving a place</a></li><li><a href="https://dictionaryblog.cambridge.org/2026/09/02/are-you-free-on-saturday-phrases-for-invitations/" title="Are you free on Saturday? Phrases for invitations.">Are you free on Saturday? Phrases for invitations.</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/patriciaferraz/"> <img alt='1' src='https://secure.gravatar.com/avatar/2520e5ebe0bd1cdd1d3c03e318df7779197c2578a799bb8901081326af850125?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/2520e5ebe0bd1cdd1d3c03e318df7779197c2578a799bb8901081326af850125?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Patricia Ferraz</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2024/07/24/idioms-in-the-guernsey-literary-and-potato-peel-pie-society/" title="Putting a spanner in the works – Idioms in The Guernsey Literary and Potato Peel Pie Society">Putting a spanner in the works – Idioms in The Guernsey Literary and Potato Peel Pie Society</a></li><li><a href="https://dictionaryblog.cambridge.org/2024/07/17/idioms-in-the-thursday-murder-club/" title="In for a penny, in for a pound: Idioms in The Thursday Murder Club">In for a penny, in for a pound: Idioms in The Thursday Murder Club</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/pheacock/"> <img alt='1' src='https://secure.gravatar.com/avatar/432324d6ce812a14e92bb0fdf0a8e20191e2c8d2c273c228b2cda17f32e0535d?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/432324d6ce812a14e92bb0fdf0a8e20191e2c8d2c273c228b2cda17f32e0535d?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Paul Heacock</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2013/06/12/asadfarewell/" title="A sad farewell">A sad farewell</a></li><li><a href="https://dictionaryblog.cambridge.org/2012/12/18/the-words-of-2012/" title="The words of 2012">The words of 2012</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/racheledf/"> <img alt='1' src='https://secure.gravatar.com/avatar/cfc64b1a996710c37615d889722eaa31bbb13a510a59c780898f176f6cadae29?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/cfc64b1a996710c37615d889722eaa31bbb13a510a59c780898f176f6cadae29?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>racheledf</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2012/01/13/what-can-we-learn-from-emails/" title="What can we learn from emails?">What can we learn from emails?</a></li></ul></li><li><a href="https://dictionaryblog.cambridge.org/author/trevorbryden/"> <img alt='1' src='https://secure.gravatar.com/avatar/1468f124a2ac81230173d65d862a8de4a483537f09fa80fe2012f93bc3a8e911?s=48&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/1468f124a2ac81230173d65d862a8de4a483537f09fa80fe2012f93bc3a8e911?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async'/> <strong>Trevor Bryden</strong></a><ul><li><a href="https://dictionaryblog.cambridge.org/2012/04/17/mind-your-ps-and-qs/" title="Mind your p&#8217;s and q&#8217;s">Mind your p&#8217;s and q&#8217;s</a></li><li><a href="https://dictionaryblog.cambridge.org/2012/02/27/what-makes-a-litter/" title="What makes a litter?">What makes a litter?</a></li></ul></li></ul></aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h1 class="widget-title">Latest tweets</h1><a class="twitter-timeline" data-width="220" data-height="400" data-theme="light" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" data-chrome="noheader nofooter noborders transparent" href="https://twitter.com/@CambridgeWords" href="https://twitter.com/@CambridgeWords">My Tweets</a></aside><aside id="wpcom_social_media_icons_widget-2" class="widget widget_wpcom_social_media_icons_widget"><h1 class="widget-title">Follow us</h1><ul><li><a href="https://www.facebook.com/CUPCambridgeDictionary/" class="genericon genericon-facebook" target="_blank"><span class="screen-reader-text">View CUPCambridgeDictionary&#8217;s profile on Facebook</span></a></li><li><a href="https://twitter.com/cambridgewords/" class="genericon genericon-twitter" target="_blank"><span class="screen-reader-text">View cambridgewords&#8217;s profile on Twitter</span></a></li><li><a href="https://www.instagram.com/cambridgewords/" class="genericon genericon-instagram" target="_blank"><span class="screen-reader-text">View cambridgewords&#8217;s profile on Instagram</span></a></li></ul></aside></div><!-- #secondary -->
+
+	</div><!-- #content -->
+			<div class="footer-widgets clear">
+			<div class="widget-areas">
+				
+									<div class="widget-area">
+						<aside id="blog_subscription-5" class="widget widget_blog_subscription jetpack_subscription_widget"><h1 class="widget-title">Subscribe via email</h1>
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-5"
+				data-blog="18458032"
+				data-post_access_level="everybody" >
+									<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div>
+										<p id="subscribe-email">
+						<label id="jetpack-subscribe-label"
+							class="screen-reader-text"
+							for="subscribe-field-blog_subscription-5">
+							Email Address						</label>
+						<input type="email" name="email" autocomplete="email" required="required"
+																					value=""
+							id="subscribe-field-blog_subscription-5"
+							placeholder="Email Address"
+						/>
+					</p>
+
+					<p id="subscribe-submit"
+											>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="source" value="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="subscribe-blog-blog_subscription-5"/>
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="fe6a1ac484" /><input type="hidden" name="_wp_http_referer" value="/2026/10/12/the-word-watcher-dating/" />						<button type="submit"
+															class="wp-block-button__link"
+																					name="jetpack_subscriptions_widget"
+						>
+							Subscribe						</button>
+					</p>
+							</form>
+							<div class="wp-block-jetpack-subscriptions__subscount">
+					Join 14.8K other subscribers				</div>
+						</div>
+			
+</aside>					</div><!-- .widget-area -->
+				
+									<div class="widget-area">
+						<aside id="media_image-5" class="widget widget_media_image"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><figure style="width: 208px" class="wp-caption alignnone"><img width="208" height="42" src="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2016/07/cup-footer-logo.png?fit=208%2C42&amp;ssl=1" class="image wp-image-7600 alignnone attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" data-attachment-id="7600" data-permalink="https://dictionaryblog.cambridge.org/cup-footer-logo/" data-orig-file="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2016/07/cup-footer-logo.png?fit=208%2C42&amp;ssl=1" data-orig-size="208,42" data-comments-opened="1" data-image-title="cup-footer-logo" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2016/07/cup-footer-logo.png?fit=208%2C42&amp;ssl=1" /><figcaption class="wp-caption-text">All material © Cambridge University Press, except where otherwise noted</figcaption></figure></aside>					</div><!-- .widget-area -->
+							</div><!-- .widget-areas -->
+		</div><!-- .footer-widgets -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			<a href="https://wordpress.com/?ref=footer_custom_powered">Powered by WordPress.com</a>.
+			
+			Theme: lovecraft by <a href="http://andersnoren.se" rel="designer">Anders Noren</a>.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/lovecraft-child/*","/wp-content/themes/lovecraft/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<meta id="bilmur" property="bilmur:data" content="" data-customproperties="{&quot;woo_active&quot;:&quot;0&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;lovecraft-child&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}" data-provider="wordpress.com" data-service="atomic"  data-site-tz="Europe/London"  >
+<script defer src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202642"></script>
+					<div class="jetpack-subscription-modal">
+						<div class="jetpack-subscription-modal__modal-content">
+								
+	<div class="wp-block-group has-border-color jetpack-subscription-modal__modal-content-form" style="border-color:#dddddd;border-width:1px;margin-top:0;margin-bottom:0;padding:32px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+
+		
+		<h2 class="wp-block-heading has-text-align-center" style="margin-top:4px;margin-bottom:10px;font-size:26px;font-style:normal;font-weight:600">Discover more from About Words - Cambridge Dictionary blog</h2>
+		
+
+		
+		<p class="has-text-align-center wp-block-paragraph" style='margin-top:4px;margin-bottom:0px;font-size:15px'>Subscribe now to keep reading and get access to the full archive.</p>
+		
+
+			<div class="wp-block-jetpack-subscriptions__supports-newline is-style-compact wp-block-jetpack-subscriptions">
+		<div class="wp-block-jetpack-subscriptions__container is-not-subscriber">
+							<form
+					action="https://wordpress.com/email-subscriptions"
+					method="post"
+					accept-charset="utf-8"
+					data-blog="18458032"
+					data-post_access_level="everybody"
+					data-subscriber_email=""
+					id="subscribe-blog-2"
+				>
+					<div class="wp-block-jetpack-subscriptions__form-elements">
+												<p id="subscribe-email">
+							<label
+								id="subscribe-field-2-label"
+								for="subscribe-field-2"
+								class="screen-reader-text"
+							>
+								Type your email…							</label>
+							<input
+									required="required"
+									type="email"
+									name="email"
+									autocomplete="email"
+									
+									style="font-size: 16px;padding: 15px 23px 15px 23px;border-radius: 50px;border-width: 1px;"
+									placeholder="Type your email…"
+									value=""
+									id="subscribe-field-2"
+									title="Please fill in this field."
+								/>						</p>
+												<p id="subscribe-submit"
+													>
+							<input type="hidden" name="action" value="subscribe"/>
+							<input type="hidden" name="blog_id" value="18458032"/>
+							<input type="hidden" name="source" value="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/"/>
+							<input type="hidden" name="sub-type" value="subscribe-block"/>
+							<input type="hidden" name="app_source" value="atomic-subscription-modal-lo"/>
+							<input type="hidden" name="redirect_fragment" value="subscribe-blog-2"/>
+							<input type="hidden" name="lang" value="en_US"/>
+							<input type="hidden" id="_wpnonce" name="_wpnonce" value="fe6a1ac484" /><input type="hidden" name="_wp_http_referer" value="/2026/10/12/the-word-watcher-dating/" /><input type="hidden" name="post_id" value="24495"/>							<button type="submit"
+																	class="wp-block-button__link"
+																									style="font-size: 16px;padding: 15px 23px 15px 23px;margin: 0; margin-left: 10px;border-radius: 50px;border-width: 1px;"
+																name="jetpack_subscriptions_widget"
+							>
+								Subscribe							</button>
+						</p>
+					</div>
+				</form>
+								</div>
+	</div>
+	
+
+		
+		<p class="has-text-align-center jetpack-subscription-modal__close wp-block-paragraph" style="margin-top:20px;font-size:14px"><a href="#">Continue reading</a></p>
+		
+	</div></div>
+							</div>
+					</div>
+				<div style="display:none">
+			<div class="grofile-hash-map-45f9dcfad9aac5240898eece12e167be">
+		</div>
+		<div class="grofile-hash-map-885c3b9b6f648938dd773d59d8e10f11">
+		</div>
+		<div class="grofile-hash-map-24182dce23db10b11496e1d91283f447">
+		</div>
+		<div class="grofile-hash-map-47b5fd70e6ab5f547c28fe782d10ba29">
+		</div>
+		<div class="grofile-hash-map-d316db069ad0af51945893751979b6fe">
+		</div>
+		<div class="grofile-hash-map-6d0ea6b048eb67f138c464f256d49c17">
+		</div>
+		</div>
+		<link rel="prefetch" href="https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/blocks/swiper.js" as="script" />
+		<div id="jp-carousel-loading-overlay" style="display: none;">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading"><svg class="jetpack-spinner" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<div class="jp-carousel-photo-caption"></div>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<div class="jp-carousel-photo-title"></div>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner"><svg class="jetpack-spinner" width="20" height="20" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<div class="jp-carousel-caption" itemprop="caption description"></div>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<a class="jp-carousel-image-download" href="#" aria-label="Download image" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<script type='text/javascript'  src='https://dictionaryblog.cambridge.org/_static/??-eJyNy8EOgjAMgOEXck5IlHgwPksp2yzr2sUO8PE1Xrhy/fN/W3Wo0oI0X3lJJOZRR1bM5iey5uc9OBAq0EjlPNtp22V7hRLMs64B3xD/SGCldHROrCPwgdEyVcck2UXFxVykz089y6Mbuns/3K6X/gtSYk6M'></script>
+<script async data-wp-strategy="async" fetchpriority="low" id="comment-reply-js" src="https://dictionaryblog.cambridge.org/wp-includes/js/comment-reply.min.js?ver=7.1.3"></script>
+<script id="wp-dom-ready-js" src="https://dictionaryblog.cambridge.org/wp-content/plugins/gutenberg/build/scripts/dom-ready/index.min.js?ver=3fe927cab37bf38d6a23"></script>
+<script id="subscription-modal-js-js-extra">
+var subscriptionData = {"homeUrl":"dictionaryblog.cambridge.org"};
+//# sourceURL=subscription-modal-js-js-extra
+</script>
+<script type='text/javascript'  src='https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/modules/comments/subscription-modal-on-comment/subscription-modal.js?m=1764003632'></script>
+<script id="grofiles-cards-js" src="https://secure.gravatar.com/js/gprofiles.js?ver=202642"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+//# sourceURL=wpgroho-js-extra
+</script>
+<script type='text/javascript'  src='https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/modules/wpgroho.js?m=1791307592'></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"18458032","post":"24495","tz":"1","srv":"dictionaryblog.cambridge.org","hp":"atomic","ac":"2","amp":"0","j":"1:16.4-a.1"} ]);
+_stq.push([ "clickTrackerInit", "18458032", "24495" ]);
+//# sourceURL=jetpack-stats-js-before
+</script>
+<script data-wp-strategy="defer" defer fetchpriority="low" id="jetpack-stats-js" src="https://stats.wp.com/e-202642.js"></script>
+<script id="jetpack-carousel-js-extra">
+var jetpackSwiperLibraryPath = {"url":"https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https://dictionaryblog.cambridge.org/wp-admin/admin-ajax.php","nonce":"7e633fa922","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","image_label":"Open image in full-screen.","download_original":"View full size \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://dictionaryblog.cambridge.org/wp-login.php?redirect_to=https%3A%2F%2Fdictionaryblog.cambridge.org%2F2026%2F10%2F12%2Fthe-word-watcher-dating%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"loading_comments":"Loading Comments..."};
+//# sourceURL=jetpack-carousel-js-extra
+</script>
+<script type='text/javascript'  src='https://dictionaryblog.cambridge.org/_static/??wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js,wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1790650208'></script>
+<script id="jetpack-comments-js-before">
+window.JetpackComments = {"version":"0.5.0","assetsUrl":"https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-comments/build/","styleUrl":"https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-comments/build/comments.css?minify=false\u0026ver=c9bf65507e0c43456b90-1791834896","requireNameEmail":true,"mustLogIn":false,"maxLength":65525,"blocks":true,"editorLocale":{},"editor":{"blockTools":"Block tools","addBlock":"Add block","embedUrl":"https://dictionaryblog.cambridge.org/wp-json/wpcom/v2/comments/embed"},"site":{"name":"About Words - Cambridge Dictionary blog","iconUrl":"https://s0.wp.com/i/webclip.png"},"manageSubscriptionsUrl":"https://subscribe.wordpress.com/?site=dictionaryblog.cambridge.org","tracks":{"platform":"atomic"},"strings":{"reply":"Reply","commentLabel":"Comment","replyLabel":"Reply","placeholder":"Write a comment","replyPlaceholder":"Write a reply","name":"Name","email":"Email","emailHint":"Address never made public","emailHasAccount":"That email belongs to a WordPress.com account. Log in with WordPress.com to use it, or enter a different email.","website":"Website (optional)","intro":"Enter your name and email to comment.","continueAsGuest":"Continue as a guest","postWithoutSaving":"No, thanks. I just want to post a comment","save":"Save","saveDetails":"Save my name, email, and website in this browser for the next time I comment.","close":"Close","manageSubscriptions":"Manage subscription","mustLogIn":"You must be logged in to post a comment.","logIn":"Log in","logInWithWordPress":"Log in with WordPress.com","logOut":"Log out","change":"Change","editProfile":"Edit profile","addYourName":"Add your name","cancel":"Cancel","signInFailed":"We could not sign you in. Please try again.","tooLong":"This comment is too long to post. Shorten it to send it.","signInRateLimited":"Too many sign-in attempts. Please wait a moment and try again."},"isLoggedIn":false,"avatarUrl":"https://secure.gravatar.com/avatar/?s=80\u0026d=identicon\u0026f=y\u0026r=g","commenter":{"author":"","email":"","url":""},"user":null,"identity":{"blogId":18458032,"canSignIn":true,"connect":{"url":"https://public-api.wordpress.com/connect/?comment_identity=1\u0026blog_id=18458032\u0026challenge=61ir2LKQU-hV_CwA5kMz-rq9ZH6bhbeBSi_XlqHxYnw\u0026origin=https%3A%2F%2Fdictionaryblog.cambridge.org\u0026expires=1791988359\u0026signature=cbab3b25e1ff39d1c0500cd3768c9019c198e9b1241d70c12ad94459a5c95af6","expires":1791988359,"challenge":"61ir2LKQU-hV_CwA5kMz-rq9ZH6bhbeBSi_XlqHxYnw"},"connectUrl":"https://dictionaryblog.cambridge.org/wp-json/wpcom/v2/comments/identity/connect","emailUrl":"","origin":"https://public-api.wordpress.com","codeField":"jetpack_comment_identity_code","passportField":"jetpack_comment_identity_passport","displayCookie":"jetpack_comment_identity_display","cookieHash":"6afcc0284234e0b6cc00408671eac533","cookiePath":"/","cookieDomain":"","defaultAvatar":"https://secure.gravatar.com/avatar/?s=80\u0026d=identicon\u0026f=y\u0026r=g","logoutUrl":"/wp-admin/admin-ajax.php","logoutAction":"jetpack_comments_identity_logout"}};
+//# sourceURL=jetpack-comments-js-before
+</script>
+<script data-wp-strategy="defer" defer id="jetpack-comments-js" src="https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-comments/build/comments.js?minify=false&#038;ver=c9bf65507e0c43456b90-1791834896"></script>
+<script defer id="akismet-frontend-js" src="https://dictionaryblog.cambridge.org/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1785900794"></script>
+<script type='text/javascript'  src='https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?m=1699984508'></script>
+<script id="jetpack-blocks-assets-base-url-js-before">
+var Jetpack_Block_Assets_Base_Url="https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/blocks/";
+//# sourceURL=jetpack-blocks-assets-base-url-js-before
+</script>
+<script data-wp-strategy="defer" defer id="jetpack-block-subscriptions-js" src="https://dictionaryblog.cambridge.org/wp-content/plugins/jetpack/_inc/blocks/subscriptions/view.js?minify=false&#038;ver=16.4-a.1"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://dictionaryblog.cambridge.org/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://dictionaryblog.cambridge.org/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
+<!--
+	generated in 0.459 seconds
+	116326 bytes batcached for 300 seconds
+-->

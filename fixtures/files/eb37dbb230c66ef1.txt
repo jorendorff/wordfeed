@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="viewrss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Word of the Day</title>
+		<description>Word of the Day is a free service of TheFreeDictionary.com</description>
+		<link>https://www.thefreedictionary.com</link>
+		<atom:link href="http://www.thefreedictionary.com/_/WoD/rss.aspx?type=" rel="self" type="application/rss+xml" />
+		<language>en-us</language>
+		<copyright>Farlex, Inc.</copyright>
+		<lastBuildDate>Sat, 17 Oct 2026 05:00:00 GMT</lastBuildDate>
+		<ttl>360</ttl>
+		<image>
+			<title>Word of the Day</title>
+			<link>https://www.thefreedictionary.com</link>
+			<url>http://img.tfd.com/modules/thm_wod.png</url>
+			<width>120</width>
+			<height>60</height>
+		</image>
+		
+				<item>
+					<pubDate>Sat, 17 Oct 2026 05:00:00 GMT</pubDate>
+					<title>chasten</title>
+					<link>https://www.thefreedictionary.com/chasten</link>
+					<guid>https://www.thefreedictionary.com/chasten</guid>
+					<description><![CDATA[Definition: (verb) Censure severely.<br/>
+					Synonyms: <a href="https://www.freethesaurus.com/castigate">castigate</a>, <a href="https://www.freethesaurus.com/chastise">chastise</a>, <a href="https://www.freethesaurus.com/objurgate">objurgate</a>, <a href="https://www.freethesaurus.com/correct">correct</a>.<br/>
+					Usage: His mother will undoubtedly chasten him for those insensitive remarks.
+					]]></description>
+				</item>
+				<item>
+					<pubDate>Fri, 16 Oct 2026 05:00:00 GMT</pubDate>
+					<title>counterbalance</title>
+					<link>https://www.thefreedictionary.com/counterbalance</link>
+					<guid>https://www.thefreedictionary.com/counterbalance</guid>
+					<description><![CDATA[Definition: (verb) Oppose and mitigate the effects of by contrary actions.<br/>
+					Synonyms: <a href="https://www.freethesaurus.com/countervail">countervail</a>, <a href="https://www.freethesaurus.com/neutralize">neutralize</a>, <a href="https://www.freethesaurus.com/counteract">counteract</a>.<br/>
+					Usage: That gentleman grew every day fonder of little Tommy, as if he intended to counterbalance his severity to the father with … affection towards the son.
+					]]></description>
+				</item>
+				<item>
+					<pubDate>Thu, 15 Oct 2026 05:00:00 GMT</pubDate>
+					<title>dapper</title>
+					<link>https://www.thefreedictionary.com/dapper</link>
+					<guid>https://www.thefreedictionary.com/dapper</guid>
+					<description><![CDATA[Definition: (adjective) Marked by up-to-dateness in dress and manners.<br/>
+					Synonyms: <a href="https://www.freethesaurus.com/jaunty">jaunty</a>, <a href="https://www.freethesaurus.com/natty">natty</a>, <a href="https://www.freethesaurus.com/raffish">raffish</a>, <a href="https://www.freethesaurus.com/rakish">rakish</a>, <a href="https://www.freethesaurus.com/spiffy">spiffy</a>, <a href="https://www.freethesaurus.com/spruce">spruce</a>, <a href="https://www.freethesaurus.com/dashing">dashing</a>, <a href="https://www.freethesaurus.com/snappy">snappy</a>.<br/>
+					Usage: He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat.
+					]]></description>
+				</item>
+	</channel>
+</rss>

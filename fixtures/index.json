@@ -1,0 +1,122 @@
+{
+  "https://www.oed.com/": {
+    "file": "7cc1728d62702225.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.oed.com/?tl=true",
+    "contentType": "text/html;charset=UTF-8",
+    "bytes": 27373
+  },
+  "https://wordsmith.org/words/today.html": {
+    "file": "0fd648e7d7ce1209.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://wordsmith.org/words/today.html",
+    "contentType": "text/html",
+    "bytes": 9224
+  },
+  "https://www.wordnik.com/word-of-the-day": {
+    "file": "b45975628f01f773.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.wordnik.com/word-of-the-day",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 51909
+  },
+  "https://www.merriam-webster.com/wotd/feed/rss2": {
+    "file": "38094e483371075f.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.merriam-webster.com/wotd/feed/rss2",
+    "contentType": "application/xml; charset=UTF-8",
+    "bytes": 49023
+  },
+  "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss": {
+    "file": "89e6b522e748797b.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=rss",
+    "contentType": "application/xml; charset=UTF-8",
+    "bytes": 130775
+  },
+  "https://www.thefreedictionary.com/_/WoD/rss.aspx": {
+    "file": "eb37dbb230c66ef1.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.thefreedictionary.com/_/WoD/rss.aspx",
+    "contentType": "text/xml; charset=utf-8",
+    "bytes": 3248
+  },
+  "https://www.macquariedictionary.com.au/": {
+    "file": "26448db895eac4a0.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.macquariedictionary.com.au/",
+    "contentType": "text/html; charset=UTF-8",
+    "bytes": 139692
+  },
+  "https://www.vocabulary.com/word-of-the-day/": {
+    "file": "61c17bb5770571c1.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.vocabulary.com/word-of-the-day/",
+    "contentType": "text/html;charset=UTF-8",
+    "bytes": 46441
+  },
+  "https://sesquiotic.com/feed/": {
+    "file": "0ecf3431495f9d9a.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://sesquiotic.com/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "bytes": 74381
+  },
+  "https://www.grammarphobia.com/blog/feed": {
+    "file": "885c1e1196ba81ad.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://grammarphobia.com/blog/feed",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "bytes": 293963
+  },
+  "https://dictionaryblog.cambridge.org/feed/": {
+    "file": "a1f6a1ee07c28116.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://dictionaryblog.cambridge.org/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "bytes": 21072
+  },
+  "https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/": {
+    "file": "ecf50e2ff48ba082.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/",
+    "contentType": "text/html; charset=UTF-8",
+    "bytes": 115485
+  },
+  "https://www.dictionary.com/e/word-of-the-day/": {
+    "file": "547ddbd0fe339620.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://www.dictionary.com/word-of-the-day",
+    "contentType": "text/html;charset=UTF-8",
+    "bytes": 64652
+  },
+  "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=fwotd&feedformat=rss": {
+    "file": "ee834a714530a611.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=fwotd&feedformat=rss",
+    "contentType": "application/xml; charset=UTF-8",
+    "bytes": 81525
+  },
+  "https://api.urbandictionary.com/v0/words_of_the_day": {
+    "file": "dd3b05c72a61d25f.txt",
+    "ok": true,
+    "status": 200,
+    "finalUrl": "https://api.urbandictionary.com/v0/words_of_the_day",
+    "contentType": "application/json",
+    "bytes": 10793
+  }
+}
