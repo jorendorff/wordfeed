@@ -1,0 +1,170 @@
+[
+  {
+    "source": "oed",
+    "dark": false,
+    "key": "mucid",
+    "logs": []
+  },
+  {
+    "source": "oed",
+    "dark": true,
+    "key": "mucid",
+    "logs": []
+  },
+  {
+    "source": "awad",
+    "dark": false,
+    "key": "izzard",
+    "logs": []
+  },
+  {
+    "source": "awad",
+    "dark": true,
+    "key": "izzard",
+    "logs": []
+  },
+  {
+    "source": "wordnik",
+    "dark": false,
+    "key": "coilgun",
+    "logs": []
+  },
+  {
+    "source": "wordnik",
+    "dark": true,
+    "key": "coilgun",
+    "logs": []
+  },
+  {
+    "source": "mw",
+    "dark": false,
+    "key": "ef396b4b-3b92-4ae9-88d4-8f15be660f8b",
+    "logs": []
+  },
+  {
+    "source": "mw",
+    "dark": true,
+    "key": "ef396b4b-3b92-4ae9-88d4-8f15be660f8b",
+    "logs": []
+  },
+  {
+    "source": "wiktionary",
+    "dark": false,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261024000000/en",
+    "logs": []
+  },
+  {
+    "source": "wiktionary",
+    "dark": true,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261024000000/en",
+    "logs": []
+  },
+  {
+    "source": "tfd",
+    "dark": false,
+    "key": "https://www.thefreedictionary.com/undersell",
+    "logs": []
+  },
+  {
+    "source": "tfd",
+    "dark": true,
+    "key": "https://www.thefreedictionary.com/undersell",
+    "logs": []
+  },
+  {
+    "source": "macquarie",
+    "dark": false,
+    "key": "somnambulism",
+    "logs": []
+  },
+  {
+    "source": "macquarie",
+    "dark": true,
+    "key": "somnambulism",
+    "logs": []
+  },
+  {
+    "source": "vocabcom",
+    "dark": false,
+    "key": "tedious",
+    "logs": []
+  },
+  {
+    "source": "vocabcom",
+    "dark": true,
+    "key": "tedious",
+    "logs": []
+  },
+  {
+    "source": "sesquiotica",
+    "dark": false,
+    "key": "http://sesquiotic.com/?p=15306",
+    "logs": []
+  },
+  {
+    "source": "sesquiotica",
+    "dark": true,
+    "key": "http://sesquiotic.com/?p=15306",
+    "logs": []
+  },
+  {
+    "source": "grammarphobia",
+    "dark": false,
+    "key": "https://grammarphobia.com/?p=34076",
+    "logs": []
+  },
+  {
+    "source": "grammarphobia",
+    "dark": true,
+    "key": "https://grammarphobia.com/?p=34076",
+    "logs": []
+  },
+  {
+    "source": "cambridge-blog",
+    "dark": false,
+    "key": "https://dictionaryblog.cambridge.org/?p=24495",
+    "logs": []
+  },
+  {
+    "source": "cambridge-blog",
+    "dark": true,
+    "key": "https://dictionaryblog.cambridge.org/?p=24495",
+    "logs": []
+  },
+  {
+    "source": "dictcom",
+    "dark": false,
+    "key": "cicerone",
+    "logs": []
+  },
+  {
+    "source": "dictcom",
+    "dark": true,
+    "key": "cicerone",
+    "logs": []
+  },
+  {
+    "source": "fwotd",
+    "dark": false,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/fwotd/20261024000000/en",
+    "logs": []
+  },
+  {
+    "source": "fwotd",
+    "dark": true,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/fwotd/20261024000000/en",
+    "logs": []
+  },
+  {
+    "source": "urban",
+    "dark": false,
+    "key": "17828647",
+    "logs": []
+  },
+  {
+    "source": "urban",
+    "dark": true,
+    "key": "17828647",
+    "logs": []
+  }
+]

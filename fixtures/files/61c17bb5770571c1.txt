@@ -1,0 +1,1257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+<!DOCTYPE html>
+<html lang="en">
+<head>	
+	<title>Word of the day: tedious | Vocabulary.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="google" content="notranslate">
+    <meta
+        name="description"
+        content="Build your vocabulary one word at a time with Vocabulary.com's Word of the Day. Get the Word of the Day in your inbox every day by signing up for our mailing list!" />
+	<link
+        href="https://www.vocabulary.com/word-of-the-day/"
+        rel="canonical" />
+
+	
+
+
+
+
+
+
+	
+
+	<link rel="search" type="application/opensearchdescription+xml" href="https://www.vocabulary.com/search.xml" title="Vocabulary.com" />    
+	<link href="https://cdn.vocabulary.com/images/ios-icons/114x114-off5pn.png" rel="apple-touch-icon"/>
+	<link href="https://cdn.vocabulary.com/images/favicons/favicon-32x32-2frmtt.png" sizes="32x32" rel="icon" type="image/png"/>
+	<link href="https://cdn.vocabulary.com/images/favicons/favicon-16x16-uf6i7e.png" sizes="16x16" rel="icon" type="image/png"/>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<link href="https://cdn.vocabulary.com/css/header-18eveua.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/main-1knvpzy.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/progress-1x2p62h.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/dictionary-kd1ket.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/achievements-4to21o.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/leaderboards-xxg0un.css" rel="stylesheet" type="text/css"/>
+	
+	<link href="https://cdn.vocabulary.com/css/fonts/ss-social-circle-e51wc0.css" rel="stylesheet" type="text/css"/>	
+	<link href="https://cdn.vocabulary.com/css/fonts/ss-symbolicons-block-67mxq6.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/fonts/ss-standard-5s5b7z.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdn.vocabulary.com/css/word-of-the-day/index-nlvvpj.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.vocabulary.com/css/test-prep-promo-wo7tbr.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.vocabulary.com/css/sign-up-tile-8i0un4.css" rel="stylesheet" type="text/css"/>
+	<script>
+	window.onerror = function(message, source, line, col, error){
+		try {
+			if (window.XMLHttpRequest && line && (!window.lasterr || new Date().getTime() - window.lasterr.getTime() > 10000)) {
+				var httpRequest = new XMLHttpRequest();
+				httpRequest.open('POST', '/js/error');
+				httpRequest.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+				httpRequest.send('msg=' + encodeURIComponent(JSON.stringify(
+					{"msg":message, 
+					"src":source, 
+					"line":line, 
+					"col":col, 
+					"err":error
+					}
+				)));
+				window.lasterr = new Date();
+			}
+		} catch(e){}
+	}
+	</script>
+	
+	<script>
+		window.dataLayer = window.dataLayer || []; /* GTM Data Layer */
+		window.VCOM=(window.VCOM=function(){(VCOM.q=VCOM.q||[]).push(arguments)});
+		window.VCOM.__api_server = "https://api.vocabulary.com";
+	</script>
+	<!-- ReCaptcha V3 -->
+	<script src="https://www.google.com/recaptcha/enterprise.js?render=6LeddZEqAAAAAHAYLf9Sz82cN_hk-HFe_coTdqNA"></script>
+		
+		
+	<script>var loginData = {"validUser":false,"locCn":"US","auth":{"loggedin":false},"perms":{"subscribeEmail":true},"points":0,"level":{"id":"L01","name":"Novice","milestone":0,"progress":0},"bowl":{"period":"ACTIVE","name":"Fall 2026 Season","shortName":"Fall 2026","startDay":"2026-10-01","endDay":"2026-11-30"}};</script>	
+	
+	<script src="https://cdn.vocabulary.com/lib/jquery-1eev1tf.js" type="text/javascript"></script>
+	<script src="https://cdn.vocabulary.com/js/module-zcv3kc.js" type="text/javascript"></script>
+	
+		<script type="text/javascript">
+(function() {
+	window.__cmpmode = null;
+	
+	var cbs = [];
+	var status;
+    window.__cmp = function(cmd, cb, gdprApplies, consent) {
+    	if (cmd === 'getConsentData') {
+    		if (status) {
+    			cb(status);
+    		} else {
+    			cbs.push(cb);
+    		}
+    	} else if (cmd === 'cb') {
+    		status = {gdprApplies:gdprApplies, hasGlobalConsent:consent};
+    		for (var i = 0; i < cbs.length; i++) {
+    			cbs[i](status);
+    		}
+    	}
+	}
+    
+    var elem = document.createElement('script');
+    elem.src = 'https://cdn.vocabulary.com/js/vcom/cmp-558kst.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<style>
+body .cookie-privacy-banner {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999;
+	padding: 1em 0;
+	font-size: 90%;
+	background: linear-gradient(rgba(51,82,109,.95) 0%,rgba(32,67,98,.95) 100%);
+	color: #e0e0e0;
+	display: none;
+}
+body.with-cookie-banner .cookie-privacy-banner {
+	display: block;
+}
+body.with-cookie-banner .page-footer {
+	padding-bottom: 18em;
+}
+.cookie-privacy-banner a {
+	color: #e0e0e0;
+}
+.cookie-privacy-banner p {
+	line-height: 125%;
+}
+.cookie-privacy-banner .i-agree {
+	margin-right: 2em;
+}
+.cookie-privacy-banner .choice {
+	font-weight: bold;
+}
+</style>
+	
+	<script>
+	Module.after(['jquery', 'vcom/base','vcom/usermenu' ],function(){});
+	</script>
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+      <script type="module" src="https://cdn.vocabulary.com/js3/assets/mixpanel-DT_Ue9LW.js"></script>
+    
+  
+
+
+<script>
+Module.after(['vcom/analytics/mixpanel'], function() {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-154986-6', 'auto');
+	window.dataLayer = window.dataLayer || [];
+
+	VCOM('gdpr',function(){
+		
+		var t = document.createElement('script');
+		t.async=true;
+		t.src='https://www.google-analytics.com/analytics.js';
+		document.head.appendChild(t);
+		
+		
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-TN79ND');
+
+        // Mixpanel PageView + TimeOnPage tracking
+        window.addEventListener('pageshow', function (event) {
+            // Mixpanel PageView tracking: use pageshow window event to handle both regular page navigation and bfcache restoration
+            try {
+                // Store the total number of pageviews of the current browser session
+                let sessionPageViewCount = sessionStorage.getItem("session-pageview-count") || 0;
+                sessionPageViewCount = Number(sessionPageViewCount) + 1;
+                sessionStorage.setItem("session-pageview-count", sessionPageViewCount);
+                modules.vcom.analytics.mixpanel.mpPageView(sessionPageViewCount);
+            } catch (error) {}
+
+            // TimeOnPage tracking -- part 1 ======
+            // Handle the case: user navigates to another path of vocabulary.com for
+            // some browsers (e.g., Chrome) that unloads pagehide event listener before it is executed
+            try {
+                const currentTime = new Date().getTime();
+                if (sessionStorage.getItem("timeOnPage-tracked-by-pagehide") !== "true") {
+                    const lastPageLoadTime = sessionStorage.getItem("last-pageload-time");
+                    const lastPageLoadPath = sessionStorage.getItem("last-pageload-path");
+                    if (lastPageLoadTime !== null) {
+                        modules.vcom.analytics.mixpanel.mpTimeOnPage((currentTime - lastPageLoadTime) / 1000, lastPageLoadPath);
+                    }
+                } else {
+                    sessionStorage.removeItem("timeOnPage-tracked-by-pagehide");
+                }
+                sessionStorage.setItem("last-pageload-time", currentTime);
+                sessionStorage.setItem("last-pageload-path", window.location.pathname);
+            } catch (error) {}
+        });
+
+        // TimeOnPage tracking -- part 2 ======
+        // Handle the cases: navigate to another path of vocabulary.com, page refreshed, or tab closed
+        window.addEventListener('pagehide', (event) => {
+            try {
+                const lastPageLoadTime = sessionStorage.getItem("last-pageload-time");
+                const lastPageLoadPath = sessionStorage.getItem("last-pageload-path");
+                // filters out page load from b/f cache, which causes both current and b/f page to fire pagehide listener
+                if (event.persisted === false && lastPageLoadTime !== null) {
+                    // avoid duplicate TimeOnPage event sent by pageshow event listener
+                    sessionStorage.setItem("timeOnPage-tracked-by-pagehide", "true");
+                    const currentTime = new Date().getTime();
+                    modules.vcom.analytics.mixpanel.mpTimeOnPage((currentTime - lastPageLoadTime) / 1000, lastPageLoadPath);
+                    sessionStorage.removeItem("last-pageload-time");
+                    sessionStorage.removeItem("last-pageload-path");
+                }
+            } catch (error) {}
+        });
+    });
+	
+	VCOM('auth',function(auth){
+		var userType = 'unknown';
+		if (auth.validUser) {
+			userType = auth.ima || 'unknown';
+			ga('set','dimension1',auth.paid?'paid':'free');
+			ga('set','dimension2', userType);
+			var role = (auth.auth && auth.auth.role) ? auth.auth.role.toLowerCase() : "";
+			if (role=='bill' && auth.plan) role = auth.plan;
+			if (role) ga('set','dimension3',role);
+			if (auth.classes && !auth.classes.empty)  ga('set','dimension4','inclass');
+						
+			if (window.dataLayer) {
+				window.dataLayer.push({
+					user_id: auth.auth.uid || '',
+					user_type: userType
+				});
+			}
+			// Check if user is in EU and may call backend API to check if user's profile has consentedToGDPR
+			const eu = modules.cookie.get('_eu');
+			const cookieConsent = modules.cookie.get("cookie_consent");
+			// Update db Profile if user is in EU and consentedToGDPR is not set in Profile yet
+			if (eu === "1" && auth.auth.consentedToGDPR === undefined && window.sessionStorage.getItem("consentedToGDPRUpdated") === null) {
+				// consentedToGDPR is set to true if cookie_consent is "1", false otherwise (null or "0")
+				$.post('/account/updateprofileconsentedtogdpr.json', {
+					consentedToGDPR: cookieConsent === "1"
+				}, function(response) {});
+				// Set a session flag to avoid unnecessary consentedToGDPR update calls
+				window.sessionStorage.setItem("consentedToGDPRUpdated", "true");
+			}
+			
+		} else {
+			userType = 'anonymous';
+			ga('set','dimension1','anon');
+			if (window.dataLayer) {
+				window.dataLayer.push({
+					user_type: userType
+				});				
+			}
+			// reset mixpanel instance if no user is logged in + the mp instance is not reset yet
+			modules.vcom.analytics.mixpanel.mpUserReset();
+		}
+
+		ga('send', 'pageview');
+		
+		if (window.dataLayer && userType != 'unknown' && userType != 'anonymous') {
+			var cks = document.cookie.split(';')
+	    	.map(function(v){
+	    		return v.split('=');
+	    	})
+	    	.reduce(function(acc, v) {
+	      		acc[decodeURIComponent(v[0].trim())] = decodeURIComponent(v[1].trim());
+	      		return acc;
+	    	}, {});
+
+			const authMethod = (auth.auth && auth.auth.method) ? auth.auth.method : 'unknown';
+			if (cks.gtag_signup) {
+				window.dataLayer.push({
+					event: 'sign_up',
+					method: cks.gtag_signup || 'unknown'
+				});
+				document.cookie = ("gtag_signup=; domain=vocabulary.com; max-age=0; path=/");
+				
+				ga('send','event','Signup',userType);
+			}
+			
+			if (cks.gtag_login) {
+				window.dataLayer.push({
+					event: 'login',
+					method: authMethod
+				});
+				document.cookie = ("gtag_login=; domain=vocabulary.com; max-age=0; path=/");
+				modules.vcom.analytics.mixpanel.mpLoginSuccessEvent(authMethod);
+			}
+		}
+	});	
+});
+</script>
+</head>
+<body class=" top-section-none pg-wod loggedout">
+<div class="body-wrapper">
+<a href="#hdr-pg-wod" class="skip-to-main-content">SKIP TO CONTENT</a>
+<header class="page-header noselect" role="banner"><div class="limited-width"><nav class="main">
+		<a href="/" title="Vocabulary.com" class="logo" ><img src="https://cdn.vocabulary.com/images/header/logo-1wobq9i.png" alt="Vocabulary.com" class="screen-only"/><img src="https://cdn.vocabulary.com/images/logo-sar2cf.svg" alt="" class="print-only"/></a>
+		<div class="logininfo"></div><button role="button" aria-pressed="false" aria-label="navigation menu" class="hamburger menu"><span class="rows"></span></button></nav><nav class="tabs">
+ 		<ul>
+			
+			<li title="Look up a word" class="dictTab empty"><a href="/dictionary/"><span>Dictionary</span></a></li><li title="Find a Vocabulary List" class="listsTab"><a href="/lists/"><span>Vocabulary Lists</span></a></li><li title="VocabTrainer™" class="vocabTrainerTab"><a href="/vocabtrainer/"><span>VocabTrainer™</span></a></li></ul></nav><div class="achievements"></div><div class="recent"></div></div></header>
+<div class="fixed-tray">
+	
+</div>
+<div id="page" class="page">
+	<div
+		class="pageContent clearfloat with-header-padding"
+		id="pageContent"
+		tabindex="-1"
+	>
+    <main class="main-primary">
+        <div class="box-wod-content">
+            <h1 id="hdr-pg-wod" class="hdr-wod">WORD OF THE DAY</h1>
+            <div class="box-yesterday-today-tomorrow">
+                <a class="lk-yesterday" 
+                	href="/word-of-the-day/2026-10-23">previous word of the day</a>
+                October 24, 2026
+                <a class="lk-tomorrow lk-arrow-disabled" 
+                	href="#0">next word of the day</a>
+            </div>
+            <div class="wrapper-widget">
+                <div class="box-lks-audio-wod">
+                    <a
+                        aria-label="dictionary page for today's word of the day - tedious"
+                        class="word-of-the-day"
+                        href="/dictionary/tedious">tedious</a>
+                    
+                        <button
+                            class="btn-wod-audio"
+                            data-code="T/1VO2QE9FWSL6E"
+                            data-wod="tedious"
+                        ></button>
+                    
+                </div>
+                <div class="box-add-share">
+                    <span
+                      class="wrapper-wod-add-list"
+                      data-buttonclass="btn-wod-add-list"
+                      data-lang="en"
+                      data-word="tedious"
+                    ></span>
+                    <button
+                      class="btn-wod-share"
+                      data-desc="&lt;i&gt;Tedious&lt;/i&gt; is the adjective from &lt;i&gt;tedium&lt;/i&gt;, which is both Latin and English for boredom. You ordinarily wouldn&#039;t use &lt;i&gt;tedious&lt;/i&gt; for people, just things; you might say &#034;His speeches are tedious,&#034; but usually not &#034;He is tedious.&#034; Something that is tedious could also be called &lt;i&gt;tiresome&lt;/i&gt;. Shakespeare&#039;s Friar Laurence says &#034;I will be brief, for my short date of breath / Is not so long as is a tedious tale.&#034;"
+                      data-lang="en"
+                      data-wod="tedious"
+                    >Share</button>
+                </div>
+            </div>
+            
+                <p class="txt-wod-usage">
+                    If something is <i>tedious</i>, it's boring. If you're anxious to get outside and enjoy the sun, even the best lecture will seem <i>tedious</i>.
+                </p>
+            
+            
+                <p class="txt-wod-desc">
+                    <i>Tedious</i> is the adjective from <i>tedium</i>, which is both Latin and English for boredom. You ordinarily wouldn't use <i>tedious</i> for people, just things; you might say "His speeches are tedious," but usually not "He is tedious." Something that is tedious could also be called <i>tiresome</i>. Shakespeare's Friar Laurence says "I will be brief, for my short date of breath / Is not so long as is a tedious tale."
+                </p>
+            
+            <div class="box-wod-more">
+                <a
+                    class="lk-wod-more"
+                    href="/dictionary/tedious">
+                    SEE FULL DEFINITION, USAGE EXAMPLES AND MORE
+                </a>
+            </div>
+        </div>
+        <hr class="hr-content-subscribe" />
+        
+<div class="box-subscribe">
+    <h3 class="hdr-subscribe">Want to expand your vocabulary?</h3>
+    <p class="txt-subscribe">
+        Get Word of the Day delivered straight to your inbox!
+    </p>
+    <p class="txt-archive-only" style="display: none;">
+        Subscribe to our word of the day
+    </p>
+    <form class="fm-subscribe">
+        <button class="btn-subscribe" disabled="true" type="submit">subscribed</button>
+    </form>
+</div>
+<script>
+  Module.after(['vcom/wordoftheday/subscribe-wod'], function() {
+      const {
+        initSubscribeWOD,
+      } = modules.vcom.wordoftheday['subscribe-wod']();
+
+      initSubscribeWOD({
+        wodContainerSelector: '.box-subscribe',
+        btnSelector: '.btn-subscribe',
+        formSelector: '.fm-subscribe',
+      });
+  })
+
+</script>
+
+        <div class="wrapper-related">
+            <div class="box-qpreview-confused">
+                <div
+                    class="box-qpreview"
+                    data-delay="0"
+                    data-forall="true"
+                    data-slide="true"
+                    data-word="tedious"
+                    data-sort-by-types="I,S,P">
+                </div>
+                
+                
+                
+                
+                
+                
+            </div><!-- end of DIV.box-qpreview-confused -->
+            <div class="box-vocab-and-lk">
+                <div class="box-vocab-list">
+                    
+
+
+
+
+
+
+
+
+
+
+<link href="https://cdn.vocabulary.com/css/related-lists-17m06op.css" rel="stylesheet" type="text/css"/>
+
+
+            
+            
+            
+            
+            
+            
+            
+
+
+    <h3 class="hdr-vocab-list">
+        Vocabulary lists containing <strong>tedious</strong>
+    </h3>
+    
+    	
+    	
+    	
+    	
+        
+        
+        
+       	
+       	
+       		
+       			
+       			
+       			
+       				
+       			
+       		
+		
+        
+            
+            
+                <div class="box-vocab-item">
+                	
+                		
+                    	
+                        	<a href="/lists/8182291"><img class="img-vocab-list" src="https://cdn.vocabulary.com/units/r3qovfdy/feature.png?width=500&v=19db1410ba8" alt="view more about the vocabulary list"/></a>
+                    	
+                	
+                    <div class="vocab-list-content">
+                        <a
+                          class="vlist-title"
+                          href="/lists/8182291"
+                        >List 2</a>
+                        <p class="vlist-txt">
+                            Learn these essential words that you'll encounter in literature, textbooks, class discussions, and more.
+                        </p>
+                    </div>
+                </div>
+            
+        
+    
+    	
+    	
+    	
+    	
+        
+        
+        
+            
+        
+       	
+       	
+       		
+       			
+       			
+       			
+       				
+       			
+       		
+		
+        
+            
+                <div class="box-vocab-item">
+                    
+                    <div class="vocab-list-content">
+                        <a class="vlist-title" href="/lists/zkqy737i/unit-3-compelling-evidence">Unit 3: Compelling Evidence</a>
+                        
+                        <p class="vlist-txt">
+                            
+                        </p>
+                    </div>
+                </div>
+            
+            
+        
+    
+    	
+    	
+    	
+    	
+        
+        
+        
+            
+        
+       	
+       	
+       		
+       			
+       			
+       			
+       		
+		
+        
+            
+                <div class="box-vocab-item">
+                    
+                        <a href="/lists/mcyyurzq/things-they-carried"><img class="img-vocab-list" src="https://cdn.vocabulary.com/units/mcyyurzq/cover.jpeg?width=220&v=181a5a2c511" alt="view more about the vocabulary list"/></a>
+                    
+                    <div class="vocab-list-content">
+                        <a class="vlist-title" href="/lists/mcyyurzq/things-they-carried">The Things They Carried</a>
+                        
+                            <div class="vlist-author">
+                                Tim O&#039;Brien
+                            </div>
+                        
+                        <p class="vlist-txt">
+                            A series of linked stories explores the lifelong effects of trauma on a platoon of soldiers during and after the Vietnam War.
+                        </p>
+                    </div>
+                </div>
+            
+            
+        
+    
+    	
+    	
+    	
+    	
+        
+        
+        
+            
+        
+       	
+       	
+       		
+       			
+       			
+       			
+       		
+		
+        
+            
+                <div class="box-vocab-item">
+                    
+                        <a href="/lists/2i2p67wx/refugee"><img class="img-vocab-list" src="https://cdn.vocabulary.com/units/2i2p67wx/cover.jpeg?width=220&v=16c25600703" alt="view more about the vocabulary list"/></a>
+                    
+                    <div class="vocab-list-content">
+                        <a class="vlist-title" href="/lists/2i2p67wx/refugee">Refugee</a>
+                        
+                            <div class="vlist-author">
+                                Alan Gratz
+                            </div>
+                        
+                        <p class="vlist-txt">
+                            Three young refugees — a Jewish boy fleeing Nazi Germany in 1939, a Cuban girl suffering under the Castro regime in 1994, and a Muslim boy trying to escape war-torn Syria in 2015 — make desperate journeys in search of freedom and safety.
+                        </p>
+                    </div>
+                </div>
+            
+            
+        
+    
+    	
+    	
+    	
+    	
+        
+        
+        
+       	
+       	
+        
+            
+            
+                <div class="box-vocab-item">
+                	
+                		
+                    	
+                	
+                    <div class="vocab-list-content">
+                        <a
+                          class="vlist-title"
+                          href="/lists/1818016"
+                        >This Week in Words: August 28 - September 1</a>
+                        <p class="vlist-txt">
+                            No time to scour the headlines or watch the news? No problem! We’ve rounded up the top words heard, read, debated, and discussed this week.  This week we were all affected, either directly or indirectly, by Hurricane Harvey and its aftermath. <i> Torrential</i> rains pounded the Gulf Coast with no <i> reprieve</i> expected until late in the week. With so much rain and so much flooding, the <i>infrastructure</i> of communities begins to erode and life for those in the path of the storm changes forever. Also causing grave concern this week was more <i> provocative</i> action by North Korea. Take a look back at the week that was, vocabulary style.
+                        </p>
+                    </div>
+                </div>
+            
+        
+    
+    <div class="box-more-vocab">
+ 		<a class="lk-more-vocab" href="/lists/">MORE VOCABULARY LISTS</a>
+	</div>
+
+
+                </div>
+            </div>
+        </div><!-- end of DIV.wrapper-related -->
+    </main>
+    <main class="main-secondary">
+        
+        
+		
+        
+            
+            <div class="box-previous">
+                <h3 class="hdr-previous">Previous Words of the Day</h3>
+                <ul class="list-previous">
+                    
+                        
+                        <li class="item-previous">
+                            <div class="box-dot" data-key="2026-10-19"></div>
+                            <h4 class="hdr-prev-date">
+                                October 19
+                            </h4>
+                            <a
+                                class="lk-previous"
+                                href="/word-of-the-day/2026-10-19"
+                            >xylose</a>
+                        </li>
+                    
+                        
+                        <li class="item-previous">
+                            <div class="box-dot" data-key="2026-10-20"></div>
+                            <h4 class="hdr-prev-date">
+                                October 20
+                            </h4>
+                            <a
+                                class="lk-previous"
+                                href="/word-of-the-day/2026-10-20"
+                            >alchemy</a>
+                        </li>
+                    
+                        
+                        <li class="item-previous">
+                            <div class="box-dot" data-key="2026-10-21"></div>
+                            <h4 class="hdr-prev-date">
+                                October 21
+                            </h4>
+                            <a
+                                class="lk-previous"
+                                href="/word-of-the-day/2026-10-21"
+                            >unincorporated</a>
+                        </li>
+                    
+                        
+                        <li class="item-previous">
+                            <div class="box-dot" data-key="2026-10-22"></div>
+                            <h4 class="hdr-prev-date">
+                                October 22
+                            </h4>
+                            <a
+                                class="lk-previous"
+                                href="/word-of-the-day/2026-10-22"
+                            >tergiversate</a>
+                        </li>
+                    
+                        
+                        <li class="item-previous">
+                            <div class="box-dot" data-key="2026-10-23"></div>
+                            <h4 class="hdr-prev-date">
+                                October 23
+                            </h4>
+                            <a
+                                class="lk-previous"
+                                href="/word-of-the-day/2026-10-23"
+                            >pheromone</a>
+                        </li>
+                    
+                </ul>
+                <div class="box-all-prev-wod">
+                    <a
+                        class="lk-all-prev-wod"
+                        href="/word-of-the-day/archive/"
+                    >See all words of the day</a>
+                </div>
+            </div>
+        
+	    
+<!-- CSS are specificied in main.css -->
+<div class="sign-up-area">
+	<h2 class="sign-up">Sign up now (it’s free!)</h2>
+	<h3>Whether you’re a teacher or a learner, Vocabulary.com can put you or your class on the path to systematic vocabulary improvement.</h3>
+	<a role="button" href="/signup/" class="signup-button">Get started</a>
+</div>
+	    
+<!-- CSS are specificied in dictionary.css -->
+<div class="sign-up-tile-area">
+	<div class="sign-up-tile">
+		<h3>Finally, a dictionary with a soul</h3>
+		<div class="tile-bg tile-bg1">
+			<img
+				src="/images/sign-up-tile/dictionary-soul.svg"
+				alt=""
+			/>
+		</div>
+		<p>
+			Our definitions were written by humans, for humans.
+			Each word has a friendly explanation that makes it easy to remember.
+		</p>
+	</div>
+	<div class="sign-up-tile">
+		<h3>Real world examples</h3>
+		<div class="tile-bg tile-bg2">
+			<img
+				src="/images/sign-up-tile/real-example.svg"
+				alt=""
+			/>
+		</div>
+		<p>
+			Discover thousands of example sentences from current newspapers,
+			magazines, and literature.
+		</p>
+	</div>
+	<div class="sign-up-tile">
+		<h3>World’s smartest, fastest dictionary</h3>
+		<div class="tile-bg tile-bg3">
+			<img
+				src="/images/sign-up-tile/fastest-smartest.svg"
+				alt=""
+			/>
+		</div>
+		<p>
+			Find the word you’re looking for faster than any other online dictionary.
+			That’s less time searching, more time learning.
+		</p>
+	</div>
+</div>
+
+    </main>
+</div>
+</div>
+
+
+
+<footer class="page-footer">
+
+<nav class="sitelinks limited-width hide-mobile screen-only">
+		<div class="lks-col">
+			<div class="hdr-ftr-lk">Learn with us</div>
+			<ul>
+			<li><a href="/learner-subscription/">Learner subscriptions</a></li>
+			<li><a href="/lists/">Vocabulary lists</a></li>
+			<li><a href="/dictionary/">Dictionary</a></li>				
+			<li><a href="/test-prep/">Test Prep</a></li>	
+			<li><a href="/jam/">Join a Vocabulary Jam</a></li>
+			<li><a href="/articles/commonly-confused-words/">Commonly confused words</a></li>
+			<li><a href="/word-of-the-day/">Word of the day</a></li>
+			</ul>				
+		</div>
+		<div class="lks-col">
+			<div class="hdr-ftr-lk"><a href="/for-educators/">Teach with us</a></div>
+			<ul>
+			<li><a href="/for-educators/">For educators</a></li>
+			<li><a href="/for-administrators/">For schools and districts</a></li>
+			<li><a href="/how-it-works/">How it works</a></li>
+			<li><a href="/membership/success-stories/">Success stories</a></li>
+			<li><a href="/membership/research/">Research</a></li> 
+			<li><a href="/professional-development/">Professional development</a></li> 
+			<li><a href="/membership/quote/">Contact sales</a></li>
+			</ul>				
+		</div>
+		<div class="lks-col">
+			<div class="hdr-ftr-lk"><a href="/help/">Resources</a></div>
+			<ul>
+			<li><a href="/help/">Help articles/FAQ</a></li>			
+			<li><a href="/teaching-resources/">Teaching resources</a></li>
+			<li><a href="/learner-resource-center/">Learner resources</a></li>
+			<li><a href="/english-language-learning-resources/">ESL/ELL resources</a></li>
+			<li><a href="/lists/lists-by-grade/">Grade level resources</a></li>
+			<li><a href="/resources/ipa-pronunciation/">IPA Pronunciation</a></li>
+			<li><a href="/help/contactus">Contact support</a></li>
+			</ul>				
+		</div>
+					
+		<div class="lks-col">
+			<div class="hdr-ftr-lk"><a href="/leaderboards/thisweek/">Leaderboards</a></div>
+			<ul>
+			<li><a href="/bowl/">Vocabulary Bowl</a></li>	
+			<li><a href="/leaderboards/today/">Today's leaders</a></li>
+			<li><a href="/leaderboards/thisweek/">Weekly leaders</a></li>
+			<li><a href="/leaderboards/thismonth/">Monthly leaders</a></li>
+			</ul>						
+		</div>	
+			
+		<div class="lks-col">
+			<div class="hdr-ftr-lk"><a href="/about/">About</a></div>
+			<ul>
+			<li><a href="/about/">Our Mission</a></li>
+			<li><a href="/blog/">Blog</a></li>
+			<li>
+				<a href="https://www.ixl.com/feedback/vocabularydotcom"
+					target="_blank">Tell us what you think</a>
+			</li>
+			<li><a href="/privacy/">Privacy Policy</a></li>
+			<li><a href="/terms/">Terms of Use</a></li>
+			</ul>				
+		</div>
+
+</nav>
+
+
+
+
+
+
+<div class="ftr-legal">
+	<div class="box-all-brands">
+		<a class="lk-item-brand" href="https://www.ixl.com">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-ixl-for-ftr-190h5m.svg" alt="IXL Learning" class="img-ixl-brand-logo"/>
+			<p>Comprehensive K-12 personalized learning</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.rosettastone.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-rosetta-stone-for-ftr-cnz0xb.svg" alt="Rosetta Stone" class="img-rosetta-brand-logo"/>
+			<p>Immersive learning for 25 languages</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.wyzant.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-wyzant-for-ftr-92dn93.svg" alt="Wyzant" class="img-wyzant-brand-logo"/>
+			<p>Trusted tutors ready to help in 300+ subjects</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.education.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-education-com-for-ftr-a3xg4c.svg" alt="Education.com" class="img-education-brand-logo"/>
+			<p>35,000 worksheets, games, and lesson plans</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.teacherspayteachers.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-tpt-for-ftr-pa6bkm.svg" alt="TPT" class="img-tpt-brand-logo"/>
+			<p>Marketplace for millions of educator-created resources</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.abcya.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-abcya-for-ftr-1or2r2i.svg" alt="ABCya" class="img-abcya-brand-logo"/>
+			<p>Fun educational games for kids</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.spanishdict.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-spanish-dictionary-for-ftr-hev0u7.svg" alt="SpanishDictionary.com" class="img-spanish-dictionary-logo"/>
+			<p>Spanish-English dictionary, translator, and learning</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.ingles.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-ingles-for-ftr-w00ql8.svg" alt="Inglés.com" class="img-ingles-brand-logo"/>
+			<p>Diccionario inglés-español, traductor y sitio de aprendizaje</p>
+		</a>
+		<a class="lk-item-brand" href="https://emmersion.ai/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-emmersion-for-ftr-1m00b4j.svg" alt="Emmersion" class="img-emmersion-brand-logo"/>
+			<p>Fast and accurate language certification</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.frenchdictionary.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-french-dictionary-for-ftr-nrqi20.svg" alt="FrenchDictionary.com" class="img-french-dictionary-logo"/>
+			<p>French-English dictionary, translator, and learning</p>
+		</a>
+	</div><!-- end of DIV.ftr-ixl-brands -->
+	<div class="box-ixl-brands-legal-lks">
+		<div class="box-logo-txt-logo">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-vocab-green-check-for-ftr-4lic3k.svg" alt="vocabulary.com logo" class="logo-vocabulary"/>
+			<div class="box-legal-text">
+				<div class="box-copy-vocabulary">
+					Copyright &copy; 2026 <br />
+					Vocabulary.com, Inc.
+				</div>
+				<div class="box-division-rights">
+					A division of IXL Learning <span class="txt-bull">&bull;</span> <br />
+					All Rights Reserved.
+				</div>
+			</div>
+			<img src="https://cdn.vocabulary.com/images/footer/logo-ixl-learning-ab1nek.svg" alt="IXL logo" class="logo-ixl"/>
+		</div>
+		<div class="box-social-media">
+			<a class="lk-social-media"
+				href="https://www.facebook.com/vocabularycom/"
+				rel="noopener"
+				target="_blank"
+				title="Facebook"><img src="https://cdn.vocabulary.com/images/footer/facebook-fff-on-000-1djwcsu.svg" alt="Facebook logo" width="19" class="icon-facebook" height="19"/></a>
+			<a class="lk-social-media"
+				href="https://x.com/VocabularyCom/"
+				rel="noopener"
+				target="_blank"
+				title="x.com"><img src="https://cdn.vocabulary.com/images/footer/x-fff-on-000-r417h3.svg" alt="X.com logo" width="19" class="icon-x" height="19"/></a>
+			<a class="lk-social-media"
+				href="https://www.instagram.com/vocabcom/"
+				rel="noopener"
+				target="_blank"
+				title="Instagram"><img src="https://cdn.vocabulary.com/images/footer/instagram-fff-on-000-1nomn10.svg" alt="Instagram logo" width="19" class="icon-instagram" height="19"/></a>
+			<a class="lk-social-media"
+				href="https://www.linkedin.com/company/vocabulary-com/"
+				rel="noopener"
+				target="_blank"
+				title="LinkedIn"><img src="https://cdn.vocabulary.com/images/footer/linkedin-fff-on-000-rszenv.svg" alt="LinkedIn logo" width="19" class="icon-linkedin" height="19"/></a>
+		</div><!-- end of DIV.box-social-media -->
+	</div><!-- end of DIV.box-ixl-brands-legal-lks -->
+	
+</div>
+
+
+
+
+
+</footer>
+
+<nav class="sitemap screen-only">
+<div class="scrollable">
+<div>
+	<div class="sitelinks limited-width mobile-5050 pad2y">
+	<div class="col9">
+	<div class="col9">
+		<div class="col4 pad1x">
+			<div class="hdr-ftr-lk">Learn with us</div>
+			<ul>
+			<li><a href="/learner-subscription/">Learner subscriptions</a></li>
+			<li><a href="/lists/">Vocabulary lists</a></li>
+			<li><a href="/dictionary/">Dictionary</a></li>				
+			<li><a href="/test-prep/">Test Prep</a></li>	
+			<li><a href="/jam/">Join a Vocabulary Jam</a></li>
+			<li><a href="/articles/commonly-confused-words/">Commonly confused words</a></li>
+			<li><a href="/word-of-the-day/">Word of the day</a></li>
+			</ul>				
+		</div>
+		<div class="col4 pad1x">
+			<div class="hdr-ftr-lk"><a href="/for-educators/">Teach with us</a></div>
+			<ul>
+			<li><a href="/for-educators/">For educators</a></li>
+			<li><a href="/for-administrators/">For schools and districts</a></li>
+			<li><a href="/how-it-works/">How it works</a></li>
+			<li><a href="/membership/success-stories/">Success stories</a></li>
+			<li><a href="/membership/research/">Research</a></li> 
+			<li><a href="/professional-development/">Professional development</a></li> 
+			<li><a href="/membership/quote/">Contact sales</a></li>
+			</ul>				
+		</div>
+		<div class="col4 pad1x">
+			<div class="hdr-ftr-lk"><a href="/help/">Resources</a></div>
+			<ul>
+			<li><a href="/help/">Help articles/FAQ</a></li>			
+			<li><a href="/teaching-resources/">Teaching resources</a></li>
+			<li><a href="/learner-resource-center/">Learner resources</a></li>
+			<li><a href="/english-language-learning-resources/">ESL/ELL resources</a></li>
+			<li><a href="/lists/lists-by-grade/">Grade level resources</a></li>
+			<li><a href="/resources/ipa-pronunciation/">IPA Pronunciation</a></li>
+			<li><a href="/help/contactus">Contact support</a></li>
+			</ul>				
+		</div>
+  </div>
+  <div class="col9">
+		<div class="col4 pad1x">
+			<div class="hdr-ftr-lk"><a href="/leaderboards/thisweek/">Leaderboards</a></div>
+			<ul>
+			<li><a href="/bowl/">Vocabulary Bowl</a></li>	
+			<li><a href="/leaderboards/today/">Today's leaders</a></li>
+			<li><a href="/leaderboards/thisweek/">Weekly leaders</a></li>
+			<li><a href="/leaderboards/thismonth/">Monthly leaders</a></li>
+			</ul>						
+		</div>	
+		<div class="col4 pad1x">
+			<div class="hdr-ftr-lk"><a href="/about/">About</a></div>
+			<ul>
+			<li><a href="/about/">Our Mission</a></li>
+			<li><a href="/blog/">Blog</a></li>
+			<li>
+				<a href="https://www.ixl.com/feedback/vocabularydotcom"
+					target="_blank">Tell us what you think</a>
+			</li>
+			<li><a href="/privacy/">Privacy Policy</a></li>
+			<li><a href="/terms/">Terms of Use</a></li>
+			</ul>	
+		</div>
+	</div>
+	</div>
+	
+	<div class="col3 pad1x">
+		
+		<div class="loggedout-only clearfloat signinoptions">
+			<div class="hdr-ftr-lk"><a href="/account/">My Account</a></div>
+			<a role="button" class="sign-in button" href="/login/">Log in</a>
+			<a role="button" class="sign-up button green" href="/signup/">Sign up</a>
+		</div>
+		<ul class="account-menu loggedin-only">
+			
+			<div class="hdr-ftr-lk"><a href="/account/">My Account</a></div>
+			<li><a href="/auth/logout"><i class="ss-logout"></i>Log Out</a></li>
+			<li class="nav-my-learning"><a href="/learner/"><i class="ss-dashboard"></i>My Learning</a></li>
+			<li class="nav-proficiency-report"><a href="/learner-subscription/"><i class="icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.79581 10.4049L6.5 12.5L4.68541 15.6755C4.60616 15.8142 4.40431 15.8086 4.33287 15.6657L3.5 14H1.40889C1.24247 14 1.14885 13.8086 1.25101 13.6772L3.79581 10.4049ZM12.2042 10.4049L14.749 13.6772C14.8511 13.8086 14.7575 14 14.5911 14H12.5L11.6671 15.6657C11.5957 15.8086 11.3938 15.8142 11.3146 15.6755L9.5 12.5L12.2042 10.4049Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 1.85668L7.17743 2.4567C6.83411 2.70714 6.41994 2.84171 5.99498 2.8409L4.97683 2.83897L4.66404 3.80789C4.53349 4.2123 4.27752 4.56461 3.93324 4.81374L3.1084 5.41063L3.42487 6.37835C3.55696 6.78226 3.55696 7.21775 3.42487 7.62166L3.1084 8.58938L3.93324 9.18627C4.27752 9.4354 4.53349 9.78771 4.66404 10.1921L4.97683 11.161L5.99498 11.1591C6.41994 11.1583 6.83411 11.2929 7.17743 11.5433L8 12.1433L8.82256 11.5433C9.16589 11.2929 9.58006 11.1583 10.005 11.1591L11.0232 11.161L11.336 10.1921C11.4665 9.78771 11.7225 9.4354 12.0668 9.18627L12.8916 8.58938L12.5751 7.62166C12.443 7.21775 12.443 6.78226 12.5751 6.37835L12.8916 5.41063L12.0667 4.81374C11.7225 4.56461 11.4665 4.2123 11.336 3.80789L11.0232 2.83897L10.005 2.8409C9.58006 2.84171 9.16589 2.70714 8.82256 2.4567L8 1.85668ZM8.29466 0.214948C8.11909 0.0868792 7.8809 0.0868793 7.70534 0.214948L6.29345 1.24486C6.20762 1.30747 6.10407 1.34111 5.99783 1.34091L4.25023 1.33758C4.03291 1.33717 3.84021 1.47717 3.77345 1.68398L3.23658 3.34708C3.20394 3.44818 3.13995 3.53626 3.05388 3.59854L1.63808 4.62307C1.46203 4.75047 1.38842 4.977 1.45597 5.18355L1.99917 6.84459C2.0322 6.94557 2.0322 7.05444 1.99917 7.15542L1.45597 8.81646C1.38842 9.02301 1.46203 9.24955 1.63808 9.37694L3.05388 10.4015C3.13995 10.4638 3.20394 10.5518 3.23658 10.6529L3.77345 12.316C3.84021 12.5228 4.03291 12.6628 4.25023 12.6624L5.99783 12.6591C6.10407 12.6589 6.20762 12.6925 6.29345 12.7552L7.70534 13.7851C7.8809 13.9131 8.11909 13.9131 8.29466 13.7851L9.70655 12.7552C9.79238 12.6925 9.89592 12.6589 10.0022 12.6591L11.7498 12.6624C11.9671 12.6628 12.1598 12.5228 12.2265 12.316L12.7634 10.6529C12.7961 10.5518 12.86 10.4638 12.9461 10.4015L14.3619 9.37694C14.538 9.24955 14.6116 9.02301 14.544 8.81646L14.0008 7.15542C13.9678 7.05444 13.9678 6.94557 14.0008 6.84459L14.544 5.18355C14.6116 4.977 14.538 4.75047 14.3619 4.62307L12.9461 3.59854C12.86 3.53626 12.7961 3.44818 12.7634 3.34708L12.2265 1.68398C12.1598 1.47717 11.9671 1.33717 11.7498 1.33758L10.0022 1.34091C9.89592 1.34111 9.79238 1.30747 9.70655 1.24486L8.29466 0.214948Z" fill="white"/>
+</svg></i>My Proficiency Report</a></li>
+			<li class="nav-myprofile"><a href="/profiles/my"><i class="ss-user"></i>My Profile</a></li>
+			<li class="perms-school-reports-only"><a href="/account/schools"><i class="ss-school ss-symbolicons-block"></i>Schools &amp; Teachers</a></li>
+			
+			<li class="nav-classes educator-only"><a href="/account/classes"><i class="ss-users"></i>My Classes</a></li>
+			
+			<li class="nav-assignments"><a href="/account/activities/"><i class="ss-attach"></i>Assignments &amp; Activities</a></li>
+			
+			<li ><a href="/account/lists/"><i class="ss-list"></i>My Lists</a>
+			<ul>
+				<li><a href="/lists/"><i class="ss-search"></i>Find a List to Learn...</a></li>
+				<li><a href="/lists/new"><i class="ss-hospital ss-symbolicons-block"></i>Create a New List...</a></li>
+			</ul>
+			</li>
+			<li><a href="/progress/"><i class="ss-barchart"></i>My Progress</a>
+				<ul>
+					<li><a href="/account/progress/words/learning"><i class="ss-hiker ss-symbolicons-block"></i>Words I'm Learning</a></li>
+					<li><a href="/account/progress/words/trouble"><i class="ss-bullseye ss-symbolicons-block"></i>My Trouble Words</a></li>
+					<li><a href="/account/progress/words/mastered"><i class="ss-check ss-symbolicons-block"></i>Words I've Mastered</a></li>
+					<li><a href="/account/progress/achievements"><i class="ss-award ss-symbolicons-block"></i>My Achievements</a></li>
+				</ul>
+			</li>	
+			<li class="perms-user-admin-only"><a href="/account/users"><i class="ss-usergroup ss-symbolicons-block "></i>User Administration</a></li>
+			<li class="perms-auth-admin-only"><a href="/account/authentication"><i class="ss-key"></i>User Authentication</a></li>
+			<li>
+				<a href="/account/"><i class="ss-settings"></i>My Account</a>			
+			</li>
+			
+		</ul>
+	</div>
+	</div>
+	
+
+
+
+
+
+<div class="ftr-legal">
+	<div class="box-all-brands">
+		<a class="lk-item-brand" href="https://www.ixl.com">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-ixl-for-ftr-190h5m.svg" alt="IXL Learning" class="img-ixl-brand-logo"/>
+			<p>Comprehensive K-12 personalized learning</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.rosettastone.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-rosetta-stone-for-ftr-cnz0xb.svg" alt="Rosetta Stone" class="img-rosetta-brand-logo"/>
+			<p>Immersive learning for 25 languages</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.wyzant.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-wyzant-for-ftr-92dn93.svg" alt="Wyzant" class="img-wyzant-brand-logo"/>
+			<p>Trusted tutors ready to help in 300+ subjects</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.education.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-education-com-for-ftr-a3xg4c.svg" alt="Education.com" class="img-education-brand-logo"/>
+			<p>35,000 worksheets, games, and lesson plans</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.teacherspayteachers.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-tpt-for-ftr-pa6bkm.svg" alt="TPT" class="img-tpt-brand-logo"/>
+			<p>Marketplace for millions of educator-created resources</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.abcya.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-abcya-for-ftr-1or2r2i.svg" alt="ABCya" class="img-abcya-brand-logo"/>
+			<p>Fun educational games for kids</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.spanishdict.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-spanish-dictionary-for-ftr-hev0u7.svg" alt="SpanishDictionary.com" class="img-spanish-dictionary-logo"/>
+			<p>Spanish-English dictionary, translator, and learning</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.ingles.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-ingles-for-ftr-w00ql8.svg" alt="Inglés.com" class="img-ingles-brand-logo"/>
+			<p>Diccionario inglés-español, traductor y sitio de aprendizaje</p>
+		</a>
+		<a class="lk-item-brand" href="https://emmersion.ai/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-emmersion-for-ftr-1m00b4j.svg" alt="Emmersion" class="img-emmersion-brand-logo"/>
+			<p>Fast and accurate language certification</p>
+		</a>
+		<a class="lk-item-brand" href="https://www.frenchdictionary.com/">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-french-dictionary-for-ftr-nrqi20.svg" alt="FrenchDictionary.com" class="img-french-dictionary-logo"/>
+			<p>French-English dictionary, translator, and learning</p>
+		</a>
+	</div><!-- end of DIV.ftr-ixl-brands -->
+	<div class="box-ixl-brands-legal-lks">
+		<div class="box-logo-txt-logo">
+			<img src="https://cdn.vocabulary.com/images/footer/logo-vocab-green-check-for-ftr-4lic3k.svg" alt="vocabulary.com logo" class="logo-vocabulary"/>
+			<div class="box-legal-text">
+				<div class="box-copy-vocabulary">
+					Copyright &copy; 2026 <br />
+					Vocabulary.com, Inc.
+				</div>
+				<div class="box-division-rights">
+					A division of IXL Learning <span class="txt-bull">&bull;</span> <br />
+					All Rights Reserved.
+				</div>
+			</div>
+			<img src="https://cdn.vocabulary.com/images/footer/logo-ixl-learning-ab1nek.svg" alt="IXL logo" class="logo-ixl"/>
+		</div>
+		<div class="box-social-media">
+			<a class="lk-social-media"
+				href="https://www.facebook.com/vocabularycom/"
+				rel="noopener"
+				target="_blank"
+				title="Facebook"><img src="https://cdn.vocabulary.com/images/footer/facebook-fff-on-000-1djwcsu.svg" alt="Facebook logo" width="19" class="icon-facebook" height="19"/></a>
+			<a class="lk-social-media"
+				href="https://x.com/VocabularyCom/"
+				rel="noopener"
+				target="_blank"
+				title="x.com"><img src="https://cdn.vocabulary.com/images/footer/x-fff-on-000-r417h3.svg" alt="X.com logo" width="19" class="icon-x" height="19"/></a>
+			<a class="lk-social-media"
+				href="https://www.instagram.com/vocabcom/"
+				rel="noopener"
+				target="_blank"
+				title="Instagram"><img src="https://cdn.vocabulary.com/images/footer/instagram-fff-on-000-1nomn10.svg" alt="Instagram logo" width="19" class="icon-instagram" height="19"/></a>
+			<a class="lk-social-media"
+				href="https://www.linkedin.com/company/vocabulary-com/"
+				rel="noopener"
+				target="_blank"
+				title="LinkedIn"><img src="https://cdn.vocabulary.com/images/footer/linkedin-fff-on-000-rszenv.svg" alt="LinkedIn logo" width="19" class="icon-linkedin" height="19"/></a>
+		</div><!-- end of DIV.box-social-media -->
+	</div><!-- end of DIV.box-ixl-brands-legal-lks -->
+	
+		<a href="/auth/admin"
+			rel="nofollow"
+			hidden="hidden"
+			aria-hidden="true"
+			style="position: absolute; top: 0px; left: -1000px; width:1px; height:1px">
+				<img src="https://cdn.vocabulary.com/images/clear-16y9b5d.gif" width="0" alt="" aria-hidden="true" height="0"/>
+		</a>
+	
+</div>
+
+
+
+
+
+</div></div>
+</nav>
+</div>
+<div class="scroll-tracking-pixel"></div>
+
+<script>
+    Module.after([
+        'jquery',
+        'vcom/wordoftheday/createdotline',
+        'vcom/wordoftheday/add-to-list-wrapper',
+        'vcom/wordoftheday/qpreview-wrapper',
+        'vcom/wordoftheday/share',
+        'vcom/wordoftheday/word-audio',
+    ], function() {
+        jQuery(function($) {
+
+            const { initWordAudio } = modules.vcom.wordoftheday['word-audio']();
+            initWordAudio({
+              btnSelector: '.btn-wod-audio',
+            });
+
+            const { initQpreview } = modules.vcom.wordoftheday['qpreview-wrapper']();
+            initQpreview({
+              wrapperSelector: '.box-qpreview',
+            })
+
+            const { initDotLine } = modules.vcom.wordoftheday.createdotline();
+            initDotLine({
+              containerSelector: '.list-previous',
+              dotSelector: '.box-dot',
+              lineCssClassname: 'box-line',
+            });
+
+            const { initShareBtn } = modules.vcom.wordoftheday.share();
+            initShareBtn({
+              btnSelector: '.btn-wod-share',
+            });
+
+            const { initAddToList } = modules.vcom.wordoftheday['add-to-list-wrapper']();
+            initAddToList({
+              wrapperSelector: '.wrapper-wod-add-list',
+            });
+
+        });
+    }); // end of Module.after(...
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4f94f321c9f0c3d',t:'MTc5Mjg0ODM0NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"6888f5b499f344ce9db5da6da5a61d6f","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

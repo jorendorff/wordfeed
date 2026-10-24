@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="viewrss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Word of the Day</title>
+		<description>Word of the Day is a free service of TheFreeDictionary.com</description>
+		<link>https://www.thefreedictionary.com</link>
+		<atom:link href="http://www.thefreedictionary.com/_/WoD/rss.aspx?type=" rel="self" type="application/rss+xml" />
+		<language>en-us</language>
+		<copyright>Farlex, Inc.</copyright>
+		<lastBuildDate>Sat, 24 Oct 2026 05:00:00 GMT</lastBuildDate>
+		<ttl>360</ttl>
+		<image>
+			<title>Word of the Day</title>
+			<link>https://www.thefreedictionary.com</link>
+			<url>http://img.tfd.com/modules/thm_wod.png</url>
+			<width>120</width>
+			<height>60</height>
+		</image>
+		
+				<item>
+					<pubDate>Sat, 24 Oct 2026 05:00:00 GMT</pubDate>
+					<title>undersell</title>
+					<link>https://www.thefreedictionary.com/undersell</link>
+					<guid>https://www.thefreedictionary.com/undersell</guid>
+					<description><![CDATA[Definition: (verb) To sell goods for a lower price than (another seller).<br/>
+					Synonyms: <a href="https://www.freethesaurus.com/undercut">undercut</a>.<br/>
+					Usage: The executive instituted a store-wide sale in an effort to undersell the popular new competitor.
+					]]></description>
+				</item>
+				<item>
+					<pubDate>Fri, 23 Oct 2026 05:00:00 GMT</pubDate>
+					<title>hombre</title>
+					<link>https://www.thefreedictionary.com/hombre</link>
+					<guid>https://www.thefreedictionary.com/hombre</guid>
+					<description><![CDATA[Definition: (noun) An informal term for a youth or man.<br/>
+					Synonyms: <a href="https://www.freethesaurus.com/guy">guy</a>, <a href="https://www.freethesaurus.com/bozo">bozo</a>, <a href="https://www.freethesaurus.com/cat">cat</a>.<br/>
+					Usage: I am the kind of hombre who enjoys a good steak for dinner.
+					]]></description>
+				</item>
+				<item>
+					<pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
+					<title>illogic</title>
+					<link>https://www.thefreedictionary.com/illogic</link>
+					<guid>https://www.thefreedictionary.com/illogic</guid>
+					<description><![CDATA[Definition: (noun) Invalid or incorrect reasoning.<br/>
+					Synonyms: <a href="https://www.freethesaurus.com/inconsequence">inconsequence</a>.<br/>
+					Usage: Often have I, the modern, been perturbed and vexed by the foolishness, illogic, obtuseness, and general all-round stupendous stupidity of myself, the primitive.
+					]]></description>
+				</item>
+	</channel>
+</rss>

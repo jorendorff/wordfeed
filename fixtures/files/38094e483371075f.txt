@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:merriam="https://www.merriam-webster.com/word-of-the-day" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel>
+<title>Merriam-Webster's Word of the Day</title>
+<link>https://www.merriam-webster.com/word-of-the-day</link>
+<description>Free daily dose of word power from Merriam-Webster's experts</description>
+<copyright>Copyright 2026</copyright>
+<lastBuildDate>Sat, 24 Oct 2026 01:00:01 -0400</lastBuildDate>
+<ttl>60</ttl>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-us</language>
+<generator>Merriam Webster feed generator</generator>
+<itunes:subtitle>Free daily dose of word power from Merriam-Webster's experts</itunes:subtitle>
+<itunes:author>Merriam-Webster</itunes:author>
+<itunes:summary>Build your vocabulary with Merriam-Webster's Word of the Day!  Each day a Merriam-Webster editor offers insight into a fascinating new word -- explaining its meaning, current use, and little-known details about its origin.</itunes:summary>
+<itunes:owner>
+<itunes:name>Merriam-Webster</itunes:name>
+<itunes:email>mwol-support@m-w.com</itunes:email>
+</itunes:owner>
+<itunes:image href='https://prod.cdn-mw.com/assets/mw/static/wod-rss-images/wotd_podcast_logo_2.jpg' />
+<itunes:category text='Arts'>
+<itunes:category text='Literature' />
+</itunes:category>
+<itunes:category text='Education'>
+<itunes:category text='Language Courses' />
+</itunes:category>
+<image><url>https://prod.cdn-mw.com/assets/mw/static/wod-rss-images/wotd_podcast_logo_2.jpg</url><title>Merriam-Webster Online</title><link>https://www.merriam-webster.com/word-of-the-day</link><width>90</width><height>90</height></image><item><guid>ef396b4b-3b92-4ae9-88d4-8f15be660f8b</guid><title><![CDATA[puissant]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/puissant-2026-10-24]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 24, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>puissant</strong> &#149; \PWISS-unt\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Puissant</em> is a synonym of <a href="https://www.merriam-webster.com/dictionary/powerful"><em>powerful</em></a> used to describe something with <a href="https://www.merriam-webster.com/dictionary/puissance"><em>puissance</em></a>—that is, strength or power.</p>
+
+<p>// The creatures in her fantasy novel are wielders of <em>puissant</em> magic, able to strike down enemies by harnessing the power of weather phenomena like lightning and tornadoes. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/puissant">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The show is light on tech, but the accompanying images … pour through as addendums to Felder's <em>puissant</em> passion of Liszt's Liebesträume or Beethoven's Für Elise and land with great effect.” — David John Chávez, <em>The Mercury News</em> (San Jose, California), 1 Feb. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p><em>Puissant</em> has some powerful ties to some more commonplace English words. Although <em>puissant</em> has a considerably fancier feel than <a href="https://www.merriam-webster.com/dictionary/power"><em>power</em></a> and <a href="https://www.merriam-webster.com/dictionary/potent"><em>potent</em></a>, all three words share the same Latin ancestor: <em>posse</em>, a verb meaning “to be able.” <em>Potent</em> came from <em>potent-</em>, <em>potens</em>, a form of <em>posse</em>. <em>Power</em> came to us by way of Anglo-French <em>poer</em>, which itself comes from an alteration of <em>posse</em>. From <em>poer</em> also came the Anglo-French adjective <em>pussant</em>, meaning “able” or “powerful,” and English speakers borrowed that to form <em>puissant</em> in the 15th century.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/cfeb3cd1-f217-4219-803a-724fe071d73b.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sat, 24 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:44</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 24, 2026 is: puissant  \PWISS-unt\ adjective  
+Puissant is a synonym of [powerful](https://www.merriam-webster.com/dictionary/powerful) used to describe something with [puissance](https://www.merriam-webster.com/dictionary/puissance)—that is, strength or power.
+
+// The creatures in her fantasy novel are wielders of puissant magic, able to strike down enemies by harnessing the power of weather phenomena like lightning and tornadoes. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/puissant)
+  
+  
+Examples:
+  
+“The show is light on tech, but the accompanying images … pour through as addendums to Felder's puissant passion of Liszt's Liebesträume or Beethoven's Für Elise and land with great effect.” — David John Chávez, The Mercury News (San Jose, California), 1 Feb. 2026   
+  
+Did you know?  
+   
+Puissant has some powerful ties to some more commonplace English words. Although puissant has a considerably fancier feel than [power](https://www.merriam-webster.com/dictionary/power) and [potent](https://www.merriam-webster.com/dictionary/potent), all three words share the same Latin ancestor: posse, a verb meaning “to be able.” Potent came from potent-, potens, a form of posse. Power came to us by way of Anglo-French poer, which itself comes from an alteration of posse. From poer also came the Anglo-French adjective pussant, meaning “able” or “powerful,” and English speakers borrowed that to form puissant in the 15th century.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[powerful]]></merriam:shortdef></item><item><guid>6e5ad49a-83db-48ad-b27a-b8b667656a4f</guid><title><![CDATA[asunder]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/asunder-2026-10-23]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 23, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>asunder</strong> &#149; \uh-SUN-der\&nbsp; &#149; <em>adverb or adjective</em><br />
+    <p><em>Asunder</em> is most often used as an adverb—often with a verb such as <em>tear</em> or <em>rip</em>—to mean "apart" or "into pieces." It is more rarely used as an adjective meaning "apart from each other," as in "standing with legs wide asunder."</p>
+
+<p>// The park was torn <em>asunder</em> by yesterday's microburst, and many of its trails have been blocked by fallen trees. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/asunder">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"We cannot see erosion but we know it happens. [Artist Harrison] Bowe's work is filled with hints of vastness, but he's also pointing to how water might carve a mountain <em>asunder</em>." — Andrew Harper, <em>Hobart Mercury</em> (Australia), 6 Dec. 2025</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>To get to the root of today’s word, it helps to take it apart and focus on the <em>sunder</em>. You see, <em>asunder</em> comes from the verb <a href="https://www.merriam-webster.com/dictionary/sunder"><em>sunder</em></a>, which means "to break apart" or "to become parted, disunited, or severed." Both words come from the Old English word <em>sundor</em>, meaning "apart." The adverbial "into parts" sense of <em>asunder</em> is often used in the phrase "tear asunder," which can be used both literally (as in "fabric torn asunder") and, more often, figuratively (as in "a community torn asunder by the dispute"). The adjectival "apart from each other" sense can be found in the phrase "poles asunder," used to describe two things that are as vastly far apart as the poles of the Earth. </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/6c825a1d-8f11-4e2b-9a32-bd0e4818059f.mp3" length="3100000" type="audio/mpeg" /><pubDate>Fri, 23 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:54</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 23, 2026 is: asunder  \uh-SUN-der\ adverb or adjective  
+Asunder is most often used as an adverb—often with a verb such as tear or rip—to mean "apart" or "into pieces." It is more rarely used as an adjective meaning "apart from each other," as in "standing with legs wide asunder."
+
+// The park was torn asunder by yesterday's microburst, and many of its trails have been blocked by fallen trees. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/asunder)  
+  
+Examples:
+  
+"We cannot see erosion but we know it happens. [Artist Harrison] Bowe's work is filled with hints of vastness, but he's also pointing to how water might carve a mountain asunder." — Andrew Harper, Hobart Mercury (Australia), 6 Dec. 2025  
+  
+Did you know?  
+   
+To get to the root of today’s word, it helps to take it apart and focus on the sunder. You see, asunder comes from the verb [sunder](https://www.merriam-webster.com/dictionary/sunder), which means "to break apart" or "to become parted, disunited, or severed." Both words come from the Old English word sundor, meaning "apart." The adverbial "into parts" sense of asunder is often used in the phrase "tear asunder," which can be used both literally (as in "fabric torn asunder") and, more often, figuratively (as in "a community torn asunder by the dispute"). The adjectival "apart from each other" sense can be found in the phrase "poles asunder," used to describe two things that are as vastly far apart as the poles of the Earth.   ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[into parts]]></merriam:shortdef></item><item><guid>d046a06e-f734-4020-aa4d-bdddd7564209</guid><title><![CDATA[vocation]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/vocation-2026-10-22]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 22, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>vocation</strong> &#149; \voh-KAY-shun\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Vocation</em> can refer simply to an occupation, or it can refer to a strong calling to pursue a particular kind of work or course of action. </p>
+
+<p>// Since he was a teenager, he knew that he would find his <em>vocation</em> in marine biology.</p>
+
+<p>// She is headed to medical school to pursue her <em>vocation</em> as a doctor.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/vocation">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“Through her education and her father’s encouragement, she had nurtured a <em>vocation</em> for literature and was determined to make a career for herself in the <em>bundan</em>, Japan’s literary elite …” — Bryan Karetnyk, introduction to <em>Troubled Waters</em> by Higuchi Ichiyō, 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>When <em>vocation</em> was first used in English in the 15th century it referred specifically to a summons from God to perform a particular task or function in life, especially a religious one. This meaning is no surprise given the word’s source: it comes from the Latin <em>vocation-</em>, <em>vocacio</em>, meaning “summons,” which in turn comes from <em>vocāre</em>, meaning “to call.”  <em>Vocation</em> also has a non-religious function in the English language as a word for the strong desire to do a certain kind of work, or as a word for the work itself, making <em>vocation</em> a synonym of the words <a href="https://www.merriam-webster.com/dictionary/calling"><em>calling</em></a> and <a href="https://www.merriam-webster.com/dictionary/occupation"><em>occupation</em></a>.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/892f594a-82d3-4c6c-a239-4e35049b48e2.mp3" length="3100000" type="audio/mpeg" /><pubDate>Thu, 22 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:47</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 22, 2026 is: vocation  \voh-KAY-shun\ noun  
+Vocation can refer simply to an occupation, or it can refer to a strong calling to pursue a particular kind of work or course of action. 
+
+// Since he was a teenager, he knew that he would find his vocation in marine biology.
+
+// She is headed to medical school to pursue her vocation as a doctor.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/vocation)  
+  
+Examples:
+  
+“Through her education and her father’s encouragement, she had nurtured a vocation for literature and was determined to make a career for herself in the bundan, Japan’s literary elite …” — Bryan Karetnyk, introduction to Troubled Waters by Higuchi Ichiyō, 2026  
+  
+Did you know?  
+   
+When vocation was first used in English in the 15th century it referred specifically to a summons from God to perform a particular task or function in life, especially a religious one. This meaning is no surprise given the word’s source: it comes from the Latin vocation-, vocacio, meaning “summons,” which in turn comes from vocāre, meaning “to call.”  Vocation also has a non-religious function in the English language as a word for the strong desire to do a certain kind of work, or as a word for the work itself, making vocation a synonym of the words [calling](https://www.merriam-webster.com/dictionary/calling) and [occupation](https://www.merriam-webster.com/dictionary/occupation).  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[an occupation, or a calling to do a certain kind of work]]></merriam:shortdef></item><item><guid>c6f99b6b-4188-4fe6-8522-f57e7b7cba9f</guid><title><![CDATA[jilt]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/jilt-2026-10-21]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 21, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>jilt</strong> &#149; \JILT\&nbsp; &#149; <em>verb</em><br />
+    <p>To jilt someone is usually to abruptly end a romantic relationship with them. <em>Jilt</em> is also applied to various kinds of abrupt rejection. </p>
+
+<p>// The novel begins with the hero, having just been <em>jilted</em> by his fiancée, setting off to hike the Appalachian Trail.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/jilt">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The set suggests Miss Havisham’s room in her estate, which was famously frozen in time from the moment her fiancé <em>jilted</em> her in the Dickens novel, but that’s simply the frame for a behind-the-scenes view into all of the elements ... that go into an actor’s effort to bring a character to life on stage.” — Terry Byrne, <em>The Boston Globe</em>, 20 May 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>What’s in a name? Often, something not very nice, through no fault and much to the chagrin of those bearing that name. Just ask <a href="https://www.merriam-webster.com/dictionary/ralph">Ralph</a> or <a href="https://www.merriam-webster.com/dictionary/karen#dictionary-entry-2">Karen</a>. The same is (possibly) true of <em>Gillot</em>, an old pet form of <em>Gillian</em> that is thought to have led to the noun <em>jillet</em>, which originally referred to an unfaithful wife, and later became <a href="https://www.merriam-webster.com/dictionary/jilt#dictionary-entry-2"><em>jilt</em></a>, used in the late 17th century for a person (especially a woman) who capriciously casts a lover aside. The verb <em>jilt</em> followed for the actions of such a person. These days, though <em>jilt</em> usually implies the sudden ending of a romantic relationship, it can also be used beyond that context with the broader meaning “to sever close relations with.”</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/15bec342-b61a-4a82-a069-e70ff701a420.mp3" length="3100000" type="audio/mpeg" /><pubDate>Wed, 21 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:57</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 21, 2026 is: jilt  \JILT\ verb  
+To jilt someone is usually to abruptly end a romantic relationship with them. Jilt is also applied to various kinds of abrupt rejection. 
+
+// The novel begins with the hero, having just been jilted by his fiancée, setting off to hike the Appalachian Trail.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/jilt)
+  
+  
+Examples:
+  
+“The set suggests Miss Havisham’s room in her estate, which was famously frozen in time from the moment her fiancé jilted her in the Dickens novel, but that’s simply the frame for a behind-the-scenes view into all of the elements ... that go into an actor’s effort to bring a character to life on stage.” — Terry Byrne, The Boston Globe, 20 May 2026   
+  
+Did you know?  
+   
+What’s in a name? Often, something not very nice, through no fault and much to the chagrin of those bearing that name. Just ask [Ralph](https://www.merriam-webster.com/dictionary/ralph) or [Karen](https://www.merriam-webster.com/dictionary/karen#dictionary-entry-2). The same is (possibly) true of Gillot, an old pet form of Gillian that is thought to have led to the noun jillet, which originally referred to an unfaithful wife, and later became [jilt](https://www.merriam-webster.com/dictionary/jilt#dictionary-entry-2), used in the late 17th century for a person (especially a woman) who capriciously casts a lover aside. The verb jilt followed for the actions of such a person. These days, though jilt usually implies the sudden ending of a romantic relationship, it can also be used beyond that context with the broader meaning “to sever close relations with.”  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[to abruptly end a romantic relationship with someone]]></merriam:shortdef></item><item><guid>a370ccfc-76a6-411c-8814-a2348a106284</guid><title><![CDATA[compunction]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/compunction-2026-10-20]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 20, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>compunction</strong> &#149; \kum-PUNK-shun\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Compunction</em> refers to a feeling of misgiving, that is, doubt or suspicion especially concerning a future event. It can also refer to a feeling of guilt or regret. The word is typically used in negative constructions.</p>
+
+<p>// We moved ahead with the plans without <em>compunction</em>.</p>
+
+<p>// They felt no <em>compunctions</em> about their crimes.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/compunction">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"As a younger man, he tried to finish everything he started. But today he drops a book without <em>compunction</em> if he's extracted what he needed or lost interest." — Jim Higgins, <em>The Milwaukee Journal Sentinel</em>, 21 Dec. 2025</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>According to an old proverb, "a guilty conscience needs no accuser." The implication is that the sting of a guilty conscience can prick very hard indeed. The sudden guilty "prickings" of compunction are reflected in the word's Latin roots: <em>compungere</em> means "to prick hard" or "to sting." <em>Compungere</em>, in turn, comes from <em>pungere</em>, meaning "to prick," which is the ancestor of some other prickly words in English, such as <a href="https://www.merriam-webster.com/dictionary/puncture"><em>puncture</em></a> and <a href="https://www.merriam-webster.com/dictionary/point"><em>point</em></a>.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/d269a62b-4155-4e5c-9193-65b2169540a6.mp3" length="3100000" type="audio/mpeg" /><pubDate>Tue, 20 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:37</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 20, 2026 is: compunction  \kum-PUNK-shun\ noun  
+Compunction refers to a feeling of misgiving, that is, doubt or suspicion especially concerning a future event. It can also refer to a feeling of guilt or regret. The word is typically used in negative constructions.
+
+// We moved ahead with the plans without compunction.
+
+// They felt no compunctions about their crimes.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/compunction)  
+  
+Examples:
+  
+"As a younger man, he tried to finish everything he started. But today he drops a book without compunction if he's extracted what he needed or lost interest." — Jim Higgins, The Milwaukee Journal Sentinel, 21 Dec. 2025  
+  
+Did you know?  
+   
+According to an old proverb, "a guilty conscience needs no accuser." The implication is that the sting of a guilty conscience can prick very hard indeed. The sudden guilty "prickings" of compunction are reflected in the word's Latin roots: compungere means "to prick hard" or "to sting." Compungere, in turn, comes from pungere, meaning "to prick," which is the ancestor of some other prickly words in English, such as [puncture](https://www.merriam-webster.com/dictionary/puncture) and [point](https://www.merriam-webster.com/dictionary/point).  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[a feeling of misgiving]]></merriam:shortdef></item><item><guid>f89606a5-2a0a-4fc4-8cf6-8c6eb3f6dbaa</guid><title><![CDATA[fervid]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/fervid-2026-10-19]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 19, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>fervid</strong> &#149; \FER-vid\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Fervid</em> is used to describe people or things that express or are expressive of strong feelings.</p>
+
+<p>// The core of the book is the <em>fervid</em> letters the friends exchanged during the years they were apart.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/fervid">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“<em>Fervid</em> superfans of high-profile groups often pore over members’ appearances, performances, and private lives. Perceived ‘bad’ behavior such as smoking or drinking can earn widespread public backlash, forcing stars to live under strict rules.” — Jessie Yeung, <em>CNN</em>, 16 Jan. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>The metaphor of strong emotions bubbling over simmers in the roots of <em>fervid</em>, which comes from the Latin verb <em>fervēre</em>, meaning “to boil.” In English, this root gave us not only <em>fervid</em> but the similar-sounding and sometimes synonymous word <a href="https://www.merriam-webster.com/dictionary/fervent"><em>fervent</em></a>. But while <em>fervid</em> usually suggests warm emotion that is expressed in a spontaneous or feverish manner (as in “fervid basketball fans”), <em>fervent</em> is reserved for a kind of emotional warmth that is steady and sincere (as in “a fervent belief in human kindness”). Fervid fans of kimchi or sauerkraut (or fervent followers of anything fermented), may appreciate that <em>fervēre</em> is also the root of <a href="https://www.merriam-webster.com/dictionary/ferment"><em>ferment</em></a>.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/1766d176-eb1f-43e5-bf6c-faf4c95594d9.mp3" length="3100000" type="audio/mpeg" /><pubDate>Mon, 19 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:51</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 19, 2026 is: fervid  \FER-vid\ adjective  
+Fervid is used to describe people or things that express or are expressive of strong feelings.
+
+// The core of the book is the fervid letters the friends exchanged during the years they were apart.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/fervid)  
+  
+Examples:
+  
+“Fervid superfans of high-profile groups often pore over members’ appearances, performances, and private lives. Perceived ‘bad’ behavior such as smoking or drinking can earn widespread public backlash, forcing stars to live under strict rules.” — Jessie Yeung, CNN, 16 Jan. 2026  
+  
+Did you know?  
+   
+The metaphor of strong emotions bubbling over simmers in the roots of fervid, which comes from the Latin verb fervēre, meaning “to boil.” In English, this root gave us not only fervid but the similar-sounding and sometimes synonymous word [fervent](https://www.merriam-webster.com/dictionary/fervent). But while fervid usually suggests warm emotion that is expressed in a spontaneous or feverish manner (as in “fervid basketball fans”), fervent is reserved for a kind of emotional warmth that is steady and sincere (as in “a fervent belief in human kindness”). Fervid fans of kimchi or sauerkraut (or fervent followers of anything fermented), may appreciate that fervēre is also the root of [ferment](https://www.merriam-webster.com/dictionary/ferment).  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[having or expressing intense feeling]]></merriam:shortdef></item><item><guid>3f215d9e-3c8d-4fec-a8cd-777650db302e</guid><title><![CDATA[bon vivant]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/bon-vivant-2026-10-18]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 18, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>bon vivant</strong> &#149; \bahn-vee-VAHNT\&nbsp; &#149; <em>noun</em><br />
+    <p>A bon vivant is a sociable person who has refined tastes especially with respect to food and drink.</p>
+
+<p>// She has become something of a <em>bon vivant</em> since moving to Paris, going out most nights and delighting in the city's many restaurants. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/bon%20vivant">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The vineyard is named for the exiled French aristocrat Charles de Saint-Évremond, a symbol of hedonistic Anglo-French cooperation. The <em>bon vivant</em> introduced champagne to England and party-loving Charles II made him governor of Duck Island in St James’s Park.” — Phoebe Taplin, <em>The Guardian</em> (London), 12 Sept. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>In French, <em>bon vivant</em> literally means “good liver”—that is, one who lives well. English speakers have used <em>bon vivant</em> since the late 17th century to refer specifically to those who subscribe to a particular kind of good living—one that involves lots of social engagements and the enjoyment of fancy food and drink. This puts the term very much in the company of some other French words. <a href="https://www.merriam-webster.com/dictionary/gourmet"><em>Gourmet</em></a>, <a href="https://www.merriam-webster.com/dictionary/gourmand"><em>gourmand</em></a>, and <a href="https://www.merriam-webster.com/dictionary/gastronome"><em>gastronome</em></a> all refer to those who love a fancy meal, though <em>gourmand</em> often carries the connotation of a tendency to overindulge.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/b63b98f3-bafa-4d25-9dae-a7012b648fd1.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sun, 18 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:45</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 18, 2026 is: bon vivant  \bahn-vee-VAHNT\ noun  
+A bon vivant is a sociable person who has refined tastes especially with respect to food and drink.
+
+// She has become something of a bon vivant since moving to Paris, going out most nights and delighting in the city's many restaurants. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/bon%20vivant)
+  
+  
+Examples:
+  
+“The vineyard is named for the exiled French aristocrat Charles de Saint-Évremond, a symbol of hedonistic Anglo-French cooperation. The bon vivant introduced champagne to England and party-loving Charles II made him governor of Duck Island in St James’s Park.” — Phoebe Taplin, The Guardian (London), 12 Sept. 2026  
+  
+Did you know?  
+   
+In French, bon vivant literally means “good liver”—that is, one who lives well. English speakers have used bon vivant since the late 17th century to refer specifically to those who subscribe to a particular kind of good living—one that involves lots of social engagements and the enjoyment of fancy food and drink. This puts the term very much in the company of some other French words. [Gourmet](https://www.merriam-webster.com/dictionary/gourmet), [gourmand](https://www.merriam-webster.com/dictionary/gourmand), and [gastronome](https://www.merriam-webster.com/dictionary/gastronome) all refer to those who love a fancy meal, though gourmand often carries the connotation of a tendency to overindulge.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[a sociable person who likes fancy food and drink]]></merriam:shortdef></item><item><guid>f1c6598b-d48c-40cc-ba91-7240ef1fa5d2</guid><title><![CDATA[syncretic]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/syncretic-2026-10-17]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 17, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>syncretic</strong> &#149; \sin-KRET-ik\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Syncretic</em> describes things that are characterized or brought about by a combination of different forms of belief or practice.</p>
+
+<p>// We were raised with a <em>syncretic</em> religion that combined practices from various faiths.  </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/syncretic">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"Traditional medicine, wellness rituals, and spiritual practices reflect the island’s complex cultural history and diverse ethnic origins—a <em>syncretic</em> blending of <a href="https://www.britannica.com/topic/Taino">Taíno</a> Indigenous, African, and Spanish traditions." — Tiana Randall, <em>Forbes</em>, 20 Aug. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p><em>Syncretic</em> has its roots in an ancient alliance. The word is a descendant of the Greek noun <em>synkrētismos</em>, referring to a federation of cities on the island of Crete (<em>syn</em> means "together, with," and <em>Krēt-</em> means "Cretan"). The adjective first appeared in English in the mid-19th century, the related noun <a href="https://www.merriam-webster.com/dictionary/syncretism"><em>syncretism</em></a> having debuted over 200 years earlier. <em>Syncretic</em> retains the idea of coalition and appears in such contexts as "syncretic religions," "syncretic cultures," and even "syncretic art," all describing things influenced by two or more styles or traditions.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/4fcaacec-0a92-46d5-95bd-795900ff5647.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sat, 17 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:41</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 17, 2026 is: syncretic  \sin-KRET-ik\ adjective  
+Syncretic describes things that are characterized or brought about by a combination of different forms of belief or practice.
+
+// We were raised with a syncretic religion that combined practices from various faiths.  
+
+[See the entry >](https://www.merriam-webster.com/dictionary/syncretic)  
+  
+Examples:
+  
+"Traditional medicine, wellness rituals, and spiritual practices reflect the island’s complex cultural history and diverse ethnic origins—a syncretic blending of [Taíno](https://www.britannica.com/topic/Taino) Indigenous, African, and Spanish traditions." — Tiana Randall, Forbes, 20 Aug. 2026   
+  
+Did you know?  
+   
+Syncretic has its roots in an ancient alliance. The word is a descendant of the Greek noun synkrētismos, referring to a federation of cities on the island of Crete (syn means "together, with," and Krēt- means "Cretan"). The adjective first appeared in English in the mid-19th century, the related noun [syncretism](https://www.merriam-webster.com/dictionary/syncretism) having debuted over 200 years earlier. Syncretic retains the idea of coalition and appears in such contexts as "syncretic religions," "syncretic cultures," and even "syncretic art," all describing things influenced by two or more styles or traditions.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[involving different forms of belief or practice]]></merriam:shortdef></item><item><guid>aa647d5d-ddd3-478a-b16b-f4dfd7919ac6</guid><title><![CDATA[zenith]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/zenith-2026-10-16]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 16, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>zenith</strong> &#149; \ZEE-nith\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Zenith</em> refers to the strongest or most successful period of time for a person or thing.</p>
+
+<p>// At its <em>zenith</em> in the 1980s, the company employed more than 300 people.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/zenith">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The opening 40 minutes of Trần Anh Hùng’s dreamy romance set in the 1889 French countryside are the <em>zenith</em> of food preparation on the big screen. ... Food is a love language for many, and watching Pauline prepare a Baked Alaska in the hot French summer without a freezer expresses her affection better than any sonnet could.” — Kevin Slane, <em>Boston.com</em>, 15 Aug. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>When you reach the zenith, you’re at the top, the pinnacle, the summit, the peak. <em>Zenith</em> developed from a Spanish modification of an Arabic phrase meaning “the way over one’s head,” traveling through Medieval Latin and Middle French before arriving in English. As long ago as the 1300s, English speakers used <em>zenith</em> to name the highest point in the celestial heavens, directly overhead. By the 1600s, <em>zenith</em> was being used for other high points as well. The celestial term is often contrasted with <em>nadir</em>, which refers to the point that is vertically downward from the observer (imagine a line going through the Earth from the observer’s feet and out the other side into the sky). Figuratively, <a href="https://www.merriam-webster.com/dictionary/nadir"><em>nadir</em></a> simply means “the lowest point.”</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/0399de3a-d2b0-4ee9-b671-54d372b36c6d.mp3" length="3100000" type="audio/mpeg" /><pubDate>Fri, 16 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:00</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 16, 2026 is: zenith  \ZEE-nith\ noun  
+Zenith refers to the strongest or most successful period of time for a person or thing.
+
+// At its zenith in the 1980s, the company employed more than 300 people.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/zenith)
+  
+  
+Examples:
+  
+“The opening 40 minutes of Trần Anh Hùng’s dreamy romance set in the 1889 French countryside are the zenith of food preparation on the big screen. ... Food is a love language for many, and watching Pauline prepare a Baked Alaska in the hot French summer without a freezer expresses her affection better than any sonnet could.” — Kevin Slane, Boston.com, 15 Aug. 2026  
+  
+Did you know?  
+   
+When you reach the zenith, you’re at the top, the pinnacle, the summit, the peak. Zenith developed from a Spanish modification of an Arabic phrase meaning “the way over one’s head,” traveling through Medieval Latin and Middle French before arriving in English. As long ago as the 1300s, English speakers used zenith to name the highest point in the celestial heavens, directly overhead. By the 1600s, zenith was being used for other high points as well. The celestial term is often contrasted with nadir, which refers to the point that is vertically downward from the observer (imagine a line going through the Earth from the observer’s feet and out the other side into the sky). Figuratively, [nadir](https://www.merriam-webster.com/dictionary/nadir) simply means “the lowest point.”  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[the strongest or most successful period of time for something]]></merriam:shortdef></item><item><guid>f5cebff7-bb8d-44a6-a501-6a3dc6e5a2af</guid><title><![CDATA[outlandish]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/outlandish-2026-10-15]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 15, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>outlandish</strong> &#149; \out-LAN-dish\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Outlandish</em> can describe things that are strikingly strange or unusual; in this use, it’s a synonym of <a href="https://www.merriam-webster.com/dictionary/bizarre"><em>bizarre</em></a>. <em>Outlandish</em> can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.</p>
+
+<p>// One of the author’s greatest strengths is her ability to write <em>outlandish</em> characters whose quirks remain lodged in readers’ minds long after they’ve finished the book.</p>
+
+<p>// When asked to back up his <em>outlandish</em> claims, the mayor quickly changed the subject, all but admitting that he had no proof for his allegations.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/outlandish">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“In a successful book for children, no matter what <em>outlandish</em> stuff might be happening on the page, young readers will see their real emotions faithfully represented there ...” — Caroline Carson, <em>Literary Hub</em>, 3 Aug. 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>For some, the grass isn’t necessarily greener on the other side of the fence—it may also be very, very strange. The side-eye that skeptical sorts cast toward visitors from parts yonder is embedded in the history of the ancient word <em>outlandish</em>. In Old English someone described as “outlandish” came from an <a href="https://www.merriam-webster.com/dictionary/outland">outland</a>, i.e., a foreign land. Within a few hundred years, <em>outlandish</em> had broadened in use to describe anything unfamiliar or strange. It’s now commonly applied to things—especially things people do, wear, or say—that are strikingly out of the ordinary, or even just beyond reasonable or proper limits or standards. But lest you mistake us for equating <em>outlandish</em> with <em>wrong</em> or <em>bad</em>, consider this line from a review of a Dr. Seuss book once published in <em>Time</em>: “Its illustrations are properly outlandish, and its verses are zany and catchy enough for many rereadings.” </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/dc4e7426-89bc-4586-a18c-f0758ba9119b.mp3" length="3100000" type="audio/mpeg" /><pubDate>Thu, 15 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:07</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 15, 2026 is: outlandish  \out-LAN-dish\ adjective  
+Outlandish can describe things that are strikingly strange or unusual; in this use, it’s a synonym of [bizarre](https://www.merriam-webster.com/dictionary/bizarre). Outlandish can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards.
+
+// One of the author’s greatest strengths is her ability to write outlandish characters whose quirks remain lodged in readers’ minds long after they’ve finished the book.
+
+// When asked to back up his outlandish claims, the mayor quickly changed the subject, all but admitting that he had no proof for his allegations.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/outlandish)  
+  
+Examples:
+  
+“In a successful book for children, no matter what outlandish stuff might be happening on the page, young readers will see their real emotions faithfully represented there ...” — Caroline Carson, Literary Hub, 3 Aug. 2026  
+  
+Did you know?  
+   
+For some, the grass isn’t necessarily greener on the other side of the fence—it may also be very, very strange. The side-eye that skeptical sorts cast toward visitors from parts yonder is embedded in the history of the ancient word outlandish. In Old English someone described as “outlandish” came from an [outland](https://www.merriam-webster.com/dictionary/outland), i.e., a foreign land. Within a few hundred years, outlandish had broadened in use to describe anything unfamiliar or strange. It’s now commonly applied to things—especially things people do, wear, or say—that are strikingly out of the ordinary, or even just beyond reasonable or proper limits or standards. But lest you mistake us for equating outlandish with wrong or bad, consider this line from a review of a Dr. Seuss book once published in Time: “Its illustrations are properly outlandish, and its verses are zany and catchy enough for many rereadings.”   ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[extremely different from what is normal or expected]]></merriam:shortdef></item></channel></rss>
