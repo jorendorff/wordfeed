@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>About Words &#8211; Cambridge Dictionary blog</title>
+	<atom:link href="https://dictionaryblog.cambridge.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dictionaryblog.cambridge.org/</link>
+	<description>Commenting on developments in the English language</description>
+	<lastBuildDate>Thu, 08 Oct 2026 13:08:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>About Words &#8211; Cambridge Dictionary blog</title>
+	<link>https://dictionaryblog.cambridge.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">18458032</site>	<item>
+		<title>The Word Watcher: Dating</title>
+		<link>https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/#comments</comments>
+		
+		<dc:creator><![CDATA[Cambridge Words]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 06:00:52 +0000</pubDate>
+				<category><![CDATA[Word watching]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24495</guid>
+
+					<description><![CDATA[<p>I’m Anna Stevenson, the Word Watcher. Back in the Dark Ages, when I started dating my husband (Mr Word Watcher), things were much simpler. You met someone nice, went out for dinner, and decided if you liked each other enough to do it again. With Gen Z, the world of dating seems to be much &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/" class="more-link">Continue reading <span class="screen-reader-text">The Word Watcher: Dating</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/">The Word Watcher: Dating</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/10/12/the-word-watcher-dating/feed/</wfw:commentRss>
+			<slash:comments>21</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24495</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/10/dating.jpg?fit=600%2C400&amp;ssl=1" />
+	</item>
+		<item>
+		<title>The Word Watcher: Climate</title>
+		<link>https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/#comments</comments>
+		
+		<dc:creator><![CDATA[Cambridge Words]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 06:00:18 +0000</pubDate>
+				<category><![CDATA[the English language]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24414</guid>
+
+					<description><![CDATA[<p>I&#8217;m Anna Stevenson, the Word Watcher. The heatwaves that dominated the summer months in many parts of the world this year have prompted me to look at some words and terms relating to climate change that haven&#8217;t yet made it into the dictionary. Such heatwaves, along with flooding and wildfires, are making some places feel &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/" class="more-link">Continue reading <span class="screen-reader-text">The Word Watcher: Climate</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/">The Word Watcher: Climate</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/09/28/the-word-watcher-climate/feed/</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24414</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/climate.jpg?fit=600%2C400&amp;ssl=1" />
+	</item>
+		<item>
+		<title>All good things come to an end: talking about leaving a place</title>
+		<link>https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/#comments</comments>
+		
+		<dc:creator><![CDATA[Liz Walter]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 11:00:26 +0000</pubDate>
+				<category><![CDATA[Conversation]]></category>
+		<category><![CDATA[the English language]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24214</guid>
+
+					<description><![CDATA[<p>by Liz Walter The phrase all good things come to an end means that enjoyable experiences cannot last forever. The reason I’ve chosen this title is that after more than a decade of writing these posts, this one will be my last! The topic, therefore, is things we say when we stop something we’ve been &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/" class="more-link">Continue reading <span class="screen-reader-text">All good things come to an end: talking about leaving a place</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/">All good things come to an end: talking about leaving a place</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/09/16/all-good-things-come-to-an-end-talking-about-leaving-a-place/feed/</wfw:commentRss>
+			<slash:comments>49</slash:comments>
+		
+		<enclosure url="https://dictionaryblog.cambridge.org/wp-content/uploads/2026/08/Goodbye.mp3" length="2715648" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">24214</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2255788706.jpg?fit=640%2C427&amp;ssl=1" />
+	</item>
+		<item>
+		<title>The Word Watcher: Reverse</title>
+		<link>https://dictionaryblog.cambridge.org/2026/09/14/the-word-watcher-reverse/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/09/14/the-word-watcher-reverse/#comments</comments>
+		
+		<dc:creator><![CDATA[Cambridge Words]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 06:00:23 +0000</pubDate>
+				<category><![CDATA[New words]]></category>
+		<category><![CDATA[the English language]]></category>
+		<category><![CDATA[Word watching]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24335</guid>
+
+					<description><![CDATA[<p>I’m Anna Stevenson, the Word Watcher, and this time we’re going backwards, linguistically at least! Let’s explore some interesting “reverse” words and terms that have caught my eye recently. The first one I&#8217;m watching is reversatile fashion. A portmanteau of “reversible” and “versatile”, reversatile describes clothing that you can wear inside out or back to &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/09/14/the-word-watcher-reverse/" class="more-link">Continue reading <span class="screen-reader-text">The Word Watcher: Reverse</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/09/14/the-word-watcher-reverse/">The Word Watcher: Reverse</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/09/14/the-word-watcher-reverse/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24335</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-1051659844.jpg?fit=640%2C427&amp;ssl=1" />
+	</item>
+		<item>
+		<title>I&#8217;m tearing my hair out here! Hair idioms</title>
+		<link>https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/#comments</comments>
+		
+		<dc:creator><![CDATA[Kate Woodford]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 08:36:16 +0000</pubDate>
+				<category><![CDATA[Idioms]]></category>
+		<category><![CDATA[the English language]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24120</guid>
+
+					<description><![CDATA[<p>by Kate Woodford It will come as no surprise to you that an aspect of the human body as important and visible as hair features in a lot of English idioms. Today I’m going to look at a selection of these phrases that feature in contemporary English. I’ll start with three idioms that are related &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/" class="more-link">Continue reading <span class="screen-reader-text">I&#8217;m tearing my hair out here! Hair idioms</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/">I&#8217;m tearing my hair out here! Hair idioms</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/09/09/im-tearing-my-hair-out-here-hair-idioms/feed/</wfw:commentRss>
+			<slash:comments>15</slash:comments>
+		
+		<enclosure url="https://dictionaryblog.cambridge.org/wp-content/uploads/2026/09/Hair-idioms.mp3" length="2773248" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">24120</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/09/GettyImages-57012335.jpg?fit=640%2C427&amp;ssl=1" />
+	</item>
+		<item>
+		<title>Are you free on Saturday? Phrases for invitations.</title>
+		<link>https://dictionaryblog.cambridge.org/2026/09/02/are-you-free-on-saturday-phrases-for-invitations/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/09/02/are-you-free-on-saturday-phrases-for-invitations/#comments</comments>
+		
+		<dc:creator><![CDATA[Liz Walter]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 11:00:42 +0000</pubDate>
+				<category><![CDATA[the English language]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24117</guid>
+
+					<description><![CDATA[<p>Listen to the author reading this blog post. by Liz Walter It can be tricky to use just the right words when we invite someone to come to our home or to do something with us. We probably want to make them feel welcome but at the same time give them the opportunity to refuse &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/09/02/are-you-free-on-saturday-phrases-for-invitations/" class="more-link">Continue reading <span class="screen-reader-text">Are you free on Saturday? Phrases for invitations.</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/09/02/are-you-free-on-saturday-phrases-for-invitations/">Are you free on Saturday? Phrases for invitations.</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/09/02/are-you-free-on-saturday-phrases-for-invitations/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		<enclosure url="https://dictionaryblog.cambridge.org/wp-content/uploads/2026/09/invitations.mp3" length="2694144" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">24117</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/07/GettyImages-2218421223.jpg?fit=640%2C427&amp;ssl=1" />
+	</item>
+		<item>
+		<title>The Word Watcher: Food and drink</title>
+		<link>https://dictionaryblog.cambridge.org/2026/08/31/the-word-watcher-food-and-drink/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/08/31/the-word-watcher-food-and-drink/#comments</comments>
+		
+		<dc:creator><![CDATA[Cambridge Words]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 06:00:26 +0000</pubDate>
+				<category><![CDATA[New words]]></category>
+		<category><![CDATA[Word watching]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[food words]]></category>
+		<category><![CDATA[neologisms]]></category>
+		<category><![CDATA[new words]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24266</guid>
+
+					<description><![CDATA[<p>I&#8217;m Anna Stevenson, the Word Watcher, and on the menu this time are some new words and terms relating to food and drink. You might remember girl dinner from an earlier New Words blog post. Now its male counterpart has arrived on the scene. While a girl dinner involved a little assemblage of tasty bits &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/08/31/the-word-watcher-food-and-drink/" class="more-link">Continue reading <span class="screen-reader-text">The Word Watcher: Food and drink</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/08/31/the-word-watcher-food-and-drink/">The Word Watcher: Food and drink</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/08/31/the-word-watcher-food-and-drink/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24266</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-2284683255.jpg?fit=640%2C428&amp;ssl=1" />
+	</item>
+		<item>
+		<title>You’re barking up the wrong tree! (Dog idioms, Part 2)</title>
+		<link>https://dictionaryblog.cambridge.org/2026/08/26/youre-barking-up-the-wrong-tree-dog-idioms-part-2/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/08/26/youre-barking-up-the-wrong-tree-dog-idioms-part-2/#comments</comments>
+		
+		<dc:creator><![CDATA[Kate Woodford]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 11:00:33 +0000</pubDate>
+				<category><![CDATA[Idioms]]></category>
+		<category><![CDATA[the English language]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24073</guid>
+
+					<description><![CDATA[<p>Listen to the author reading this blog post. by Kate Woodford Last month, I published a post on idioms connected with man’s best friend (=the dog). When I researched the piece, I found that there were more frequent and useful canine idioms than I was expecting, so here is a second post on the subject. &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/08/26/youre-barking-up-the-wrong-tree-dog-idioms-part-2/" class="more-link">Continue reading <span class="screen-reader-text">You’re barking up the wrong tree! (Dog idioms, Part 2)</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/08/26/youre-barking-up-the-wrong-tree-dog-idioms-part-2/">You’re barking up the wrong tree! (Dog idioms, Part 2)</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/08/26/youre-barking-up-the-wrong-tree-dog-idioms-part-2/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		<enclosure url="https://dictionaryblog.cambridge.org/wp-content/uploads/2026/08/Dog-idioms-part-2.mp3" length="2994816" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">24073</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/GettyImages-1422737663.jpg?fit=640%2C449&amp;ssl=1" />
+	</item>
+		<item>
+		<title>Fanning the flames: idiomatic language connected to fire</title>
+		<link>https://dictionaryblog.cambridge.org/2026/08/19/fanning-the-flames-idiomatic-language-connected-to-fire/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/08/19/fanning-the-flames-idiomatic-language-connected-to-fire/#comments</comments>
+		
+		<dc:creator><![CDATA[Liz Walter]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 11:00:30 +0000</pubDate>
+				<category><![CDATA[Idioms]]></category>
+		<category><![CDATA[the English language]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24006</guid>
+
+					<description><![CDATA[<p>Listen to the author reading this blog post. by Liz Walter My last post focused on words connected to fire and burning. Many of these words and phrases are also used in metaphorical or idiomatic ways, and today’s post discusses this aspect of them. The word fire itself is often used to indicate strong emotions, &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/08/19/fanning-the-flames-idiomatic-language-connected-to-fire/" class="more-link">Continue reading <span class="screen-reader-text">Fanning the flames: idiomatic language connected to fire</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/08/19/fanning-the-flames-idiomatic-language-connected-to-fire/">Fanning the flames: idiomatic language connected to fire</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/08/19/fanning-the-flames-idiomatic-language-connected-to-fire/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		<enclosure url="https://dictionaryblog.cambridge.org/wp-content/uploads/2026/07/Fire-idioms.mp3" length="3712128" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">24006</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/07/GettyImages-2229971926.jpg?fit=640%2C426&amp;ssl=1" />
+	</item>
+		<item>
+		<title>The Word Watcher: Holidays</title>
+		<link>https://dictionaryblog.cambridge.org/2026/08/17/the-word-watcher-holidays/</link>
+					<comments>https://dictionaryblog.cambridge.org/2026/08/17/the-word-watcher-holidays/#comments</comments>
+		
+		<dc:creator><![CDATA[Cambridge Words]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 06:00:36 +0000</pubDate>
+				<category><![CDATA[the English language]]></category>
+		<category><![CDATA[Word watching]]></category>
+		<category><![CDATA[neologisms]]></category>
+		<guid isPermaLink="false">https://dictionaryblog.cambridge.org/?p=24226</guid>
+
+					<description><![CDATA[<p>I&#8217;m Anna Stevenson, the Word Watcher, and these are the words I&#8217;ve been watching. What does the word &#8220;holiday&#8221; make you think of? Sightseeing and souvenir shopping? Lying on a beach? Actually, these days we&#8217;re finding all sorts of interesting ways to spend our precious time off. So let’s broaden our horizons in this post &#8230; </p>
+<p><a href="https://dictionaryblog.cambridge.org/2026/08/17/the-word-watcher-holidays/" class="more-link">Continue reading <span class="screen-reader-text">The Word Watcher: Holidays</span></a></p>
+<p>The post <a href="https://dictionaryblog.cambridge.org/2026/08/17/the-word-watcher-holidays/">The Word Watcher: Holidays</a> appeared first on <a href="https://dictionaryblog.cambridge.org">About Words - Cambridge Dictionary blog</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://dictionaryblog.cambridge.org/2026/08/17/the-word-watcher-holidays/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24226</post-id><media:content xmlns:media="http://search.yahoo.com/mrss/"  medium="image" url="https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/08/holidays.jpg?fit=600%2C400&amp;ssl=1" />
+	</item>
+	</channel>
+</rss>

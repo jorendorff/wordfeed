@@ -1,0 +1,170 @@
+[
+  {
+    "source": "oed",
+    "dark": false,
+    "key": "delitescency",
+    "logs": []
+  },
+  {
+    "source": "oed",
+    "dark": true,
+    "key": "delitescency",
+    "logs": []
+  },
+  {
+    "source": "awad",
+    "dark": false,
+    "key": "priapean",
+    "logs": []
+  },
+  {
+    "source": "awad",
+    "dark": true,
+    "key": "priapean",
+    "logs": []
+  },
+  {
+    "source": "wordnik",
+    "dark": false,
+    "key": "phasmophobia",
+    "logs": []
+  },
+  {
+    "source": "wordnik",
+    "dark": true,
+    "key": "phasmophobia",
+    "logs": []
+  },
+  {
+    "source": "mw",
+    "dark": false,
+    "key": "1e66d3ca-04b8-4dc4-b296-a6b21f92c0d6",
+    "logs": []
+  },
+  {
+    "source": "mw",
+    "dark": true,
+    "key": "1e66d3ca-04b8-4dc4-b296-a6b21f92c0d6",
+    "logs": []
+  },
+  {
+    "source": "wiktionary",
+    "dark": false,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261031000000/en",
+    "logs": []
+  },
+  {
+    "source": "wiktionary",
+    "dark": true,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261031000000/en",
+    "logs": []
+  },
+  {
+    "source": "tfd",
+    "dark": false,
+    "key": "https://www.thefreedictionary.com/eyestrain",
+    "logs": []
+  },
+  {
+    "source": "tfd",
+    "dark": true,
+    "key": "https://www.thefreedictionary.com/eyestrain",
+    "logs": []
+  },
+  {
+    "source": "macquarie",
+    "dark": false,
+    "key": "coprophagous",
+    "logs": []
+  },
+  {
+    "source": "macquarie",
+    "dark": true,
+    "key": "coprophagous",
+    "logs": []
+  },
+  {
+    "source": "vocabcom",
+    "dark": false,
+    "key": "enchantment",
+    "logs": []
+  },
+  {
+    "source": "vocabcom",
+    "dark": true,
+    "key": "enchantment",
+    "logs": []
+  },
+  {
+    "source": "sesquiotica",
+    "dark": false,
+    "key": "http://sesquiotic.com/?p=15306",
+    "logs": []
+  },
+  {
+    "source": "sesquiotica",
+    "dark": true,
+    "key": "http://sesquiotic.com/?p=15306",
+    "logs": []
+  },
+  {
+    "source": "grammarphobia",
+    "dark": false,
+    "key": "https://grammarphobia.com/?p=34076",
+    "logs": []
+  },
+  {
+    "source": "grammarphobia",
+    "dark": true,
+    "key": "https://grammarphobia.com/?p=34076",
+    "logs": []
+  },
+  {
+    "source": "cambridge-blog",
+    "dark": false,
+    "key": "https://dictionaryblog.cambridge.org/?p=24495",
+    "logs": []
+  },
+  {
+    "source": "cambridge-blog",
+    "dark": true,
+    "key": "https://dictionaryblog.cambridge.org/?p=24495",
+    "logs": []
+  },
+  {
+    "source": "dictcom",
+    "dark": false,
+    "key": "thaumaturgy",
+    "logs": []
+  },
+  {
+    "source": "dictcom",
+    "dark": true,
+    "key": "thaumaturgy",
+    "logs": []
+  },
+  {
+    "source": "fwotd",
+    "dark": false,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/fwotd/20261031000000/en",
+    "logs": []
+  },
+  {
+    "source": "fwotd",
+    "dark": true,
+    "key": "https://en.wiktionary.org/wiki/Special:FeedItem/fwotd/20261031000000/en",
+    "logs": []
+  },
+  {
+    "source": "urban",
+    "dark": false,
+    "key": "15420732",
+    "logs": []
+  },
+  {
+    "source": "urban",
+    "dark": true,
+    "key": "15420732",
+    "logs": []
+  }
+]

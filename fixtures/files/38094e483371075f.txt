@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:merriam="https://www.merriam-webster.com/word-of-the-day" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel>
+<title>Merriam-Webster's Word of the Day</title>
+<link>https://www.merriam-webster.com/word-of-the-day</link>
+<description>Free daily dose of word power from Merriam-Webster's experts</description>
+<copyright>Copyright 2026</copyright>
+<lastBuildDate>Sat, 31 Oct 2026 01:00:01 -0400</lastBuildDate>
+<ttl>60</ttl>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-us</language>
+<generator>Merriam Webster feed generator</generator>
+<itunes:subtitle>Free daily dose of word power from Merriam-Webster's experts</itunes:subtitle>
+<itunes:author>Merriam-Webster</itunes:author>
+<itunes:summary>Build your vocabulary with Merriam-Webster's Word of the Day!  Each day a Merriam-Webster editor offers insight into a fascinating new word -- explaining its meaning, current use, and little-known details about its origin.</itunes:summary>
+<itunes:owner>
+<itunes:name>Merriam-Webster</itunes:name>
+<itunes:email>mwol-support@m-w.com</itunes:email>
+</itunes:owner>
+<itunes:image href='https://prod.cdn-mw.com/assets/mw/static/wod-rss-images/wotd_podcast_logo_2.jpg' />
+<itunes:category text='Arts'>
+<itunes:category text='Literature' />
+</itunes:category>
+<itunes:category text='Education'>
+<itunes:category text='Language Courses' />
+</itunes:category>
+<image><url>https://prod.cdn-mw.com/assets/mw/static/wod-rss-images/wotd_podcast_logo_2.jpg</url><title>Merriam-Webster Online</title><link>https://www.merriam-webster.com/word-of-the-day</link><width>90</width><height>90</height></image><item><guid>1e66d3ca-04b8-4dc4-b296-a6b21f92c0d6</guid><title><![CDATA[wraith]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/wraith-2026-10-31]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 31, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>wraith</strong> &#149; \RAYTH\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Wraith</em> refers to the spirit of a dead person, or in other words, a ghost.</p>
+
+<p>// The most frightening scene from the movie featured a vengeful <em>wraith</em> creeping slowly up behind the main characters.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/wraith">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"Nearly every storyteller knew the legend of the ghostly woman dressed in white, forever searching for her husband. ... Like all good desert legends, the facts shifted with the wind, but the ending was always the same: if you wandered too far into the dunes, you just might hear the <em>wraith</em> calling to her lost husband." — Candice McDonald, <em>The Alamogordo (New Mexico) Daily News</em>, 30 July 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>If you see your own double, you're in trouble, at least if you believe old superstitions. The belief that a ghostly twin's appearance portends death is one common to many cultures. In German folklore, such an apparition is called a <a href="https://www.merriam-webster.com/dictionary/doppelganger"><em>Doppelgänger</em></a> (literally, "double goer"); in Scottish lore, it is a <em>wraith</em>. The exact origin of the word <em>wraith</em> is misty, however, and etymologists can only trace it back to the early 16th century—in particular to a 1513 translation of <a href="https://www.merriam-webster.com/dictionary/Virgil">Virgil's</a> <em>Aeneid</em> by Gavin Douglas (the Scotsman used <em>wraith</em> to name apparitions of both the dead and the living). Today, <em>wraith</em> may refer broadly to ghost or specter, or figuratively to something regarded as ghostly or insubstantial, as when <em>New Yorker</em> film critic Anthony Lane referred to an actor's "wraith of a mustache."</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/18923aa4-9faa-4f08-8c10-97a68cd16214.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sat, 31 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:00</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 31, 2026 is: wraith  \RAYTH\ noun  
+Wraith refers to the spirit of a dead person, or in other words, a ghost.
+
+// The most frightening scene from the movie featured a vengeful wraith creeping slowly up behind the main characters.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/wraith)  
+  
+Examples:
+  
+"Nearly every storyteller knew the legend of the ghostly woman dressed in white, forever searching for her husband. ... Like all good desert legends, the facts shifted with the wind, but the ending was always the same: if you wandered too far into the dunes, you just might hear the wraith calling to her lost husband." — Candice McDonald, The Alamogordo (New Mexico) Daily News, 30 July 2026  
+  
+Did you know?  
+   
+If you see your own double, you're in trouble, at least if you believe old superstitions. The belief that a ghostly twin's appearance portends death is one common to many cultures. In German folklore, such an apparition is called a [Doppelgänger](https://www.merriam-webster.com/dictionary/doppelganger) (literally, "double goer"); in Scottish lore, it is a wraith. The exact origin of the word wraith is misty, however, and etymologists can only trace it back to the early 16th century—in particular to a 1513 translation of [Virgil's](https://www.merriam-webster.com/dictionary/Virgil) Aeneid by Gavin Douglas (the Scotsman used wraith to name apparitions of both the dead and the living). Today, wraith may refer broadly to ghost or specter, or figuratively to something regarded as ghostly or insubstantial, as when New Yorker film critic Anthony Lane referred to an actor's "wraith of a mustache."  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[the spirit of a dead person]]></merriam:shortdef></item><item><guid>99f5893b-238b-48e2-90a1-b4b22eacd4fd</guid><title><![CDATA[reticent]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/reticent-2026-10-30]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 30, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>reticent</strong> &#149; \RET-uh-sunt\&nbsp; &#149; <em>adjective</em><br />
+    <p>Someone may be described as reticent if they are feeling or showing reluctance, that is, hesitation or unwillingness to do something. <em>Reticent</em> can also describe someone who is reserved, inclined to be silent or uncommunicative about things.</p>
+
+<p>// The team was <em>reticent</em> to spend such a large amount of money, even for an all-star free agent.</p>
+
+<p>// He’s always been <em>reticent</em> about discussing personal matters at work.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/reticent">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“It can be dangerous and difficult for journalists to report in war zones, and armies are understandably <em>reticent</em> to share details of their location, actions, and future plans.” — Rainey Reitman, <em>Transaction Denied: Big Finance’s Power to Punish Speech</em>, 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>Use of <em>reticent</em> to mean “reluctant”—though it veers away from the word’s Latin origins in the verb <em>reticēre</em>, meaning “to keep silent”—is well established, and there is no reason to be reticent about employing it. In fact, <em>reticent</em> took on its “reluctant” sense a mere 50 years after first appearing in English in the early 19th century with the meaning “inclined to be silent or uncommunicative.” Though some brows may furrow, the development of <em>reticent</em>’s newer meaning has some logic to it: English speakers first used <em>reticent</em> synonymously with <em>reluctant</em> when the context was speech, as in “he was reticent to talk about his past,” keeping the word close to its “silent” beginnings. Eventually, however, exclusive association with speech was abandoned, and one can now be reticent to do anything, even if it’s to admit that language is not immutable.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/060829f6-6631-4b0d-a2f1-3dc418f09a16.mp3" length="3100000" type="audio/mpeg" /><pubDate>Fri, 30 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:10</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 30, 2026 is: reticent  \RET-uh-sunt\ adjective  
+Someone may be described as reticent if they are feeling or showing reluctance, that is, hesitation or unwillingness to do something. Reticent can also describe someone who is reserved, inclined to be silent or uncommunicative about things.
+
+// The team was reticent to spend such a large amount of money, even for an all-star free agent.
+
+// He’s always been reticent about discussing personal matters at work.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/reticent)  
+  
+Examples:
+  
+“It can be dangerous and difficult for journalists to report in war zones, and armies are understandably reticent to share details of their location, actions, and future plans.” — Rainey Reitman, Transaction Denied: Big Finance’s Power to Punish Speech, 2026
+  
+  
+Did you know?  
+   
+Use of reticent to mean “reluctant”—though it veers away from the word’s Latin origins in the verb reticēre, meaning “to keep silent”—is well established, and there is no reason to be reticent about employing it. In fact, reticent took on its “reluctant” sense a mere 50 years after first appearing in English in the early 19th century with the meaning “inclined to be silent or uncommunicative.” Though some brows may furrow, the development of reticent’s newer meaning has some logic to it: English speakers first used reticent synonymously with reluctant when the context was speech, as in “he was reticent to talk about his past,” keeping the word close to its “silent” beginnings. Eventually, however, exclusive association with speech was abandoned, and one can now be reticent to do anything, even if it’s to admit that language is not immutable.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[feeling or showing reluctance, unwillingness, or hesitation]]></merriam:shortdef></item><item><guid>cc0cc3b9-b0d1-4a7d-aaa3-08ac7e920ca1</guid><title><![CDATA[shindig]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/shindig-2026-10-29]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 29, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>shindig</strong> &#149; \SHIN-dig\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Shindig</em> is an informal word for a big party.</p>
+
+<p>// Our friends are in town this weekend, so we’re hosting a <em>shindig</em> at our place on Saturday night.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/shindig">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“It’s the night before Halloween, and a couple of hundred young people dressed up as witches or Labubu toys are dancing at a warehouse-style bar beside a subway station in Brooklyn. But this is no ordinary Halloween <em>shindig</em>.” — Michael Koziol, <em>The Age</em> (Melbourne, Australia), 3 Nov. 2025</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>At a glance, <em>shindig</em> appears to combine <em>shin</em> and <em>dig</em>, and thus might seem to suggest a painful kick to the leg—especially when you know that one of the first senses of <em>shindig</em> in English refers to a gathering at which people dance. It is more likely, however, that <em>shindig</em> is an alteration of <a href="https://www.merriam-webster.com/dictionary/shindy"><em>shindy</em></a>, which is itself the alteration of another word, <a href="https://www.merriam-webster.com/dictionary/shinny"><em>shinny</em></a>, used of a variation of hockey that is played with a curved stick and a ball or block of wood. It’s not entirely clear how the game of shinny gave <em>shindy</em> its first meaning (the “social gathering with dancing” meaning that is also the original meaning of <em>shindig</em>) but <em>shinny</em> remains the most likely origin.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/3396689f-9f73-4dc4-8ccb-c8d686430768.mp3" length="3100000" type="audio/mpeg" /><pubDate>Thu, 29 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:42</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 29, 2026 is: shindig  \SHIN-dig\ noun  
+Shindig is an informal word for a big party.
+
+// Our friends are in town this weekend, so we’re hosting a shindig at our place on Saturday night.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/shindig)
+  
+  
+Examples:
+  
+“It’s the night before Halloween, and a couple of hundred young people dressed up as witches or Labubu toys are dancing at a warehouse-style bar beside a subway station in Brooklyn. But this is no ordinary Halloween shindig.” — Michael Koziol, The Age (Melbourne, Australia), 3 Nov. 2025  
+  
+Did you know?  
+   
+At a glance, shindig appears to combine shin and dig, and thus might seem to suggest a painful kick to the leg—especially when you know that one of the first senses of shindig in English refers to a gathering at which people dance. It is more likely, however, that shindig is an alteration of [shindy](https://www.merriam-webster.com/dictionary/shindy), which is itself the alteration of another word, [shinny](https://www.merriam-webster.com/dictionary/shinny), used of a variation of hockey that is played with a curved stick and a ball or block of wood. It’s not entirely clear how the game of shinny gave shindy its first meaning (the “social gathering with dancing” meaning that is also the original meaning of shindig) but shinny remains the most likely origin.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[a big party]]></merriam:shortdef></item><item><guid>5e7f8797-3f18-4797-9c29-af5e77d76f41</guid><title><![CDATA[grotesque]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/grotesque-2026-10-28]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 28, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>grotesque</strong> &#149; \groh-TESK\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Grotesque</em> describes something that is very strange or ugly in a way that is not normal or natural. It can also describe something that is extremely different from what is expected or usual.</p>
+
+<p>// She opted for a scary Halloween costume, complete with a <em>grotesque</em> monster mask.</p>
+
+<p>// Their claim is a <em>grotesque</em> distortion of the facts.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/grotesque">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"At the heart of Mary Shelley's 1818 classic <a href="https://www.britannica.com/topic/Frankenstein-or-The-Modern-Prometheus">Frankenstein</a> and its many pop culture adaptations is the scene in the mad scientist’s lab where Victor Frankenstein, helped by a bolt of lightning, animates the <em>grotesque</em> figure made out of human and animal parts lying on his anatomy table." — Candida Rifkind, <em>The Winnipeg Free Press</em>, 30 May 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>During the Italian Renaissance, Romans of culture took a great interest in their country's past and began excavating ancient buildings. During their excavations, they uncovered chambers (known in Italian as <em>grotte</em>, "caves," in reference to their cavelike appearance) decorated with fantastical paintings. The Italian word <em>grottesca</em> became the name for a later but similar type of painting or sculpture depicting fantastic combinations of human and animal forms interwoven with unusual fruits and flowers, and by 1561 it had passed through Middle French into the English noun <em>grotesque</em>. The adjective form of <em>grotesque</em> was first used in the early 17th century to describe the decorative art but is now used to describe anything bizarre, incongruous, or unusual.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/3f0bdb3e-b4ce-4997-b586-41b0b8901471.mp3" length="3100000" type="audio/mpeg" /><pubDate>Wed, 28 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:05</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 28, 2026 is: grotesque  \groh-TESK\ adjective  
+Grotesque describes something that is very strange or ugly in a way that is not normal or natural. It can also describe something that is extremely different from what is expected or usual.
+
+// She opted for a scary Halloween costume, complete with a grotesque monster mask.
+
+// Their claim is a grotesque distortion of the facts.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/grotesque)  
+  
+Examples:
+  
+"At the heart of Mary Shelley's 1818 classic [Frankenstein](https://www.britannica.com/topic/Frankenstein-or-The-Modern-Prometheus) and its many pop culture adaptations is the scene in the mad scientist’s lab where Victor Frankenstein, helped by a bolt of lightning, animates the grotesque figure made out of human and animal parts lying on his anatomy table." — Candida Rifkind, The Winnipeg Free Press, 30 May 2026  
+  
+Did you know?  
+   
+During the Italian Renaissance, Romans of culture took a great interest in their country's past and began excavating ancient buildings. During their excavations, they uncovered chambers (known in Italian as grotte, "caves," in reference to their cavelike appearance) decorated with fantastical paintings. The Italian word grottesca became the name for a later but similar type of painting or sculpture depicting fantastic combinations of human and animal forms interwoven with unusual fruits and flowers, and by 1561 it had passed through Middle French into the English noun grotesque. The adjective form of grotesque was first used in the early 17th century to describe the decorative art but is now used to describe anything bizarre, incongruous, or unusual.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[very strange or ugly in a way that is not normal or natural]]></merriam:shortdef></item><item><guid>b1d1c5dd-fd1d-4913-9442-82b04e43edeb</guid><title><![CDATA[milieu]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/milieu-2026-10-27]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 27, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>milieu</strong> &#149; \meel-YOO\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Milieu</em> is a formal word that refers to the physical or social setting in which people live or in which something happens or develops. </p>
+
+<p>// Langston Hughes, Zora Neale Hurston, and Jean Toomer were among the many writers who flourished in the intellectual <em>milieu</em> of the Harlem Renaissance. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/milieu">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“‘Hombre al Agua’ starts out playful and grows more overtly comic, particularly once politics is thrown into the mix. At one point, a character compares the film’s <em>milieu</em>, the world of the rich, to old sci-fi movies where astronauts land on a planet that looks a lot like earth but turns out to be completely different.” — Steve Pond, <em>The Wrap</em>, 6 Sept. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>It’s not difficult to locate another word within the milieu of <em>milieu</em>, whose final four letters spell <a href="https://www.merriam-webster.com/dictionary/lieu"><em>lieu</em></a>. <em>Lieu</em> is an archaic word meaning “place,” today used almost exclusively in “in lieu of” (= in the place of), as in “in lieu of cash a credit card is acceptable.” English users borrowed this <em>lieu</em> from Anglo-French—the French language used in medieval England—in the 13th century. It wasn’t until many centuries later, in the mid-1880s, that English adopted <em>milieu</em> from the French spoken in France. (In Old French, <em>milieu</em> meant “midst,” from <em>mi</em>, meaning “middle,” + <em>lieu</em>.) Both <em>milieu</em> and <em>lieu</em> have an ancestor in the Latin word for place, <em>locus</em>, as does many an English word, including <a href="https://www.merriam-webster.com/dictionary/locate"><em>locate</em></a>. </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/6d6a2fce-9955-4edd-9972-b044e72f7021.mp3" length="3100000" type="audio/mpeg" /><pubDate>Tue, 27 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:02:06</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 27, 2026 is: milieu  \meel-YOO\ noun  
+Milieu is a formal word that refers to the physical or social setting in which people live or in which something happens or develops. 
+
+// Langston Hughes, Zora Neale Hurston, and Jean Toomer were among the many writers who flourished in the intellectual milieu of the Harlem Renaissance. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/milieu)  
+  
+Examples:
+  
+“‘Hombre al Agua’ starts out playful and grows more overtly comic, particularly once politics is thrown into the mix. At one point, a character compares the film’s milieu, the world of the rich, to old sci-fi movies where astronauts land on a planet that looks a lot like earth but turns out to be completely different.” — Steve Pond, The Wrap, 6 Sept. 2026   
+  
+Did you know?  
+   
+It’s not difficult to locate another word within the milieu of milieu, whose final four letters spell [lieu](https://www.merriam-webster.com/dictionary/lieu). Lieu is an archaic word meaning “place,” today used almost exclusively in “in lieu of” (= in the place of), as in “in lieu of cash a credit card is acceptable.” English users borrowed this lieu from Anglo-French—the French language used in medieval England—in the 13th century. It wasn’t until many centuries later, in the mid-1880s, that English adopted milieu from the French spoken in France. (In Old French, milieu meant “midst,” from mi, meaning “middle,” + lieu.) Both milieu and lieu have an ancestor in the Latin word for place, locus, as does many an English word, including [locate](https://www.merriam-webster.com/dictionary/locate).   ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[the setting in which people live or in which something occurs]]></merriam:shortdef></item><item><guid>bcca0de1-58e2-451f-84fd-155e525236e4</guid><title><![CDATA[disparate]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/disparate-2026-10-26]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 26, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>disparate</strong> &#149; \DISS-puh-rut\&nbsp; &#149; <em>adjective</em><br />
+    <p>Disparate things are noticeably distinct from one another in quality or character. <em>Disparate</em> can also describe something that contains or is made up of fundamentally different and often incongruous elements.</p>
+
+<p>// The orchestral project joins <em>disparate</em> musical elements to create a truly original sound.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/disparate">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"Some of the spacious galleries feature a single artist ... one is devoted to murals, another to architecture, but many are organized by themes rather than genre, period, place or, and this is important, prestige. Thematic grouping of <em>disparate</em> work has become a popular, though not uncontroversial, trend." — Mary McNamara, <em>The Los Angeles Times</em>, 3 Sept. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>If you enjoy sorting different objects into separate categories, you're well prepared to understand the origins of <em>disparate</em>. The word, which first appeared in English in the 16th century, comes from the Latin verb <em>disparāre</em>, meaning "to divide, separate off, make different." <em>Disparāre</em>, in turn, comes from <em>parāre</em>, a verb meaning "to supply, provide, make ready or prepare." Other descendants of <em>parāre</em> in English include both <a href="https://www.merriam-webster.com/dictionary/separate"><em>separate</em></a> and <a href="https://www.merriam-webster.com/dictionary/prepare"><em>prepare</em></a>, as well as <a href="https://www.merriam-webster.com/dictionary/repair#h1"><em>repair</em></a>, <a href="https://www.merriam-webster.com/dictionary/apparatus"><em>apparatus</em></a>, and even the pugnacious <a href="https://www.merriam-webster.com/dictionary/vituperate"><em>vituperate</em></a> ("to criticize harshly and usually publicly").</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/6fa0fb4e-eb52-4956-a1d1-94da94e667dd.mp3" length="3100000" type="audio/mpeg" /><pubDate>Mon, 26 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:54</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 26, 2026 is: disparate  \DISS-puh-rut\ adjective  
+Disparate things are noticeably distinct from one another in quality or character. Disparate can also describe something that contains or is made up of fundamentally different and often incongruous elements.
+
+// The orchestral project joins disparate musical elements to create a truly original sound.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/disparate)  
+  
+Examples:
+  
+"Some of the spacious galleries feature a single artist ... one is devoted to murals, another to architecture, but many are organized by themes rather than genre, period, place or, and this is important, prestige. Thematic grouping of disparate work has become a popular, though not uncontroversial, trend." — Mary McNamara, The Los Angeles Times, 3 Sept. 2026   
+  
+Did you know?  
+   
+If you enjoy sorting different objects into separate categories, you're well prepared to understand the origins of disparate. The word, which first appeared in English in the 16th century, comes from the Latin verb disparāre, meaning "to divide, separate off, make different." Disparāre, in turn, comes from parāre, a verb meaning "to supply, provide, make ready or prepare." Other descendants of parāre in English include both [separate](https://www.merriam-webster.com/dictionary/separate) and [prepare](https://www.merriam-webster.com/dictionary/prepare), as well as [repair](https://www.merriam-webster.com/dictionary/repair#h1), [apparatus](https://www.merriam-webster.com/dictionary/apparatus), and even the pugnacious [vituperate](https://www.merriam-webster.com/dictionary/vituperate) ("to criticize harshly and usually publicly").  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[different from each other]]></merriam:shortdef></item><item><guid>c5a7258b-1000-46a8-8730-930207d50dc6</guid><title><![CDATA[emissary]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/emissary-2026-10-25]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 25, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>emissary</strong> &#149; \EM-uh-sair-ee\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Emissary</em> refers to a person who is sent on a mission to represent another person or organization.</p>
+
+<p>// <em>Emissaries</em> from the government are trying to negotiate a settlement. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/emissary">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“Brian [Jones] had enjoyed being in control of the band. He’d arranged their gigs, negotiated their deals, served as their spokesman; he was their <em>emissary</em> with the press, making regular visits to <em>Record Mirror</em> and <em>Melody Maker</em>.” — Bob Spitz, <em>The Rolling Stones: The Biography</em>, 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>If you’re a big cheese or big kahuna, you may often find yourself too crunched for time to meet face-to-face with your fellow bigwigs, let alone the hoi polloi. In such cases, a good solution is to send out an emissary, someone to act as your representative and shake the necessary hands, grease the necessary palms, etc. The operative phrase here is “send out”; <em>emissary</em> comes from Latin <em>emittere</em>, meaning “to send out.” When <em>emissary</em> was first adopted in the early 17th century, it typically emitted bad vibes (<em>emit</em> also hails from <em>emittere</em>), carrying the implication that the business of an emissary was dishonest or corrupt. But today, that connotation has faded completely, and emissaries are those simply sent to act on someone's behalf. </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/8146a4ba-fad0-465d-b174-7b6dc9c2a5f4.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sun, 25 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:55</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 25, 2026 is: emissary  \EM-uh-sair-ee\ noun  
+Emissary refers to a person who is sent on a mission to represent another person or organization.
+
+// Emissaries from the government are trying to negotiate a settlement. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/emissary)
+  
+  
+Examples:
+  
+“Brian [Jones] had enjoyed being in control of the band. He’d arranged their gigs, negotiated their deals, served as their spokesman; he was their emissary with the press, making regular visits to Record Mirror and Melody Maker.” — Bob Spitz, The Rolling Stones: The Biography, 2026  
+  
+Did you know?  
+   
+If you’re a big cheese or big kahuna, you may often find yourself too crunched for time to meet face-to-face with your fellow bigwigs, let alone the hoi polloi. In such cases, a good solution is to send out an emissary, someone to act as your representative and shake the necessary hands, grease the necessary palms, etc. The operative phrase here is “send out”; emissary comes from Latin emittere, meaning “to send out.” When emissary was first adopted in the early 17th century, it typically emitted bad vibes (emit also hails from emittere), carrying the implication that the business of an emissary was dishonest or corrupt. But today, that connotation has faded completely, and emissaries are those simply sent to act on someone's behalf.   ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[a person sent to represent another person or organization]]></merriam:shortdef></item><item><guid>ef396b4b-3b92-4ae9-88d4-8f15be660f8b</guid><title><![CDATA[puissant]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/puissant-2026-10-24]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 24, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>puissant</strong> &#149; \PWISS-unt\&nbsp; &#149; <em>adjective</em><br />
+    <p><em>Puissant</em> is a synonym of <a href="https://www.merriam-webster.com/dictionary/powerful"><em>powerful</em></a> used to describe something with <a href="https://www.merriam-webster.com/dictionary/puissance"><em>puissance</em></a>—that is, strength or power.</p>
+
+<p>// The creatures in her fantasy novel are wielders of <em>puissant</em> magic, able to strike down enemies by harnessing the power of weather phenomena like lightning and tornadoes. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/puissant">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“The show is light on tech, but the accompanying images … pour through as addendums to Felder's <em>puissant</em> passion of Liszt's Liebesträume or Beethoven's Für Elise and land with great effect.” — David John Chávez, <em>The Mercury News</em> (San Jose, California), 1 Feb. 2026 </p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p><em>Puissant</em> has some powerful ties to some more commonplace English words. Although <em>puissant</em> has a considerably fancier feel than <a href="https://www.merriam-webster.com/dictionary/power"><em>power</em></a> and <a href="https://www.merriam-webster.com/dictionary/potent"><em>potent</em></a>, all three words share the same Latin ancestor: <em>posse</em>, a verb meaning “to be able.” <em>Potent</em> came from <em>potent-</em>, <em>potens</em>, a form of <em>posse</em>. <em>Power</em> came to us by way of Anglo-French <em>poer</em>, which itself comes from an alteration of <em>posse</em>. From <em>poer</em> also came the Anglo-French adjective <em>pussant</em>, meaning “able” or “powerful,” and English speakers borrowed that to form <em>puissant</em> in the 15th century.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/cfeb3cd1-f217-4219-803a-724fe071d73b.mp3" length="3100000" type="audio/mpeg" /><pubDate>Sat, 24 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:44</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 24, 2026 is: puissant  \PWISS-unt\ adjective  
+Puissant is a synonym of [powerful](https://www.merriam-webster.com/dictionary/powerful) used to describe something with [puissance](https://www.merriam-webster.com/dictionary/puissance)—that is, strength or power.
+
+// The creatures in her fantasy novel are wielders of puissant magic, able to strike down enemies by harnessing the power of weather phenomena like lightning and tornadoes. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/puissant)
+  
+  
+Examples:
+  
+“The show is light on tech, but the accompanying images … pour through as addendums to Felder's puissant passion of Liszt's Liebesträume or Beethoven's Für Elise and land with great effect.” — David John Chávez, The Mercury News (San Jose, California), 1 Feb. 2026   
+  
+Did you know?  
+   
+Puissant has some powerful ties to some more commonplace English words. Although puissant has a considerably fancier feel than [power](https://www.merriam-webster.com/dictionary/power) and [potent](https://www.merriam-webster.com/dictionary/potent), all three words share the same Latin ancestor: posse, a verb meaning “to be able.” Potent came from potent-, potens, a form of posse. Power came to us by way of Anglo-French poer, which itself comes from an alteration of posse. From poer also came the Anglo-French adjective pussant, meaning “able” or “powerful,” and English speakers borrowed that to form puissant in the 15th century.  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[powerful]]></merriam:shortdef></item><item><guid>6e5ad49a-83db-48ad-b27a-b8b667656a4f</guid><title><![CDATA[asunder]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/asunder-2026-10-23]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 23, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>asunder</strong> &#149; \uh-SUN-der\&nbsp; &#149; <em>adverb or adjective</em><br />
+    <p><em>Asunder</em> is most often used as an adverb—often with a verb such as <em>tear</em> or <em>rip</em>—to mean "apart" or "into pieces." It is more rarely used as an adjective meaning "apart from each other," as in "standing with legs wide asunder."</p>
+
+<p>// The park was torn <em>asunder</em> by yesterday's microburst, and many of its trails have been blocked by fallen trees. </p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/asunder">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>"We cannot see erosion but we know it happens. [Artist Harrison] Bowe's work is filled with hints of vastness, but he's also pointing to how water might carve a mountain <em>asunder</em>." — Andrew Harper, <em>Hobart Mercury</em> (Australia), 6 Dec. 2025</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>To get to the root of today’s word, it helps to take it apart and focus on the <em>sunder</em>. You see, <em>asunder</em> comes from the verb <a href="https://www.merriam-webster.com/dictionary/sunder"><em>sunder</em></a>, which means "to break apart" or "to become parted, disunited, or severed." Both words come from the Old English word <em>sundor</em>, meaning "apart." The adverbial "into parts" sense of <em>asunder</em> is often used in the phrase "tear asunder," which can be used both literally (as in "fabric torn asunder") and, more often, figuratively (as in "a community torn asunder by the dispute"). The adjectival "apart from each other" sense can be found in the phrase "poles asunder," used to describe two things that are as vastly far apart as the poles of the Earth. </p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/6c825a1d-8f11-4e2b-9a32-bd0e4818059f.mp3" length="3100000" type="audio/mpeg" /><pubDate>Fri, 23 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:54</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 23, 2026 is: asunder  \uh-SUN-der\ adverb or adjective  
+Asunder is most often used as an adverb—often with a verb such as tear or rip—to mean "apart" or "into pieces." It is more rarely used as an adjective meaning "apart from each other," as in "standing with legs wide asunder."
+
+// The park was torn asunder by yesterday's microburst, and many of its trails have been blocked by fallen trees. 
+
+[See the entry >](https://www.merriam-webster.com/dictionary/asunder)  
+  
+Examples:
+  
+"We cannot see erosion but we know it happens. [Artist Harrison] Bowe's work is filled with hints of vastness, but he's also pointing to how water might carve a mountain asunder." — Andrew Harper, Hobart Mercury (Australia), 6 Dec. 2025  
+  
+Did you know?  
+   
+To get to the root of today’s word, it helps to take it apart and focus on the sunder. You see, asunder comes from the verb [sunder](https://www.merriam-webster.com/dictionary/sunder), which means "to break apart" or "to become parted, disunited, or severed." Both words come from the Old English word sundor, meaning "apart." The adverbial "into parts" sense of asunder is often used in the phrase "tear asunder," which can be used both literally (as in "fabric torn asunder") and, more often, figuratively (as in "a community torn asunder by the dispute"). The adjectival "apart from each other" sense can be found in the phrase "poles asunder," used to describe two things that are as vastly far apart as the poles of the Earth.   ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[into parts]]></merriam:shortdef></item><item><guid>d046a06e-f734-4020-aa4d-bdddd7564209</guid><title><![CDATA[vocation]]></title><link><![CDATA[https://www.merriam-webster.com/word-of-the-day/vocation-2026-10-22]]></link><description><![CDATA[<font size="-1" face="arial, helvetica">
+  <p>
+    <strong>
+      <font color="#000066">Merriam-Webster's Word of the Day for October 22, 2026 is:</font>
+    </strong>
+  </p>
+  
+  <p>
+    <strong>vocation</strong> &#149; \voh-KAY-shun\&nbsp; &#149; <em>noun</em><br />
+    <p><em>Vocation</em> can refer simply to an occupation, or it can refer to a strong calling to pursue a particular kind of work or course of action. </p>
+
+<p>// Since he was a teenager, he knew that he would find his <em>vocation</em> in marine biology.</p>
+
+<p>// She is headed to medical school to pursue her <em>vocation</em> as a doctor.</p>
+
+<p><a href="https://www.merriam-webster.com/dictionary/vocation">See the entry ></a></p>
+  </p>
+  
+  <p>
+    <strong>Examples:</strong><br />
+    <p>“Through her education and her father’s encouragement, she had nurtured a <em>vocation</em> for literature and was determined to make a career for herself in the <em>bundan</em>, Japan’s literary elite …” — Bryan Karetnyk, introduction to <em>Troubled Waters</em> by Higuchi Ichiyō, 2026</p>
+  </p>
+  
+  <p>
+    <strong>Did you know?</strong><br />
+    <p>When <em>vocation</em> was first used in English in the 15th century it referred specifically to a summons from God to perform a particular task or function in life, especially a religious one. This meaning is no surprise given the word’s source: it comes from the Latin <em>vocation-</em>, <em>vocacio</em>, meaning “summons,” which in turn comes from <em>vocāre</em>, meaning “to call.”  <em>Vocation</em> also has a non-religious function in the English language as a word for the strong desire to do a certain kind of work, or as a word for the work itself, making <em>vocation</em> a synonym of the words <a href="https://www.merriam-webster.com/dictionary/calling"><em>calling</em></a> and <a href="https://www.merriam-webster.com/dictionary/occupation"><em>occupation</em></a>.</p>
+<br /><br />
+  </p>
+</font>]]></description><enclosure url="https://rss.art19.com/episodes/892f594a-82d3-4c6c-a239-4e35049b48e2.mp3" length="3100000" type="audio/mpeg" /><pubDate>Thu, 22 Oct 2026 01:00:01 -0400</pubDate><itunes:author>Merriam-Webster</itunes:author><itunes:duration>00:01:47</itunes:duration><itunes:summary><![CDATA[Merriam-Webster's Word of the Day for October 22, 2026 is: vocation  \voh-KAY-shun\ noun  
+Vocation can refer simply to an occupation, or it can refer to a strong calling to pursue a particular kind of work or course of action. 
+
+// Since he was a teenager, he knew that he would find his vocation in marine biology.
+
+// She is headed to medical school to pursue her vocation as a doctor.
+
+[See the entry >](https://www.merriam-webster.com/dictionary/vocation)  
+  
+Examples:
+  
+“Through her education and her father’s encouragement, she had nurtured a vocation for literature and was determined to make a career for herself in the bundan, Japan’s literary elite …” — Bryan Karetnyk, introduction to Troubled Waters by Higuchi Ichiyō, 2026  
+  
+Did you know?  
+   
+When vocation was first used in English in the 15th century it referred specifically to a summons from God to perform a particular task or function in life, especially a religious one. This meaning is no surprise given the word’s source: it comes from the Latin vocation-, vocacio, meaning “summons,” which in turn comes from vocāre, meaning “to call.”  Vocation also has a non-religious function in the English language as a word for the strong desire to do a certain kind of work, or as a word for the work itself, making vocation a synonym of the words [calling](https://www.merriam-webster.com/dictionary/calling) and [occupation](https://www.merriam-webster.com/dictionary/occupation).  ]]></itunes:summary><itunes:keywords>words, word, word of the day, word a day, English, language, vocabulary, dictionary, Webster, Merriam, Merriam-Webster</itunes:keywords><merriam:shortdef><![CDATA[an occupation, or a calling to do a certain kind of work]]></merriam:shortdef></item></channel></rss>

@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        var idqCookieExpiryTimeMin = 1440; 
+    </script>
+    
+    <script>
+        var netInsightDto = {"oisbn":"9780198605553","isbn":null,"doi":null,"siqItemTitle":null,"siqItemPubDate":null,"siqAccessType":"Open","keyword":null,"authnips":null,"supplier_tag":"IDM","siteid":"OED","authzrequired":false,"event_type":"other","record_id":null,"object_type":null,"result_click":false,"num_results":null,"turnaway_id":null,"account_id":null,"account_list":null,"authentication_method":null};
+        if (netInsightDto != null ) {
+        var cleanNetInsightDto = Object.fromEntries(Object.entries(netInsightDto).filter(([name, value]) => value !== null)
+        .map(function([name, value]) {
+            if(name.toLowerCase().search("date") !== -1)
+                return [name, new Date(value).toISOString()];
+            else
+                return [name, value];
+        }));
+        
+        var NTPT_PGEXTRA = Object.keys(cleanNetInsightDto).map(key => key + '=' + encodeURIComponent(cleanNetInsightDto[key])).join('&');
+        }
+        
+
+        var debounceTimer = 500; 
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push(cleanNetInsightDto);
+    </script>
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W55924M');
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8"/>
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+    <meta content="width=device-width; initial-scale=1.0;" name="viewport"/>
+
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="The OED is the definitive record of the English language, featuring 600,000 words, 3 million quotations, and over 1,000 years of English.">
+    <title>Oxford English Dictionary</title>
+    <link rel="canonical" href="https://www.oed.com/"/>
+
+    <!--    Define the page logo -->
+    <link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" type="image/png" href="/images/icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="icon" href="/images/icons/favicon.ico">
+    <link rel="manifest" href="/images/icons/manifest.json">
+
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <link
+            href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/oup.css?version=1.77" type="text/css"/>
+    <script src="/js/jquery-3.7.1.min.js?version=1.77"></script>
+    <script src="/js/js.cookie.min.js?version=1.77"></script>
+    <script src="/js/chart-3.8.0.js?version=1.77"></script>
+    <script src="/js/popper.min.js?version=1.77"></script>
+    <script src="/js/tippy-bundle.umd.min.js?version=1.77"></script>
+    <script src="/js/main.js?version=1.77"></script>
+    <script src="/js/api.js?version=1.77"></script>
+    <script src="/js/idm.js?version=1.77"></script>
+    <script src="/js/common.js?version=1.77"></script>
+</head>
+
+<body id="homePage">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src=https://www.googletagmanager.com/ns.html?id=GTM-W55924M
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="skipToMainContainer" class="skipToMainContainerHidden">
+	<div class="wrapper">
+	        <a id="skipToMainLink" href="javascript:{}" tabindex="1">Skip to main content</a>
+	</div>
+</div>
+<header class="siteHeader">
+    <div class="wrapper">
+        <div class="siteName">
+    <img class="oxfordSolus" alt="Oxford" src="/images/oxford.svg" />
+</div>
+        <div class="headerRight">
+    
+      <a class="informationMenuLink" href="/information/">
+        <img src="/images/info-white.svg" alt="More informations" />
+    </button>
+      </a>
+  
+    <div class="accountButtonAndStatus">
+        <button aria-expanded="false" aria-describedby="signedInAs" class="modalTrigger accountToggleButton" data-trigger-for="accountModal" type="button"><img alt="account" src="/images/account-white.svg" /></button>
+        
+    </div>
+    
+    <a class="advancedSearchLink" href="/search/advanced/Entries">Advanced search</a>
+
+    
+    <button id="AIOverlay" aria-expanded="false" class="modalTrigger" data-trigger-for="modalAI" aria-describedby="AISearchAssistantLink">
+        <img class="icon" src="/images/spark-white.svg" alt="AI Search Assistant"/>
+        <span id="AISearchAssistantLink">AI Search Assistant</span>
+    </button>
+
+</div>
+    </div>
+</header>
+
+<main class="main home">
+    <div class="row searchRow">
+        <div class="wrapper">
+            <div class="homeSearch">
+                <h1 class="visually-hidden">Oxford English Dictionary</h1>
+                <img alt="Oxford English Dictionary" class="siteLogo siteLogo1" src="images/logo3.svg"/>
+                <form class="siteSearchBox" id="search-form" method="GET" action="/search/dictionary/"
+                      role="search">
+                    <div class="scope">
+                        <select aria-label="search scope" class="autocompleteScope" id="search-scope" name="scope">
+                            <option value="Entries">Dictionary</option>
+                            <option value="HistoricalThesaurus">Historical Thesaurus</option>
+                        </select>
+                    </div>
+                    <div class="searchInputAndButton">
+                        <input aria-label="search query" size="1" autocomplete="off" id="query" name="q" type="text"/>
+                        <button class="submitSearch" value="search">
+                            <img alt="search" src="images/search.svg"/>
+                        </button>
+                        <div>
+    <div class="headerAutocomplete" id="autocompleteModal" style="display: none;">
+        <div class="autocompleteResultsDictionary autocompleteResults">
+            <div class="autocompleteType autocompleteWordsAndPhrases">
+                <!--<h3>Words and phrases</h3>-->
+                <ul id="dictionary-autocomplete">
+                </ul>
+            </div>
+        </div>
+        <div class="autocompleteResultsThesaurus autocompleteResults" style="display: none;">
+            <div class="autocompleteType autocompleteWords">
+                <!--<h3>Words</h3>-->
+                <ul id="thesaurus-autocomplete">
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="row sitePurpose">
+    <div class="wrapper">
+      <h2>The historical English dictionary</h2>
+      <p>An unsurpassed guide for researchers in any discipline to the meaning, history, and usage of over 500,000 words and phrases across the English-speaking world.</p>
+      <a href="/information/about-the-oed" class="callToAction">Find out more about OED</a>
+    </div>
+  </div>
+    
+        
+            
+  <div class="row featuresRow">
+    <div class="wrapper">
+      
+          
+            <div class="feature">
+  <h2>Understanding entries</h2>
+  <p><p>Glossaries, abbreviations, pronunciation guides, frequency, symbols, and more</p>
+</p>
+  <a href="/information/understanding-entries/" class="callToAction">Explore resources</a>
+  
+  
+</div>
+          
+
+          <!-- Custom panel between panel 1 and 3 -->
+          
+            <div class="feature">
+              <h2>Historical Thesaurus</h2>
+              <p>Explore different words used for the same concept or meaning over time</p>
+              <a href="/thesaurus/start" class="callToAction">About the thesaurus</a>
+            </div>
+          
+      
+          
+            <div class="feature">
+  <h2>Personal account</h2>
+  <p><p>Change display settings, save searches and purchase subscriptions</p>
+</p>
+  
+  <a href="/information/get-help-with-access/individual-account/" class="callToAction">Account features</a>
+  
+</div>
+          
+
+          <!-- Custom panel between panel 1 and 3 -->
+          
+      
+          
+
+          <!-- Custom panel between panel 1 and 3 -->
+          
+      
+    </div>
+  </div>
+
+        
+        
+    
+    <div class="row wordy">
+        <div class="wrapper">
+            <div class="recent">
+    <h2>Recently added</h2>
+    <ul>
+      <li>
+        <a href="/dictionary/kenyan-english_adj">Kenyan English</a>
+      </li>
+      <li>
+        <a href="/dictionary/cafe-con-leche_n">café con leche</a>
+      </li>
+      <li>
+        <a href="/dictionary/bahraini_n">Bahraini</a>
+      </li>
+      <li>
+        <a href="/dictionary/bwbach_n">Bwbach</a>
+      </li>
+      <li>
+        <a href="/dictionary/jablesse_n">jablesse</a>
+      </li>
+      <li>
+        <a href="/dictionary/douen_n">douen</a>
+      </li>
+      <li>
+        <a href="/dictionary/senior-most_adj">senior-most</a>
+      </li>
+      <li>
+        <a href="/dictionary/haunted-house_n">haunted house</a>
+      </li>
+      <li>
+        <a href="/dictionary/gi_n2">gi</a>
+      </li>
+      <li>
+        <a href="/dictionary/cafe-culture_n">café culture</a>
+      </li>
+      <li>
+        <a href="/dictionary/cafe-americano_n">café Americano</a>
+      </li>
+      <li>
+        <a href="/dictionary/stone-row_n">stone row</a>
+      </li>
+      <li>
+        <a href="/dictionary/hospo_n">hospo</a>
+      </li>
+      <li>
+        <a href="/dictionary/twerpy_adj">twerpy</a>
+      </li>
+      <li>
+        <a href="/dictionary/caps-lock_n">caps lock</a>
+      </li>
+      <li>
+        <a href="/dictionary/christo-fascist_n">Christo-fascist</a>
+      </li>
+    </ul>
+  </div>
+            <div class="wotd">
+    <h2>Word of the day</h2>
+    <h3>
+      <a href="/dictionary/delitescency_n">delitescency</a>
+    </h3>
+    <div class="wotdPos">noun</div>
+    <div class="wotdDef">The state or condition of being hidden; concealment; seclusion.</div>
+    <!-- <button class="modal-trigger wotdButton solidButton" data-trigger-for="wotdModal" type="button" aria-expanded="false">Sign up for Word of the Day</button> -->
+  </div>
+            <div class="trending">
+    <h2>Recently updated</h2>
+    <ul>
+      <li>
+        <a href="/dictionary/cafeteria_n">cafeteria</a>
+      </li>
+      <li>
+        <a href="/dictionary/declare_v">declare</a>
+      </li>
+      <li>
+        <a href="/dictionary/finger-licking_adj">finger-licking</a>
+      </li>
+      <li>
+        <a href="/dictionary/twerp_n">twerp</a>
+      </li>
+      <li>
+        <a href="/dictionary/stone-jug_n">stone jug</a>
+      </li>
+      <li>
+        <a href="/dictionary/fantasied_adj">fantasied</a>
+      </li>
+      <li>
+        <a href="/dictionary/stone_n">stone</a>
+      </li>
+      <li>
+        <a href="/dictionary/emergency_n">emergency</a>
+      </li>
+      <li>
+        <a href="/dictionary/flummery_n">flummery</a>
+      </li>
+      <li>
+        <a href="/dictionary/fosterer_n">fosterer</a>
+      </li>
+      <li>
+        <a href="/dictionary/conclusive_adj">conclusive</a>
+      </li>
+      <li>
+        <a href="/dictionary/doubtful_adj">doubtful</a>
+      </li>
+      <li>
+        <a href="/dictionary/leeward_n">leeward</a>
+      </li>
+      <li>
+        <a href="/dictionary/fantasy_n">fantasy</a>
+      </li>
+      <li>
+        <a href="/dictionary/foster_v">foster</a>
+      </li>
+      <li>
+        <a href="/dictionary/sugar-cake_n">sugar cake</a>
+      </li>
+    </ul>
+  </div>
+        </div>
+    </div>
+    
+        
+            
+    
+        <div class="row rowForEditableContentPanels">
+            <div class="wrapper">
+                <div class="editableContentPanels">
+                    
+    <a href="/discover/word-stories" class="contentPanel">
+        <div class="contentPanelHead">
+            <img src="https://s3.eu-west-1.amazonaws.com/com.idmgroup.oed100.sounds.prod/wp-content/uploads/Book-books-information-reading-355x160.jpg" alt="A pile of books"></img>
+        </div>
+        <div class="contentPanelBody">
+            <h2>Word stories</h2>
+            <p>Read our collection of word stories detailing the etymology and semantic development of a wide range of words, including &#8216;dungarees&#8217;, &#8216;codswallop&#8217;, and &#8216;witch&#8217;.</p>
+
+        </div>
+    </a>
+
+                
+            
+        
+
+    
+        
+            
+                
+                    
+    <a href="/discover/word-lists" class="contentPanel">
+        <div class="contentPanelHead">
+            <img src="https://s3.eu-west-1.amazonaws.com/com.idmgroup.oed100.sounds.prod/wp-content/uploads/Antedatings2-scaled-e1688135294767-355x160.jpg" alt="A wooden tray with letters"></img>
+        </div>
+        <div class="contentPanelBody">
+            <h2>Word lists</h2>
+            <p>Access our word lists and commentaries on an array of fascinating topics, from film-based coinages to Tex-Mex terms.</p>
+
+        </div>
+    </a>
+
+                
+            
+        
+
+    
+        
+            
+                
+                    
+    <a href="/discover/world-englishes" class="contentPanel">
+        <div class="contentPanelHead">
+            <img src="https://s3.eu-west-1.amazonaws.com/com.idmgroup.oed100.sounds.prod/wp-content/uploads/jay-wennington-LBLwrhwOe28-unsplash-355x160.jpg" alt="A close up of a globe"></img>
+        </div>
+        <div class="contentPanelBody">
+            <h2>World Englishes</h2>
+            <p>Explore our World Englishes hub and access our resources on the varieties of English spoken throughout the world by people of diverse cultural backgrounds.</p>
+
+        </div>
+    </a>
+
+                
+            
+        
+
+    
+        
+            
+                
+                    
+    <a href="/discover/history-of-english" class="contentPanel">
+        <div class="contentPanelHead">
+            <img src="https://s3.eu-west-1.amazonaws.com/com.idmgroup.oed100.sounds.prod/wp-content/uploads/hourglass-e1688127290416-355x160.jpg" alt="An hourglass on a table"></img>
+        </div>
+        <div class="contentPanelBody">
+            <h2>History of English</h2>
+            <p>Here you can find a series of commentaries on the History of English, charting the history of the English language from Old English to the present day.</p>
+
+        </div>
+    </a>
+
+                </div>
+            </div>
+        </div>
+
+        
+        
+    
+</main>
+<!--End of Main-->
+<footer>
+    <div class="modal hidden" id="modalAI" role="dialog" aria-modal="true" aria-labelledby="modalAITitle">
+        <div class="modalInner">
+            <div class="modalHead">
+                <h2 id="modalAITitle">Welcome to the OED AI Assistant</h2>
+                <button type="button" class="modalClose"><img src="/images/close.svg" alt="Close modal"/></button>
+            </div>
+            <div class="modalBody">
+                <div id="modal-body">
+                    <div id="startMessage">
+                        <p>The AI Search Assistant is designed to construct complex queries and provide links to the results.</p>
+                        <p class="" >It can also assist in finding information about the OED platform itself. The assistant does not engage in conversation or generate answers independently, but it effectively processes advanced search requests.</p>
+                        <p class="try-asking"><b>Try asking:</b></p>
+                        <ul class="try-asking-list">
+                            <li>Which words in English are borrowed from French?</li>
+                            <li>Which words were first used by Charles Dickens?</li>
+                            <li>How are words added to the dictionary?</li>
+                        </ul>
+                        <p>For looking up a specific word, it is recommended to use the search bar located at the top of every OED page.</p>
+                        <p><b>Please note:</b> The number of queries that can be submitted to the assistant per day is limited to no more than 10 requests.</p>
+                    </div>
+                    <div id="responseContent"></div>
+                    <div id="aiLoading" class="ai-loading" aria-live="polite" tabindex="-1" hidden>
+                        <span class="ai-ellipsis"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="modalHead bottomSearch">
+                <div class="modalSearchBar">
+                    <form id="aiForm" class="inputArea">
+                        <label for="searchInput" class="sr-only"></label>
+                        <div class="searchBar">
+                            <div class="inputBar">
+                                <input type="text" id="searchInput" placeholder="Type your message here..." required/>
+                                <button id="clearSearch" aria-label="Clear search">
+                                    <img src="/images/clear.svg" alt="Clear search"/>
+                                </button>
+                            </div>
+                            <button id="searchButton" type="submit" aria-label="Search">
+                                <span>Search</span>
+                                <img src="/images/search-white.svg" alt="Search" />
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+      <div class="footerMain">
+        <div class="footerLinks">
+          <div>
+            <ul>
+              <li><a href="/information/about-the-oed">About OED</a></li>
+              <li><a href="/thesaurus/start">Historical Thesaurus</a></li>
+              <li><a href="/information/editorial-policy">Editorial policy</a></li>
+              <li><a href="/information/updates">Updates</a></li>
+              <li><a href="/information/institutional-account-management">Institutional account management</a></li>
+            </ul>
+          </div>
+          <div>
+            <ul>
+              <li><a href="/information/using-the-oed">How to use the OED</a></li>
+              <li><a href="/information/purchasing">Purchasing</a></li>
+              <li><a href="/information/get-help-with-access">Help with access</a></li>
+              <li><a href="/discover/world-englishes">World Englishes</a></li>
+              <li><a href="/information/using-the-oed/contributing-to-the-oed">Contribute</a></li>
+            </ul>
+          </div>
+          <div>
+            <ul>
+              <li><a href="/information/about-the-oed/accessibility">Accessibility</a></li>
+              <li><a href="/information/contact-us">Contact us</a></li>
+              <li><a href="/information/using-the-oed/upcoming-events">Upcoming events</a></li>
+              <li><a href="/information/using-the-oed/academic-case-studies">Case studies</a></li>
+              <li><a href="https://global.oup.com/academic/contactus/publicity-uk">Media enquiries</a></li>
+            </ul>
+          </div>
+
+          <div>
+            <ul>
+              <li><a href="https://global.oup.com/">Oxford University Press</a></li>
+              <li><a href="https://languages.oup.com">Oxford Languages</a></li>
+              <li><a href="https://academic.oup.com/">Oxford Academic</a></li>
+              <li><a href="https://www.oxforddnb.com/">Oxford Dictionary of National Biography</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footerLogo">
+          <p>
+            Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide
+          </p>
+          <img class="oupLogo" src="/images/oup-logo-white.svg" alt="Oxford University Press" />
+        </div>
+      </div>
+
+      <div class="footerFoot">
+        <ul>
+          <li>
+            <button type="button" id="cookie-settings-button" aria-expanded="false">
+              Cookie settings
+            </button>
+          </li>
+          <li><a href="https://global.oup.com/cookiepolicy">Cookie policy</a></li>
+          <li><a href="https://global.oup.com/privacy">Privacy policy</a></li>
+          <li><a href="/information/about-the-oed/terms-of-use-for-oxford-english-dictionary-oed-ai-features">AI terms of use</a></li>
+          <li><a href="/information/about-the-oed/legal-notice">Legal notice</a></li>
+        </ul>
+        <span class="copyright">Copyright &copy; 2026 Oxford University Press</span>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+    <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+    <script>
+      // With the above scripts loaded, you can call `tippy()` with a CSS
+      // selector and a `content` prop:
+
+      try {
+        const template = document.getElementById("template")
+        tippy(".xr", {
+          content: template.innerHTML,
+          allowHTML: true,
+          delay: 625,
+          // placement: 'top-start',
+          animation: "shift-away",
+          inlinePositioning: true,
+        })
+      } catch (e) {}
+    </script>
+  </footer>
+
+<div aria-labelledby="accountModalTitle" aria-modal="true" class="modal hidden" id="accountModal"
+     role="dialog">
+    <div class="modalInner">
+        <div class="modalHead">
+            <h2 id="accountModalTitle">Sign in</h2>
+            <button class="modalClose" type="button"><img alt="Close modal" src="/images/close.svg"></button>
+        </div>
+        <div class="modalBody">
+                <div class="accounts">
+                    <div class="accountsLeft">
+                        
+    <div class="accountsLeft">
+        <div class="personalAccountSignIn">
+            <h2>Personal account</h2>
+            <ul class="bullet">
+                <li>Access or purchase personal subscriptions</li>
+                <li>Get our newsletter</li>
+                <li>Save searches</li>
+                <li>Set display preferences</li>
+            </ul>
+            <a class="callToAction personalAccountSignInButton"
+               href="/login?provider=personal&amp;login_state=loginform&amp;prompt=login&amp;view_name=fullscreen&amp;ref=http://www.oed.com/%3Ftl%3Dtrue">Sign
+                in</a>
+            <a href="/register">Register</a>
+        </div>
+    </div>
+    
+
+                    </div>
+                    <div class="accountsRight">
+                        
+    <div class="institutionalAccountSignIn">
+        <h2>Institutional access</h2>
+        <div>
+            <a class="callToAction institutionalAccountSignInButton"
+               href="/login?provider=shibbolethInstitutional&amp;ref=http://www.oed.com/%3Ftl%3Dtrue">Sign
+                in through your
+                institution</a>
+            <p>
+                <a      class="libraryCardSignInButton"
+                        href="/login?provider=institutionalnoshib&amp;login_state=librarycard&amp;prompt=login&amp;view_name=fullscreen&amp;ref=http://www.oed.com/%3Ftl%3Dtrue">Sign
+                    in with
+                    library
+                    card</a>
+            </p>
+            <p>
+                <a      class="basicSignInButton"
+                        href="/login?provider=institutionalnoshib&amp;login_state=loginform&amp;prompt=login&amp;view_name=fullscreen&amp;ref=http://www.oed.com/%3Ftl%3Dtrue">Sign
+                    in with
+                    username
+                    / password</a></p>
+            <p><a href="/information/recommend">Recommend to your librarian</a></p>
+        </div>
+    </div>
+    
+        
+    <div class="administratorAccountSignIn">
+        <h2>Institutional account management</h2>
+        <p><a href="https://academic.oup.com/my-account/institutional-settings">Sign in as administrator on Oxford Academic</a></p>
+    </div>
+
+    
+
+                    </div>
+                    
+                </div>
+                                
+            
+        </div>
+      </div>
+    </div>
+<div class="modal hidden" id="wotdModal" role="dialog" aria-modal="true" aria-labelledby="wotdModalTitle">
+        <div class="modalInner">
+            <div class="modalHead">
+                <h2 id="wotdModalTitle">Word of the Day</h2>
+                <button type="button" class="modalClose">
+                    <img src="/images/close.svg" alt="Close modal" />
+                </button>
+            </div>
+            <div class="modalBody">
+                <div class="wotdIntro">
+                    <p>Sign up to receive the Oxford English Dictionary Word of the Day email every day.</p>
+                    <p>
+                        Our <a href="/privacy-policy">Privacy Policy</a> sets out how Oxford University Press handles your personal information, and your rights to object to your personal information being used for marketing to you or being processed as part of our business activities.
+                    </p>
+                    <p>We will only use your personal information for providing you with this service.</p>
+                </div>
+                <form action="#">
+                    <div class="formRow">
+                        <label for="wotdModal-email">Email address <span class="required">(required)</span></label>
+                        <input type="text"id="wotdModal-email"/>
+                    </div>
+                    <div class="formRow">
+                        <label for="wotdModal-firstName">First name <span class="required">(required)</span></label>
+                        <input type="text"id="wotdModal-firstName"/>
+                    </div>
+                    <div class="formRow">
+                        <label for="wotdModal-lastName">Last name <span class="required">(required)</span></label>
+                        <input type="text"id="wotdModal-lastName"/>
+                    </div>
+                    <div class="formRow">
+                        <button type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+<!-- BEGIN: Scholarly iQ Page Tag -->
+<!-- Copyright 2001-2010, IBM Corporation All rights reserved. -->
+<script language="JavaScript" src="https://ouptag.scholarlyiq.com/ntpagetag.js"></script>
+<noscript><img src="https://ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0"
+               vspace="0" alt=""></noscript>
+<!-- END: Scholarly iQ Page Tag -->
+</html>
